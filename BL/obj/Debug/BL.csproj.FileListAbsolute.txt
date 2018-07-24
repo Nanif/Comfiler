@@ -1,0 +1,5 @@
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 9\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 11\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+D:\000FINAL_PRIJECT\copy 11\BL\obj\Debug\BL.csprojAssemblyReference.cache
+D:\000FINAL_PRIJECT\copy 11\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+F:\000FINAL_PRIJECT\copy 11\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache

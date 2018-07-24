@@ -1,0 +1,1056 @@
+C:\Users\talmid2\Desktop\Comfiler_Project\SITE\bin\roslyn\csc.exe
+C:\Users\talmid2\Desktop\Comfiler_Project\SITE\bin\roslyn\csc.exe.config
+C:\Users\talmid2\Desktop\Comfiler_Project\SITE\bin\roslyn\csc.rsp
+C:\Users\talmid2\Desktop\Comfiler_Project\SITE\bin\roslyn\csi.exe
+C:\Users\talmid2\Desktop\Comfiler_Project\SITE\bin\roslyn\csi.exe.config
+C:\Users\talmid2\Desktop\Comfiler_Project\SITE\bin\roslyn\csi.rsp
+C:\Users\talmid2\Desktop\Comfiler_Project\SITE\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\talmid2\Desktop\Comfiler_Project\SITE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\talmid2\Desktop\Comfiler_Project\SITE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\talmid2\Desktop\Comfiler_Project\SITE\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\talmid2\Desktop\Comfiler_Project\SITE\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\talmid2\Desktop\Comfiler_Project\SITE\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\talmid2\Desktop\Comfiler_Project\SITE\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\talmid2\Desktop\Comfiler_Project\SITE\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\talmid2\Desktop\Comfiler_Project\SITE\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\talmid2\Desktop\Comfiler_Project\SITE\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\talmid2\Desktop\Comfiler_Project\SITE\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\talmid2\Desktop\Comfiler_Project\SITE\bin\roslyn\System.AppContext.dll
+C:\Users\talmid2\Desktop\Comfiler_Project\SITE\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\talmid2\Desktop\Comfiler_Project\SITE\bin\roslyn\System.Console.dll
+C:\Users\talmid2\Desktop\Comfiler_Project\SITE\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\talmid2\Desktop\Comfiler_Project\SITE\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\talmid2\Desktop\Comfiler_Project\SITE\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\talmid2\Desktop\Comfiler_Project\SITE\bin\roslyn\System.IO.Compression.dll
+C:\Users\talmid2\Desktop\Comfiler_Project\SITE\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\talmid2\Desktop\Comfiler_Project\SITE\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\talmid2\Desktop\Comfiler_Project\SITE\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\talmid2\Desktop\Comfiler_Project\SITE\bin\roslyn\System.IO.Pipes.dll
+C:\Users\talmid2\Desktop\Comfiler_Project\SITE\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\talmid2\Desktop\Comfiler_Project\SITE\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\talmid2\Desktop\Comfiler_Project\SITE\bin\roslyn\System.Security.Claims.dll
+C:\Users\talmid2\Desktop\Comfiler_Project\SITE\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\talmid2\Desktop\Comfiler_Project\SITE\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\talmid2\Desktop\Comfiler_Project\SITE\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\talmid2\Desktop\Comfiler_Project\SITE\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\talmid2\Desktop\Comfiler_Project\SITE\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\talmid2\Desktop\Comfiler_Project\SITE\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\talmid2\Desktop\Comfiler_Project\SITE\bin\roslyn\System.Threading.Thread.dll
+C:\Users\talmid2\Desktop\Comfiler_Project\SITE\bin\roslyn\System.ValueTuple.dll
+C:\Users\talmid2\Desktop\Comfiler_Project\SITE\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\talmid2\Desktop\Comfiler_Project\SITE\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\talmid2\Desktop\Comfiler_Project\SITE\bin\roslyn\System.Xml.XPath.dll
+C:\Users\talmid2\Desktop\Comfiler_Project\SITE\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\talmid2\Desktop\Comfiler_Project\SITE\bin\roslyn\vbc.exe
+C:\Users\talmid2\Desktop\Comfiler_Project\SITE\bin\roslyn\vbc.exe.config
+C:\Users\talmid2\Desktop\Comfiler_Project\SITE\bin\roslyn\vbc.rsp
+C:\Users\talmid2\Desktop\Comfiler_Project\SITE\bin\roslyn\VBCSCompiler.exe
+C:\Users\talmid2\Desktop\Comfiler_Project\SITE\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\talmid2\Desktop\Comfiler_Project\SITE\bin\SITE.dll.config
+C:\Users\talmid2\Desktop\Comfiler_Project\SITE\bin\SITE.dll
+C:\Users\talmid2\Desktop\Comfiler_Project\SITE\bin\SITE.pdb
+C:\Users\talmid2\Desktop\Comfiler_Project\SITE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\talmid2\Desktop\Comfiler_Project\SITE\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\talmid2\Desktop\Comfiler_Project\SITE\bin\System.Web.Helpers.dll
+C:\Users\talmid2\Desktop\Comfiler_Project\SITE\bin\System.Web.Mvc.dll
+C:\Users\talmid2\Desktop\Comfiler_Project\SITE\bin\System.Web.Razor.dll
+C:\Users\talmid2\Desktop\Comfiler_Project\SITE\bin\System.Web.Webpages.Deployment.dll
+C:\Users\talmid2\Desktop\Comfiler_Project\SITE\bin\System.Web.Webpages.dll
+C:\Users\talmid2\Desktop\Comfiler_Project\SITE\bin\System.Web.Webpages.Razor.dll
+C:\Users\talmid2\Desktop\Comfiler_Project\SITE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\talmid2\Desktop\Comfiler_Project\SITE\bin\System.Web.Razor.xml
+C:\Users\talmid2\Desktop\Comfiler_Project\SITE\bin\System.Web.Webpages.xml
+C:\Users\talmid2\Desktop\Comfiler_Project\SITE\bin\System.Web.Webpages.Deployment.xml
+C:\Users\talmid2\Desktop\Comfiler_Project\SITE\bin\System.Web.Webpages.Razor.xml
+C:\Users\talmid2\Desktop\Comfiler_Project\SITE\bin\System.Web.Helpers.xml
+C:\Users\talmid2\Desktop\Comfiler_Project\SITE\bin\System.Web.Mvc.xml
+C:\Users\talmid2\Desktop\Comfiler_Project\SITE\obj\Debug\SITE.csprojResolveAssemblyReference.cache
+C:\Users\talmid2\Desktop\Comfiler_Project\SITE\obj\Debug\SITE.csproj.CoreCompileInputs.cache
+C:\Users\talmid2\Desktop\Comfiler_Project\SITE\obj\Debug\SITE.dll
+C:\Users\talmid2\Desktop\Comfiler_Project\SITE\obj\Debug\SITE.pdb
+C:\Users\talmid2\Desktop\Comfiler_Project\SITE\bin\DAL.dll
+C:\Users\talmid2\Desktop\Comfiler_Project\SITE\bin\EntityFramework.dll
+C:\Users\talmid2\Desktop\Comfiler_Project\SITE\bin\EntityFramework.SqlServer.dll
+C:\Users\talmid2\Desktop\Comfiler_Project\SITE\bin\DAL.pdb
+C:\Users\talmid2\Desktop\Comfiler_Project\SITE\bin\DAL.dll.config
+C:\Users\talmid2\Desktop\Comfiler_Project\SITE\bin\EntityFramework.xml
+C:\Users\talmid2\Desktop\Comfiler_Project\SITE\bin\EntityFramework.SqlServer.xml
+Y:\00הנדסאיות תשעח\שנה ב סמינר\תמי יוסקוביץ\0000פרויקט גמר\Comfiler_Project\SITE\bin\roslyn\csc.exe
+Y:\00הנדסאיות תשעח\שנה ב סמינר\תמי יוסקוביץ\0000פרויקט גמר\Comfiler_Project\SITE\bin\roslyn\csc.exe.config
+Y:\00הנדסאיות תשעח\שנה ב סמינר\תמי יוסקוביץ\0000פרויקט גמר\Comfiler_Project\SITE\bin\roslyn\csc.rsp
+Y:\00הנדסאיות תשעח\שנה ב סמינר\תמי יוסקוביץ\0000פרויקט גמר\Comfiler_Project\SITE\bin\roslyn\csi.exe
+Y:\00הנדסאיות תשעח\שנה ב סמינר\תמי יוסקוביץ\0000פרויקט גמר\Comfiler_Project\SITE\bin\roslyn\csi.exe.config
+Y:\00הנדסאיות תשעח\שנה ב סמינר\תמי יוסקוביץ\0000פרויקט גמר\Comfiler_Project\SITE\bin\roslyn\csi.rsp
+Y:\00הנדסאיות תשעח\שנה ב סמינר\תמי יוסקוביץ\0000פרויקט גמר\Comfiler_Project\SITE\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Y:\00הנדסאיות תשעח\שנה ב סמינר\תמי יוסקוביץ\0000פרויקט גמר\Comfiler_Project\SITE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Y:\00הנדסאיות תשעח\שנה ב סמינר\תמי יוסקוביץ\0000פרויקט גמר\Comfiler_Project\SITE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+Y:\00הנדסאיות תשעח\שנה ב סמינר\תמי יוסקוביץ\0000פרויקט גמר\Comfiler_Project\SITE\bin\roslyn\Microsoft.CodeAnalysis.dll
+Y:\00הנדסאיות תשעח\שנה ב סמינר\תמי יוסקוביץ\0000פרויקט גמר\Comfiler_Project\SITE\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+Y:\00הנדסאיות תשעח\שנה ב סמינר\תמי יוסקוביץ\0000פרויקט גמר\Comfiler_Project\SITE\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Y:\00הנדסאיות תשעח\שנה ב סמינר\תמי יוסקוביץ\0000פרויקט גמר\Comfiler_Project\SITE\bin\roslyn\Microsoft.CSharp.Core.targets
+Y:\00הנדסאיות תשעח\שנה ב סמינר\תמי יוסקוביץ\0000פרויקט גמר\Comfiler_Project\SITE\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+Y:\00הנדסאיות תשעח\שנה ב סמינר\תמי יוסקוביץ\0000פרויקט גמר\Comfiler_Project\SITE\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+Y:\00הנדסאיות תשעח\שנה ב סמינר\תמי יוסקוביץ\0000פרויקט גמר\Comfiler_Project\SITE\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Y:\00הנדסאיות תשעח\שנה ב סמינר\תמי יוסקוביץ\0000פרויקט גמר\Comfiler_Project\SITE\bin\roslyn\Microsoft.Win32.Primitives.dll
+Y:\00הנדסאיות תשעח\שנה ב סמינר\תמי יוסקוביץ\0000פרויקט גמר\Comfiler_Project\SITE\bin\roslyn\System.AppContext.dll
+Y:\00הנדסאיות תשעח\שנה ב סמינר\תמי יוסקוביץ\0000פרויקט גמר\Comfiler_Project\SITE\bin\roslyn\System.Collections.Immutable.dll
+Y:\00הנדסאיות תשעח\שנה ב סמינר\תמי יוסקוביץ\0000פרויקט גמר\Comfiler_Project\SITE\bin\roslyn\System.Console.dll
+Y:\00הנדסאיות תשעח\שנה ב סמינר\תמי יוסקוביץ\0000פרויקט גמר\Comfiler_Project\SITE\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+Y:\00הנדסאיות תשעח\שנה ב סמינר\תמי יוסקוביץ\0000פרויקט גמר\Comfiler_Project\SITE\bin\roslyn\System.Diagnostics.Process.dll
+Y:\00הנדסאיות תשעח\שנה ב סמינר\תמי יוסקוביץ\0000פרויקט גמר\Comfiler_Project\SITE\bin\roslyn\System.Diagnostics.StackTrace.dll
+Y:\00הנדסאיות תשעח\שנה ב סמינר\תמי יוסקוביץ\0000פרויקט גמר\Comfiler_Project\SITE\bin\roslyn\System.IO.Compression.dll
+Y:\00הנדסאיות תשעח\שנה ב סמינר\תמי יוסקוביץ\0000פרויקט גמר\Comfiler_Project\SITE\bin\roslyn\System.IO.FileSystem.dll
+Y:\00הנדסאיות תשעח\שנה ב סמינר\תמי יוסקוביץ\0000פרויקט גמר\Comfiler_Project\SITE\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+Y:\00הנדסאיות תשעח\שנה ב סמינר\תמי יוסקוביץ\0000פרויקט גמר\Comfiler_Project\SITE\bin\roslyn\System.IO.FileSystem.Primitives.dll
+Y:\00הנדסאיות תשעח\שנה ב סמינר\תמי יוסקוביץ\0000פרויקט גמר\Comfiler_Project\SITE\bin\roslyn\System.IO.Pipes.dll
+Y:\00הנדסאיות תשעח\שנה ב סמינר\תמי יוסקוביץ\0000פרויקט גמר\Comfiler_Project\SITE\bin\roslyn\System.Reflection.Metadata.dll
+Y:\00הנדסאיות תשעח\שנה ב סמינר\תמי יוסקוביץ\0000פרויקט גמר\Comfiler_Project\SITE\bin\roslyn\System.Security.AccessControl.dll
+Y:\00הנדסאיות תשעח\שנה ב סמינר\תמי יוסקוביץ\0000פרויקט גמר\Comfiler_Project\SITE\bin\roslyn\System.Security.Claims.dll
+Y:\00הנדסאיות תשעח\שנה ב סמינר\תמי יוסקוביץ\0000פרויקט גמר\Comfiler_Project\SITE\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+Y:\00הנדסאיות תשעח\שנה ב סמינר\תמי יוסקוביץ\0000פרויקט גמר\Comfiler_Project\SITE\bin\roslyn\System.Security.Cryptography.Encoding.dll
+Y:\00הנדסאיות תשעח\שנה ב סמינר\תמי יוסקוביץ\0000פרויקט גמר\Comfiler_Project\SITE\bin\roslyn\System.Security.Cryptography.Primitives.dll
+Y:\00הנדסאיות תשעח\שנה ב סמינר\תמי יוסקוביץ\0000פרויקט גמר\Comfiler_Project\SITE\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+Y:\00הנדסאיות תשעח\שנה ב סמינר\תמי יוסקוביץ\0000פרויקט גמר\Comfiler_Project\SITE\bin\roslyn\System.Security.Principal.Windows.dll
+Y:\00הנדסאיות תשעח\שנה ב סמינר\תמי יוסקוביץ\0000פרויקט גמר\Comfiler_Project\SITE\bin\roslyn\System.Text.Encoding.CodePages.dll
+Y:\00הנדסאיות תשעח\שנה ב סמינר\תמי יוסקוביץ\0000פרויקט גמר\Comfiler_Project\SITE\bin\roslyn\System.Threading.Thread.dll
+Y:\00הנדסאיות תשעח\שנה ב סמינר\תמי יוסקוביץ\0000פרויקט גמר\Comfiler_Project\SITE\bin\roslyn\System.ValueTuple.dll
+Y:\00הנדסאיות תשעח\שנה ב סמינר\תמי יוסקוביץ\0000פרויקט גמר\Comfiler_Project\SITE\bin\roslyn\System.Xml.ReaderWriter.dll
+Y:\00הנדסאיות תשעח\שנה ב סמינר\תמי יוסקוביץ\0000פרויקט גמר\Comfiler_Project\SITE\bin\roslyn\System.Xml.XmlDocument.dll
+Y:\00הנדסאיות תשעח\שנה ב סמינר\תמי יוסקוביץ\0000פרויקט גמר\Comfiler_Project\SITE\bin\roslyn\System.Xml.XPath.dll
+Y:\00הנדסאיות תשעח\שנה ב סמינר\תמי יוסקוביץ\0000פרויקט גמר\Comfiler_Project\SITE\bin\roslyn\System.Xml.XPath.XDocument.dll
+Y:\00הנדסאיות תשעח\שנה ב סמינר\תמי יוסקוביץ\0000פרויקט גמר\Comfiler_Project\SITE\bin\roslyn\vbc.exe
+Y:\00הנדסאיות תשעח\שנה ב סמינר\תמי יוסקוביץ\0000פרויקט גמר\Comfiler_Project\SITE\bin\roslyn\vbc.exe.config
+Y:\00הנדסאיות תשעח\שנה ב סמינר\תמי יוסקוביץ\0000פרויקט גמר\Comfiler_Project\SITE\bin\roslyn\vbc.rsp
+Y:\00הנדסאיות תשעח\שנה ב סמינר\תמי יוסקוביץ\0000פרויקט גמר\Comfiler_Project\SITE\bin\roslyn\VBCSCompiler.exe
+Y:\00הנדסאיות תשעח\שנה ב סמינר\תמי יוסקוביץ\0000פרויקט גמר\Comfiler_Project\SITE\bin\roslyn\VBCSCompiler.exe.config
+Y:\00הנדסאיות תשעח\שנה ב סמינר\תמי יוסקוביץ\0000פרויקט גמר\Comfiler_Project\SITE\bin\SITE.dll.config
+Y:\00הנדסאיות תשעח\שנה ב סמינר\תמי יוסקוביץ\0000פרויקט גמר\Comfiler_Project\SITE\bin\SITE.dll
+Y:\00הנדסאיות תשעח\שנה ב סמינר\תמי יוסקוביץ\0000פרויקט גמר\Comfiler_Project\SITE\bin\SITE.pdb
+Y:\00הנדסאיות תשעח\שנה ב סמינר\תמי יוסקוביץ\0000פרויקט גמר\Comfiler_Project\SITE\bin\DAL.dll
+Y:\00הנדסאיות תשעח\שנה ב סמינר\תמי יוסקוביץ\0000פרויקט גמר\Comfiler_Project\SITE\bin\EntityFramework.dll
+Y:\00הנדסאיות תשעח\שנה ב סמינר\תמי יוסקוביץ\0000פרויקט גמר\Comfiler_Project\SITE\bin\EntityFramework.SqlServer.dll
+Y:\00הנדסאיות תשעח\שנה ב סמינר\תמי יוסקוביץ\0000פרויקט גמר\Comfiler_Project\SITE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Y:\00הנדסאיות תשעח\שנה ב סמינר\תמי יוסקוביץ\0000פרויקט גמר\Comfiler_Project\SITE\bin\Microsoft.Web.Infrastructure.dll
+Y:\00הנדסאיות תשעח\שנה ב סמינר\תמי יוסקוביץ\0000פרויקט גמר\Comfiler_Project\SITE\bin\System.Web.Helpers.dll
+Y:\00הנדסאיות תשעח\שנה ב סמינר\תמי יוסקוביץ\0000פרויקט גמר\Comfiler_Project\SITE\bin\System.Web.Mvc.dll
+Y:\00הנדסאיות תשעח\שנה ב סמינר\תמי יוסקוביץ\0000פרויקט גמר\Comfiler_Project\SITE\bin\System.Web.Razor.dll
+Y:\00הנדסאיות תשעח\שנה ב סמינר\תמי יוסקוביץ\0000פרויקט גמר\Comfiler_Project\SITE\bin\System.Web.Webpages.Deployment.dll
+Y:\00הנדסאיות תשעח\שנה ב סמינר\תמי יוסקוביץ\0000פרויקט גמר\Comfiler_Project\SITE\bin\System.Web.Webpages.dll
+Y:\00הנדסאיות תשעח\שנה ב סמינר\תמי יוסקוביץ\0000פרויקט גמר\Comfiler_Project\SITE\bin\System.Web.Webpages.Razor.dll
+Y:\00הנדסאיות תשעח\שנה ב סמינר\תמי יוסקוביץ\0000פרויקט גמר\Comfiler_Project\SITE\bin\DAL.pdb
+Y:\00הנדסאיות תשעח\שנה ב סמינר\תמי יוסקוביץ\0000פרויקט גמר\Comfiler_Project\SITE\bin\DAL.dll.config
+Y:\00הנדסאיות תשעח\שנה ב סמינר\תמי יוסקוביץ\0000פרויקט גמר\Comfiler_Project\SITE\bin\EntityFramework.xml
+Y:\00הנדסאיות תשעח\שנה ב סמינר\תמי יוסקוביץ\0000פרויקט גמר\Comfiler_Project\SITE\bin\EntityFramework.SqlServer.xml
+Y:\00הנדסאיות תשעח\שנה ב סמינר\תמי יוסקוביץ\0000פרויקט גמר\Comfiler_Project\SITE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Y:\00הנדסאיות תשעח\שנה ב סמינר\תמי יוסקוביץ\0000פרויקט גמר\Comfiler_Project\SITE\bin\System.Web.Razor.xml
+Y:\00הנדסאיות תשעח\שנה ב סמינר\תמי יוסקוביץ\0000פרויקט גמר\Comfiler_Project\SITE\bin\System.Web.Webpages.xml
+Y:\00הנדסאיות תשעח\שנה ב סמינר\תמי יוסקוביץ\0000פרויקט גמר\Comfiler_Project\SITE\bin\System.Web.Webpages.Deployment.xml
+Y:\00הנדסאיות תשעח\שנה ב סמינר\תמי יוסקוביץ\0000פרויקט גמר\Comfiler_Project\SITE\bin\System.Web.Webpages.Razor.xml
+Y:\00הנדסאיות תשעח\שנה ב סמינר\תמי יוסקוביץ\0000פרויקט גמר\Comfiler_Project\SITE\bin\System.Web.Helpers.xml
+Y:\00הנדסאיות תשעח\שנה ב סמינר\תמי יוסקוביץ\0000פרויקט גמר\Comfiler_Project\SITE\bin\System.Web.Mvc.xml
+Y:\00הנדסאיות תשעח\שנה ב סמינר\תמי יוסקוביץ\0000פרויקט גמר\Comfiler_Project\SITE\obj\Debug\SITE.csprojResolveAssemblyReference.cache
+Y:\00הנדסאיות תשעח\שנה ב סמינר\תמי יוסקוביץ\0000פרויקט גמר\Comfiler_Project\SITE\obj\Debug\SITE.dll
+Y:\00הנדסאיות תשעח\שנה ב סמינר\תמי יוסקוביץ\0000פרויקט גמר\Comfiler_Project\SITE\obj\Debug\SITE.pdb
+Y:\00הנדסאיות תשעח\שנה ב סמינר\תמי יוסקוביץ\0000פרויקט גמר\Comfiler_Project\SITE\obj\Debug\SITE.csproj.CoreCompileInputs.cache
+Y:\00הנדסאיות תשעח\שנה ב בוקר\נעמי פישביין\000פרויקט גמר\Comfiler_Project\SITE\bin\roslyn\csc.exe
+Y:\00הנדסאיות תשעח\שנה ב בוקר\נעמי פישביין\000פרויקט גמר\Comfiler_Project\SITE\bin\roslyn\csc.exe.config
+Y:\00הנדסאיות תשעח\שנה ב בוקר\נעמי פישביין\000פרויקט גמר\Comfiler_Project\SITE\bin\roslyn\csc.rsp
+Y:\00הנדסאיות תשעח\שנה ב בוקר\נעמי פישביין\000פרויקט גמר\Comfiler_Project\SITE\bin\roslyn\csi.exe
+Y:\00הנדסאיות תשעח\שנה ב בוקר\נעמי פישביין\000פרויקט גמר\Comfiler_Project\SITE\bin\roslyn\csi.exe.config
+Y:\00הנדסאיות תשעח\שנה ב בוקר\נעמי פישביין\000פרויקט גמר\Comfiler_Project\SITE\bin\roslyn\csi.rsp
+Y:\00הנדסאיות תשעח\שנה ב בוקר\נעמי פישביין\000פרויקט גמר\Comfiler_Project\SITE\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Y:\00הנדסאיות תשעח\שנה ב בוקר\נעמי פישביין\000פרויקט גמר\Comfiler_Project\SITE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Y:\00הנדסאיות תשעח\שנה ב בוקר\נעמי פישביין\000פרויקט גמר\Comfiler_Project\SITE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+Y:\00הנדסאיות תשעח\שנה ב בוקר\נעמי פישביין\000פרויקט גמר\Comfiler_Project\SITE\bin\roslyn\Microsoft.CodeAnalysis.dll
+Y:\00הנדסאיות תשעח\שנה ב בוקר\נעמי פישביין\000פרויקט גמר\Comfiler_Project\SITE\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+Y:\00הנדסאיות תשעח\שנה ב בוקר\נעמי פישביין\000פרויקט גמר\Comfiler_Project\SITE\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Y:\00הנדסאיות תשעח\שנה ב בוקר\נעמי פישביין\000פרויקט גמר\Comfiler_Project\SITE\bin\roslyn\Microsoft.CSharp.Core.targets
+Y:\00הנדסאיות תשעח\שנה ב בוקר\נעמי פישביין\000פרויקט גמר\Comfiler_Project\SITE\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+Y:\00הנדסאיות תשעח\שנה ב בוקר\נעמי פישביין\000פרויקט גמר\Comfiler_Project\SITE\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+Y:\00הנדסאיות תשעח\שנה ב בוקר\נעמי פישביין\000פרויקט גמר\Comfiler_Project\SITE\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Y:\00הנדסאיות תשעח\שנה ב בוקר\נעמי פישביין\000פרויקט גמר\Comfiler_Project\SITE\bin\roslyn\Microsoft.Win32.Primitives.dll
+Y:\00הנדסאיות תשעח\שנה ב בוקר\נעמי פישביין\000פרויקט גמר\Comfiler_Project\SITE\bin\roslyn\System.AppContext.dll
+Y:\00הנדסאיות תשעח\שנה ב בוקר\נעמי פישביין\000פרויקט גמר\Comfiler_Project\SITE\bin\roslyn\System.Collections.Immutable.dll
+Y:\00הנדסאיות תשעח\שנה ב בוקר\נעמי פישביין\000פרויקט גמר\Comfiler_Project\SITE\bin\roslyn\System.Console.dll
+Y:\00הנדסאיות תשעח\שנה ב בוקר\נעמי פישביין\000פרויקט גמר\Comfiler_Project\SITE\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+Y:\00הנדסאיות תשעח\שנה ב בוקר\נעמי פישביין\000פרויקט גמר\Comfiler_Project\SITE\bin\roslyn\System.Diagnostics.Process.dll
+Y:\00הנדסאיות תשעח\שנה ב בוקר\נעמי פישביין\000פרויקט גמר\Comfiler_Project\SITE\bin\roslyn\System.Diagnostics.StackTrace.dll
+Y:\00הנדסאיות תשעח\שנה ב בוקר\נעמי פישביין\000פרויקט גמר\Comfiler_Project\SITE\bin\roslyn\System.IO.Compression.dll
+Y:\00הנדסאיות תשעח\שנה ב בוקר\נעמי פישביין\000פרויקט גמר\Comfiler_Project\SITE\bin\roslyn\System.IO.FileSystem.dll
+Y:\00הנדסאיות תשעח\שנה ב בוקר\נעמי פישביין\000פרויקט גמר\Comfiler_Project\SITE\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+Y:\00הנדסאיות תשעח\שנה ב בוקר\נעמי פישביין\000פרויקט גמר\Comfiler_Project\SITE\bin\roslyn\System.IO.FileSystem.Primitives.dll
+Y:\00הנדסאיות תשעח\שנה ב בוקר\נעמי פישביין\000פרויקט גמר\Comfiler_Project\SITE\bin\roslyn\System.IO.Pipes.dll
+Y:\00הנדסאיות תשעח\שנה ב בוקר\נעמי פישביין\000פרויקט גמר\Comfiler_Project\SITE\bin\roslyn\System.Reflection.Metadata.dll
+Y:\00הנדסאיות תשעח\שנה ב בוקר\נעמי פישביין\000פרויקט גמר\Comfiler_Project\SITE\bin\roslyn\System.Security.AccessControl.dll
+Y:\00הנדסאיות תשעח\שנה ב בוקר\נעמי פישביין\000פרויקט גמר\Comfiler_Project\SITE\bin\roslyn\System.Security.Claims.dll
+Y:\00הנדסאיות תשעח\שנה ב בוקר\נעמי פישביין\000פרויקט גמר\Comfiler_Project\SITE\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+Y:\00הנדסאיות תשעח\שנה ב בוקר\נעמי פישביין\000פרויקט גמר\Comfiler_Project\SITE\bin\roslyn\System.Security.Cryptography.Encoding.dll
+Y:\00הנדסאיות תשעח\שנה ב בוקר\נעמי פישביין\000פרויקט גמר\Comfiler_Project\SITE\bin\roslyn\System.Security.Cryptography.Primitives.dll
+Y:\00הנדסאיות תשעח\שנה ב בוקר\נעמי פישביין\000פרויקט גמר\Comfiler_Project\SITE\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+Y:\00הנדסאיות תשעח\שנה ב בוקר\נעמי פישביין\000פרויקט גמר\Comfiler_Project\SITE\bin\roslyn\System.Security.Principal.Windows.dll
+Y:\00הנדסאיות תשעח\שנה ב בוקר\נעמי פישביין\000פרויקט גמר\Comfiler_Project\SITE\bin\roslyn\System.Text.Encoding.CodePages.dll
+Y:\00הנדסאיות תשעח\שנה ב בוקר\נעמי פישביין\000פרויקט גמר\Comfiler_Project\SITE\bin\roslyn\System.Threading.Thread.dll
+Y:\00הנדסאיות תשעח\שנה ב בוקר\נעמי פישביין\000פרויקט גמר\Comfiler_Project\SITE\bin\roslyn\System.ValueTuple.dll
+Y:\00הנדסאיות תשעח\שנה ב בוקר\נעמי פישביין\000פרויקט גמר\Comfiler_Project\SITE\bin\roslyn\System.Xml.ReaderWriter.dll
+Y:\00הנדסאיות תשעח\שנה ב בוקר\נעמי פישביין\000פרויקט גמר\Comfiler_Project\SITE\bin\roslyn\System.Xml.XmlDocument.dll
+Y:\00הנדסאיות תשעח\שנה ב בוקר\נעמי פישביין\000פרויקט גמר\Comfiler_Project\SITE\bin\roslyn\System.Xml.XPath.dll
+Y:\00הנדסאיות תשעח\שנה ב בוקר\נעמי פישביין\000פרויקט גמר\Comfiler_Project\SITE\bin\roslyn\System.Xml.XPath.XDocument.dll
+Y:\00הנדסאיות תשעח\שנה ב בוקר\נעמי פישביין\000פרויקט גמר\Comfiler_Project\SITE\bin\roslyn\vbc.exe
+Y:\00הנדסאיות תשעח\שנה ב בוקר\נעמי פישביין\000פרויקט גמר\Comfiler_Project\SITE\bin\roslyn\vbc.exe.config
+Y:\00הנדסאיות תשעח\שנה ב בוקר\נעמי פישביין\000פרויקט גמר\Comfiler_Project\SITE\bin\roslyn\vbc.rsp
+Y:\00הנדסאיות תשעח\שנה ב בוקר\נעמי פישביין\000פרויקט גמר\Comfiler_Project\SITE\bin\roslyn\VBCSCompiler.exe
+Y:\00הנדסאיות תשעח\שנה ב בוקר\נעמי פישביין\000פרויקט גמר\Comfiler_Project\SITE\bin\roslyn\VBCSCompiler.exe.config
+Y:\00הנדסאיות תשעח\שנה ב בוקר\נעמי פישביין\000פרויקט גמר\Comfiler_Project\SITE\bin\SITE.dll.config
+Y:\00הנדסאיות תשעח\שנה ב בוקר\נעמי פישביין\000פרויקט גמר\Comfiler_Project\SITE\bin\SITE.dll
+Y:\00הנדסאיות תשעח\שנה ב בוקר\נעמי פישביין\000פרויקט גמר\Comfiler_Project\SITE\bin\SITE.pdb
+Y:\00הנדסאיות תשעח\שנה ב בוקר\נעמי פישביין\000פרויקט גמר\Comfiler_Project\SITE\bin\DAL.dll
+Y:\00הנדסאיות תשעח\שנה ב בוקר\נעמי פישביין\000פרויקט גמר\Comfiler_Project\SITE\bin\EntityFramework.dll
+Y:\00הנדסאיות תשעח\שנה ב בוקר\נעמי פישביין\000פרויקט גמר\Comfiler_Project\SITE\bin\EntityFramework.SqlServer.dll
+Y:\00הנדסאיות תשעח\שנה ב בוקר\נעמי פישביין\000פרויקט גמר\Comfiler_Project\SITE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Y:\00הנדסאיות תשעח\שנה ב בוקר\נעמי פישביין\000פרויקט גמר\Comfiler_Project\SITE\bin\Microsoft.Web.Infrastructure.dll
+Y:\00הנדסאיות תשעח\שנה ב בוקר\נעמי פישביין\000פרויקט גמר\Comfiler_Project\SITE\bin\System.Web.Helpers.dll
+Y:\00הנדסאיות תשעח\שנה ב בוקר\נעמי פישביין\000פרויקט גמר\Comfiler_Project\SITE\bin\System.Web.Mvc.dll
+Y:\00הנדסאיות תשעח\שנה ב בוקר\נעמי פישביין\000פרויקט גמר\Comfiler_Project\SITE\bin\System.Web.Razor.dll
+Y:\00הנדסאיות תשעח\שנה ב בוקר\נעמי פישביין\000פרויקט גמר\Comfiler_Project\SITE\bin\System.Web.Webpages.Deployment.dll
+Y:\00הנדסאיות תשעח\שנה ב בוקר\נעמי פישביין\000פרויקט גמר\Comfiler_Project\SITE\bin\System.Web.Webpages.dll
+Y:\00הנדסאיות תשעח\שנה ב בוקר\נעמי פישביין\000פרויקט גמר\Comfiler_Project\SITE\bin\System.Web.Webpages.Razor.dll
+Y:\00הנדסאיות תשעח\שנה ב בוקר\נעמי פישביין\000פרויקט גמר\Comfiler_Project\SITE\bin\DAL.pdb
+Y:\00הנדסאיות תשעח\שנה ב בוקר\נעמי פישביין\000פרויקט גמר\Comfiler_Project\SITE\bin\DAL.dll.config
+Y:\00הנדסאיות תשעח\שנה ב בוקר\נעמי פישביין\000פרויקט גמר\Comfiler_Project\SITE\bin\EntityFramework.xml
+Y:\00הנדסאיות תשעח\שנה ב בוקר\נעמי פישביין\000פרויקט גמר\Comfiler_Project\SITE\bin\EntityFramework.SqlServer.xml
+Y:\00הנדסאיות תשעח\שנה ב בוקר\נעמי פישביין\000פרויקט גמר\Comfiler_Project\SITE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Y:\00הנדסאיות תשעח\שנה ב בוקר\נעמי פישביין\000פרויקט גמר\Comfiler_Project\SITE\bin\System.Web.Razor.xml
+Y:\00הנדסאיות תשעח\שנה ב בוקר\נעמי פישביין\000פרויקט גמר\Comfiler_Project\SITE\bin\System.Web.Webpages.xml
+Y:\00הנדסאיות תשעח\שנה ב בוקר\נעמי פישביין\000פרויקט גמר\Comfiler_Project\SITE\bin\System.Web.Webpages.Deployment.xml
+Y:\00הנדסאיות תשעח\שנה ב בוקר\נעמי פישביין\000פרויקט גמר\Comfiler_Project\SITE\bin\System.Web.Webpages.Razor.xml
+Y:\00הנדסאיות תשעח\שנה ב בוקר\נעמי פישביין\000פרויקט גמר\Comfiler_Project\SITE\bin\System.Web.Helpers.xml
+Y:\00הנדסאיות תשעח\שנה ב בוקר\נעמי פישביין\000פרויקט גמר\Comfiler_Project\SITE\bin\System.Web.Mvc.xml
+Y:\00הנדסאיות תשעח\שנה ב בוקר\נעמי פישביין\000פרויקט גמר\Comfiler_Project\SITE\obj\Debug\SITE.csprojResolveAssemblyReference.cache
+Y:\00הנדסאיות תשעח\שנה ב בוקר\נעמי פישביין\000פרויקט גמר\Comfiler_Project\SITE\obj\Debug\SITE.dll
+Y:\00הנדסאיות תשעח\שנה ב בוקר\נעמי פישביין\000פרויקט גמר\Comfiler_Project\SITE\obj\Debug\SITE.pdb
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 1\Comfiler_Project\SITE\bin\roslyn\csc.exe
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 1\Comfiler_Project\SITE\bin\roslyn\csc.exe.config
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 1\Comfiler_Project\SITE\bin\roslyn\csc.rsp
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 1\Comfiler_Project\SITE\bin\roslyn\csi.exe
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 1\Comfiler_Project\SITE\bin\roslyn\csi.exe.config
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 1\Comfiler_Project\SITE\bin\roslyn\csi.rsp
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 1\Comfiler_Project\SITE\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 1\Comfiler_Project\SITE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 1\Comfiler_Project\SITE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 1\Comfiler_Project\SITE\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 1\Comfiler_Project\SITE\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 1\Comfiler_Project\SITE\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 1\Comfiler_Project\SITE\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 1\Comfiler_Project\SITE\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 1\Comfiler_Project\SITE\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 1\Comfiler_Project\SITE\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 1\Comfiler_Project\SITE\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 1\Comfiler_Project\SITE\bin\roslyn\System.AppContext.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 1\Comfiler_Project\SITE\bin\roslyn\System.Collections.Immutable.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 1\Comfiler_Project\SITE\bin\roslyn\System.Console.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 1\Comfiler_Project\SITE\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 1\Comfiler_Project\SITE\bin\roslyn\System.Diagnostics.Process.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 1\Comfiler_Project\SITE\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 1\Comfiler_Project\SITE\bin\roslyn\System.IO.Compression.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 1\Comfiler_Project\SITE\bin\roslyn\System.IO.FileSystem.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 1\Comfiler_Project\SITE\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 1\Comfiler_Project\SITE\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 1\Comfiler_Project\SITE\bin\roslyn\System.IO.Pipes.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 1\Comfiler_Project\SITE\bin\roslyn\System.Reflection.Metadata.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 1\Comfiler_Project\SITE\bin\roslyn\System.Security.AccessControl.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 1\Comfiler_Project\SITE\bin\roslyn\System.Security.Claims.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 1\Comfiler_Project\SITE\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 1\Comfiler_Project\SITE\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 1\Comfiler_Project\SITE\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 1\Comfiler_Project\SITE\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 1\Comfiler_Project\SITE\bin\roslyn\System.Security.Principal.Windows.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 1\Comfiler_Project\SITE\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 1\Comfiler_Project\SITE\bin\roslyn\System.Threading.Thread.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 1\Comfiler_Project\SITE\bin\roslyn\System.ValueTuple.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 1\Comfiler_Project\SITE\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 1\Comfiler_Project\SITE\bin\roslyn\System.Xml.XmlDocument.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 1\Comfiler_Project\SITE\bin\roslyn\System.Xml.XPath.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 1\Comfiler_Project\SITE\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 1\Comfiler_Project\SITE\bin\roslyn\vbc.exe
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 1\Comfiler_Project\SITE\bin\roslyn\vbc.exe.config
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 1\Comfiler_Project\SITE\bin\roslyn\vbc.rsp
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 1\Comfiler_Project\SITE\bin\roslyn\VBCSCompiler.exe
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 1\Comfiler_Project\SITE\bin\roslyn\VBCSCompiler.exe.config
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 1\Comfiler_Project\SITE\bin\SITE.dll.config
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 1\Comfiler_Project\SITE\bin\SITE.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 1\Comfiler_Project\SITE\bin\SITE.pdb
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 1\Comfiler_Project\SITE\bin\DAL.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 1\Comfiler_Project\SITE\bin\EntityFramework.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 1\Comfiler_Project\SITE\bin\EntityFramework.SqlServer.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 1\Comfiler_Project\SITE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 1\Comfiler_Project\SITE\bin\Microsoft.Web.Infrastructure.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 1\Comfiler_Project\SITE\bin\System.Web.Helpers.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 1\Comfiler_Project\SITE\bin\System.Web.Mvc.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 1\Comfiler_Project\SITE\bin\System.Web.Razor.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 1\Comfiler_Project\SITE\bin\System.Web.Webpages.Deployment.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 1\Comfiler_Project\SITE\bin\System.Web.Webpages.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 1\Comfiler_Project\SITE\bin\System.Web.Webpages.Razor.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 1\Comfiler_Project\SITE\bin\DAL.pdb
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 1\Comfiler_Project\SITE\bin\EntityFramework.xml
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 1\Comfiler_Project\SITE\bin\EntityFramework.SqlServer.xml
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 1\Comfiler_Project\SITE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 1\Comfiler_Project\SITE\bin\System.Web.Razor.xml
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 1\Comfiler_Project\SITE\bin\System.Web.Webpages.xml
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 1\Comfiler_Project\SITE\bin\System.Web.Webpages.Deployment.xml
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 1\Comfiler_Project\SITE\bin\System.Web.Webpages.Razor.xml
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 1\Comfiler_Project\SITE\bin\System.Web.Helpers.xml
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 1\Comfiler_Project\SITE\bin\System.Web.Mvc.xml
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 1\Comfiler_Project\SITE\obj\Debug\SITE.csprojResolveAssemblyReference.cache
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 1\Comfiler_Project\SITE\obj\Debug\SITE.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 1\Comfiler_Project\SITE\obj\Debug\SITE.pdb
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 2\Comfiler_Project\SITE\bin\roslyn\csc.exe
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 2\Comfiler_Project\SITE\bin\roslyn\csc.exe.config
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 2\Comfiler_Project\SITE\bin\roslyn\csc.rsp
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 2\Comfiler_Project\SITE\bin\roslyn\csi.exe
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 2\Comfiler_Project\SITE\bin\roslyn\csi.exe.config
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 2\Comfiler_Project\SITE\bin\roslyn\csi.rsp
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 2\Comfiler_Project\SITE\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 2\Comfiler_Project\SITE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 2\Comfiler_Project\SITE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 2\Comfiler_Project\SITE\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 2\Comfiler_Project\SITE\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 2\Comfiler_Project\SITE\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 2\Comfiler_Project\SITE\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 2\Comfiler_Project\SITE\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 2\Comfiler_Project\SITE\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 2\Comfiler_Project\SITE\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 2\Comfiler_Project\SITE\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 2\Comfiler_Project\SITE\bin\roslyn\System.AppContext.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 2\Comfiler_Project\SITE\bin\roslyn\System.Collections.Immutable.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 2\Comfiler_Project\SITE\bin\roslyn\System.Console.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 2\Comfiler_Project\SITE\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 2\Comfiler_Project\SITE\bin\roslyn\System.Diagnostics.Process.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 2\Comfiler_Project\SITE\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 2\Comfiler_Project\SITE\bin\roslyn\System.IO.Compression.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 2\Comfiler_Project\SITE\bin\roslyn\System.IO.FileSystem.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 2\Comfiler_Project\SITE\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 2\Comfiler_Project\SITE\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 2\Comfiler_Project\SITE\bin\roslyn\System.IO.Pipes.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 2\Comfiler_Project\SITE\bin\roslyn\System.Reflection.Metadata.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 2\Comfiler_Project\SITE\bin\roslyn\System.Security.AccessControl.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 2\Comfiler_Project\SITE\bin\roslyn\System.Security.Claims.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 2\Comfiler_Project\SITE\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 2\Comfiler_Project\SITE\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 2\Comfiler_Project\SITE\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 2\Comfiler_Project\SITE\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 2\Comfiler_Project\SITE\bin\roslyn\System.Security.Principal.Windows.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 2\Comfiler_Project\SITE\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 2\Comfiler_Project\SITE\bin\roslyn\System.Threading.Thread.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 2\Comfiler_Project\SITE\bin\roslyn\System.ValueTuple.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 2\Comfiler_Project\SITE\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 2\Comfiler_Project\SITE\bin\roslyn\System.Xml.XmlDocument.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 2\Comfiler_Project\SITE\bin\roslyn\System.Xml.XPath.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 2\Comfiler_Project\SITE\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 2\Comfiler_Project\SITE\bin\roslyn\vbc.exe
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 2\Comfiler_Project\SITE\bin\roslyn\vbc.exe.config
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 2\Comfiler_Project\SITE\bin\roslyn\vbc.rsp
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 2\Comfiler_Project\SITE\bin\roslyn\VBCSCompiler.exe
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 2\Comfiler_Project\SITE\bin\roslyn\VBCSCompiler.exe.config
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 2\Comfiler_Project\SITE\bin\SITE.dll.config
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 2\Comfiler_Project\SITE\bin\SITE.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 2\Comfiler_Project\SITE\bin\SITE.pdb
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 2\Comfiler_Project\SITE\bin\DAL.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 2\Comfiler_Project\SITE\bin\EntityFramework.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 2\Comfiler_Project\SITE\bin\EntityFramework.SqlServer.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 2\Comfiler_Project\SITE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 2\Comfiler_Project\SITE\bin\Microsoft.Web.Infrastructure.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 2\Comfiler_Project\SITE\bin\System.Web.Helpers.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 2\Comfiler_Project\SITE\bin\System.Web.Mvc.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 2\Comfiler_Project\SITE\bin\System.Web.Razor.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 2\Comfiler_Project\SITE\bin\System.Web.Webpages.Deployment.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 2\Comfiler_Project\SITE\bin\System.Web.Webpages.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 2\Comfiler_Project\SITE\bin\System.Web.Webpages.Razor.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 2\Comfiler_Project\SITE\bin\DAL.pdb
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 2\Comfiler_Project\SITE\bin\EntityFramework.xml
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 2\Comfiler_Project\SITE\bin\EntityFramework.SqlServer.xml
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 2\Comfiler_Project\SITE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 2\Comfiler_Project\SITE\bin\System.Web.Razor.xml
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 2\Comfiler_Project\SITE\bin\System.Web.Webpages.xml
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 2\Comfiler_Project\SITE\bin\System.Web.Webpages.Deployment.xml
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 2\Comfiler_Project\SITE\bin\System.Web.Webpages.Razor.xml
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 2\Comfiler_Project\SITE\bin\System.Web.Helpers.xml
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 2\Comfiler_Project\SITE\bin\System.Web.Mvc.xml
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 2\Comfiler_Project\SITE\obj\Debug\SITE.csprojResolveAssemblyReference.cache
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 2\Comfiler_Project\SITE\obj\Debug\SITE.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 2\Comfiler_Project\SITE\obj\Debug\SITE.pdb
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 2\Comfiler_Project\SITE\bin\Antlr3.Runtime.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 2\Comfiler_Project\SITE\bin\Newtonsoft.Json.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 2\Comfiler_Project\SITE\bin\System.Web.Optimization.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 2\Comfiler_Project\SITE\bin\WebGrease.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 2\Comfiler_Project\SITE\bin\Antlr3.Runtime.pdb
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 2\Comfiler_Project\SITE\bin\Newtonsoft.Json.xml
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 2\Comfiler_Project\SITE\bin\System.Web.Optimization.xml
+H:\000פרויקט גמר\copy 2\Comfiler_Project\SITE\bin\roslyn\csc.exe
+H:\000פרויקט גמר\copy 2\Comfiler_Project\SITE\bin\roslyn\csc.exe.config
+H:\000פרויקט גמר\copy 2\Comfiler_Project\SITE\bin\roslyn\csc.rsp
+H:\000פרויקט גמר\copy 2\Comfiler_Project\SITE\bin\roslyn\csi.exe
+H:\000פרויקט גמר\copy 2\Comfiler_Project\SITE\bin\roslyn\csi.exe.config
+H:\000פרויקט גמר\copy 2\Comfiler_Project\SITE\bin\roslyn\csi.rsp
+H:\000פרויקט גמר\copy 2\Comfiler_Project\SITE\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\000פרויקט גמר\copy 2\Comfiler_Project\SITE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\000פרויקט גמר\copy 2\Comfiler_Project\SITE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\000פרויקט גמר\copy 2\Comfiler_Project\SITE\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\000פרויקט גמר\copy 2\Comfiler_Project\SITE\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\000פרויקט גמר\copy 2\Comfiler_Project\SITE\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\000פרויקט גמר\copy 2\Comfiler_Project\SITE\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\000פרויקט גמר\copy 2\Comfiler_Project\SITE\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\000פרויקט גמר\copy 2\Comfiler_Project\SITE\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\000פרויקט גמר\copy 2\Comfiler_Project\SITE\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\000פרויקט גמר\copy 2\Comfiler_Project\SITE\bin\roslyn\Microsoft.Win32.Primitives.dll
+H:\000פרויקט גמר\copy 2\Comfiler_Project\SITE\bin\roslyn\System.AppContext.dll
+H:\000פרויקט גמר\copy 2\Comfiler_Project\SITE\bin\roslyn\System.Collections.Immutable.dll
+H:\000פרויקט גמר\copy 2\Comfiler_Project\SITE\bin\roslyn\System.Console.dll
+H:\000פרויקט גמר\copy 2\Comfiler_Project\SITE\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+H:\000פרויקט גמר\copy 2\Comfiler_Project\SITE\bin\roslyn\System.Diagnostics.Process.dll
+H:\000פרויקט גמר\copy 2\Comfiler_Project\SITE\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\000פרויקט גמר\copy 2\Comfiler_Project\SITE\bin\roslyn\System.IO.Compression.dll
+H:\000פרויקט גמר\copy 2\Comfiler_Project\SITE\bin\roslyn\System.IO.FileSystem.dll
+H:\000פרויקט גמר\copy 2\Comfiler_Project\SITE\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+H:\000פרויקט גמר\copy 2\Comfiler_Project\SITE\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\000פרויקט גמר\copy 2\Comfiler_Project\SITE\bin\roslyn\System.IO.Pipes.dll
+H:\000פרויקט גמר\copy 2\Comfiler_Project\SITE\bin\roslyn\System.Reflection.Metadata.dll
+H:\000פרויקט גמר\copy 2\Comfiler_Project\SITE\bin\roslyn\System.Security.AccessControl.dll
+H:\000פרויקט גמר\copy 2\Comfiler_Project\SITE\bin\roslyn\System.Security.Claims.dll
+H:\000פרויקט גמר\copy 2\Comfiler_Project\SITE\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+H:\000פרויקט גמר\copy 2\Comfiler_Project\SITE\bin\roslyn\System.Security.Cryptography.Encoding.dll
+H:\000פרויקט גמר\copy 2\Comfiler_Project\SITE\bin\roslyn\System.Security.Cryptography.Primitives.dll
+H:\000פרויקט גמר\copy 2\Comfiler_Project\SITE\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+H:\000פרויקט גמר\copy 2\Comfiler_Project\SITE\bin\roslyn\System.Security.Principal.Windows.dll
+H:\000פרויקט גמר\copy 2\Comfiler_Project\SITE\bin\roslyn\System.Text.Encoding.CodePages.dll
+H:\000פרויקט גמר\copy 2\Comfiler_Project\SITE\bin\roslyn\System.Threading.Thread.dll
+H:\000פרויקט גמר\copy 2\Comfiler_Project\SITE\bin\roslyn\System.ValueTuple.dll
+H:\000פרויקט גמר\copy 2\Comfiler_Project\SITE\bin\roslyn\System.Xml.ReaderWriter.dll
+H:\000פרויקט גמר\copy 2\Comfiler_Project\SITE\bin\roslyn\System.Xml.XmlDocument.dll
+H:\000פרויקט גמר\copy 2\Comfiler_Project\SITE\bin\roslyn\System.Xml.XPath.dll
+H:\000פרויקט גמר\copy 2\Comfiler_Project\SITE\bin\roslyn\System.Xml.XPath.XDocument.dll
+H:\000פרויקט גמר\copy 2\Comfiler_Project\SITE\bin\roslyn\vbc.exe
+H:\000פרויקט גמר\copy 2\Comfiler_Project\SITE\bin\roslyn\vbc.exe.config
+H:\000פרויקט גמר\copy 2\Comfiler_Project\SITE\bin\roslyn\vbc.rsp
+H:\000פרויקט גמר\copy 2\Comfiler_Project\SITE\bin\roslyn\VBCSCompiler.exe
+H:\000פרויקט גמר\copy 2\Comfiler_Project\SITE\bin\roslyn\VBCSCompiler.exe.config
+H:\000פרויקט גמר\copy 2\Comfiler_Project\SITE\bin\SITE.dll.config
+H:\000פרויקט גמר\copy 2\Comfiler_Project\SITE\bin\SITE.dll
+H:\000פרויקט גמר\copy 2\Comfiler_Project\SITE\bin\SITE.pdb
+H:\000פרויקט גמר\copy 2\Comfiler_Project\SITE\bin\Antlr3.Runtime.dll
+H:\000פרויקט גמר\copy 2\Comfiler_Project\SITE\bin\DAL.dll
+H:\000פרויקט גמר\copy 2\Comfiler_Project\SITE\bin\EntityFramework.dll
+H:\000פרויקט גמר\copy 2\Comfiler_Project\SITE\bin\EntityFramework.SqlServer.dll
+H:\000פרויקט גמר\copy 2\Comfiler_Project\SITE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\000פרויקט גמר\copy 2\Comfiler_Project\SITE\bin\Microsoft.Web.Infrastructure.dll
+H:\000פרויקט גמר\copy 2\Comfiler_Project\SITE\bin\Newtonsoft.Json.dll
+H:\000פרויקט גמר\copy 2\Comfiler_Project\SITE\bin\System.Web.Helpers.dll
+H:\000פרויקט גמר\copy 2\Comfiler_Project\SITE\bin\System.Web.Mvc.dll
+H:\000פרויקט גמר\copy 2\Comfiler_Project\SITE\bin\System.Web.Optimization.dll
+H:\000פרויקט גמר\copy 2\Comfiler_Project\SITE\bin\System.Web.Razor.dll
+H:\000פרויקט גמר\copy 2\Comfiler_Project\SITE\bin\System.Web.Webpages.Deployment.dll
+H:\000פרויקט גמר\copy 2\Comfiler_Project\SITE\bin\System.Web.Webpages.dll
+H:\000פרויקט גמר\copy 2\Comfiler_Project\SITE\bin\System.Web.Webpages.Razor.dll
+H:\000פרויקט גמר\copy 2\Comfiler_Project\SITE\bin\WebGrease.dll
+H:\000פרויקט גמר\copy 2\Comfiler_Project\SITE\bin\DAL.pdb
+H:\000פרויקט גמר\copy 2\Comfiler_Project\SITE\bin\Antlr3.Runtime.pdb
+H:\000פרויקט גמר\copy 2\Comfiler_Project\SITE\bin\EntityFramework.xml
+H:\000פרויקט גמר\copy 2\Comfiler_Project\SITE\bin\EntityFramework.SqlServer.xml
+H:\000פרויקט גמר\copy 2\Comfiler_Project\SITE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\000פרויקט גמר\copy 2\Comfiler_Project\SITE\bin\Newtonsoft.Json.xml
+H:\000פרויקט גמר\copy 2\Comfiler_Project\SITE\bin\System.Web.Optimization.xml
+H:\000פרויקט גמר\copy 2\Comfiler_Project\SITE\bin\System.Web.Razor.xml
+H:\000פרויקט גמר\copy 2\Comfiler_Project\SITE\bin\System.Web.Webpages.xml
+H:\000פרויקט גמר\copy 2\Comfiler_Project\SITE\bin\System.Web.Webpages.Deployment.xml
+H:\000פרויקט גמר\copy 2\Comfiler_Project\SITE\bin\System.Web.Webpages.Razor.xml
+H:\000פרויקט גמר\copy 2\Comfiler_Project\SITE\bin\System.Web.Helpers.xml
+H:\000פרויקט גמר\copy 2\Comfiler_Project\SITE\bin\System.Web.Mvc.xml
+H:\000פרויקט גמר\copy 2\Comfiler_Project\SITE\obj\Debug\SITE.csprojResolveAssemblyReference.cache
+H:\000פרויקט גמר\copy 2\Comfiler_Project\SITE\obj\Debug\SITE.dll
+H:\000פרויקט גמר\copy 2\Comfiler_Project\SITE\obj\Debug\SITE.pdb
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 3\Comfiler_Project\SITE\bin\roslyn\csc.exe
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 3\Comfiler_Project\SITE\bin\roslyn\csc.exe.config
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 3\Comfiler_Project\SITE\bin\roslyn\csc.rsp
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 3\Comfiler_Project\SITE\bin\roslyn\csi.exe
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 3\Comfiler_Project\SITE\bin\roslyn\csi.exe.config
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 3\Comfiler_Project\SITE\bin\roslyn\csi.rsp
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 3\Comfiler_Project\SITE\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 3\Comfiler_Project\SITE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 3\Comfiler_Project\SITE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 3\Comfiler_Project\SITE\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 3\Comfiler_Project\SITE\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 3\Comfiler_Project\SITE\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 3\Comfiler_Project\SITE\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 3\Comfiler_Project\SITE\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 3\Comfiler_Project\SITE\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 3\Comfiler_Project\SITE\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 3\Comfiler_Project\SITE\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 3\Comfiler_Project\SITE\bin\roslyn\System.AppContext.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 3\Comfiler_Project\SITE\bin\roslyn\System.Collections.Immutable.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 3\Comfiler_Project\SITE\bin\roslyn\System.Console.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 3\Comfiler_Project\SITE\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 3\Comfiler_Project\SITE\bin\roslyn\System.Diagnostics.Process.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 3\Comfiler_Project\SITE\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 3\Comfiler_Project\SITE\bin\roslyn\System.IO.Compression.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 3\Comfiler_Project\SITE\bin\roslyn\System.IO.FileSystem.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 3\Comfiler_Project\SITE\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 3\Comfiler_Project\SITE\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 3\Comfiler_Project\SITE\bin\roslyn\System.IO.Pipes.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 3\Comfiler_Project\SITE\bin\roslyn\System.Reflection.Metadata.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 3\Comfiler_Project\SITE\bin\roslyn\System.Security.AccessControl.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 3\Comfiler_Project\SITE\bin\roslyn\System.Security.Claims.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 3\Comfiler_Project\SITE\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 3\Comfiler_Project\SITE\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 3\Comfiler_Project\SITE\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 3\Comfiler_Project\SITE\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 3\Comfiler_Project\SITE\bin\roslyn\System.Security.Principal.Windows.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 3\Comfiler_Project\SITE\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 3\Comfiler_Project\SITE\bin\roslyn\System.Threading.Thread.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 3\Comfiler_Project\SITE\bin\roslyn\System.ValueTuple.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 3\Comfiler_Project\SITE\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 3\Comfiler_Project\SITE\bin\roslyn\System.Xml.XmlDocument.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 3\Comfiler_Project\SITE\bin\roslyn\System.Xml.XPath.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 3\Comfiler_Project\SITE\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 3\Comfiler_Project\SITE\bin\roslyn\vbc.exe
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 3\Comfiler_Project\SITE\bin\roslyn\vbc.exe.config
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 3\Comfiler_Project\SITE\bin\roslyn\vbc.rsp
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 3\Comfiler_Project\SITE\bin\roslyn\VBCSCompiler.exe
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 3\Comfiler_Project\SITE\bin\roslyn\VBCSCompiler.exe.config
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 3\Comfiler_Project\SITE\bin\SITE.dll.config
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 3\Comfiler_Project\SITE\bin\SITE.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 3\Comfiler_Project\SITE\bin\SITE.pdb
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 3\Comfiler_Project\SITE\bin\Antlr3.Runtime.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 3\Comfiler_Project\SITE\bin\DAL.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 3\Comfiler_Project\SITE\bin\EntityFramework.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 3\Comfiler_Project\SITE\bin\EntityFramework.SqlServer.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 3\Comfiler_Project\SITE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 3\Comfiler_Project\SITE\bin\Microsoft.Web.Infrastructure.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 3\Comfiler_Project\SITE\bin\Newtonsoft.Json.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 3\Comfiler_Project\SITE\bin\System.Web.Helpers.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 3\Comfiler_Project\SITE\bin\System.Web.Mvc.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 3\Comfiler_Project\SITE\bin\System.Web.Optimization.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 3\Comfiler_Project\SITE\bin\System.Web.Razor.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 3\Comfiler_Project\SITE\bin\System.Web.Webpages.Deployment.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 3\Comfiler_Project\SITE\bin\System.Web.Webpages.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 3\Comfiler_Project\SITE\bin\System.Web.Webpages.Razor.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 3\Comfiler_Project\SITE\bin\WebGrease.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 3\Comfiler_Project\SITE\bin\DAL.pdb
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 3\Comfiler_Project\SITE\bin\Antlr3.Runtime.pdb
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 3\Comfiler_Project\SITE\bin\EntityFramework.xml
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 3\Comfiler_Project\SITE\bin\EntityFramework.SqlServer.xml
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 3\Comfiler_Project\SITE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 3\Comfiler_Project\SITE\bin\Newtonsoft.Json.xml
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 3\Comfiler_Project\SITE\bin\System.Web.Optimization.xml
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 3\Comfiler_Project\SITE\bin\System.Web.Razor.xml
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 3\Comfiler_Project\SITE\bin\System.Web.Webpages.xml
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 3\Comfiler_Project\SITE\bin\System.Web.Webpages.Deployment.xml
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 3\Comfiler_Project\SITE\bin\System.Web.Webpages.Razor.xml
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 3\Comfiler_Project\SITE\bin\System.Web.Helpers.xml
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 3\Comfiler_Project\SITE\bin\System.Web.Mvc.xml
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 3\Comfiler_Project\SITE\obj\Debug\SITE.csprojResolveAssemblyReference.cache
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 3\Comfiler_Project\SITE\obj\Debug\SITE.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 3\Comfiler_Project\SITE\obj\Debug\SITE.pdb
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 4\Comfiler_Project\SITE\bin\roslyn\csc.exe
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 4\Comfiler_Project\SITE\bin\roslyn\csc.exe.config
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 4\Comfiler_Project\SITE\bin\roslyn\csc.rsp
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 4\Comfiler_Project\SITE\bin\roslyn\csi.exe
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 4\Comfiler_Project\SITE\bin\roslyn\csi.exe.config
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 4\Comfiler_Project\SITE\bin\roslyn\csi.rsp
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 4\Comfiler_Project\SITE\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 4\Comfiler_Project\SITE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 4\Comfiler_Project\SITE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 4\Comfiler_Project\SITE\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 4\Comfiler_Project\SITE\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 4\Comfiler_Project\SITE\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 4\Comfiler_Project\SITE\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 4\Comfiler_Project\SITE\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 4\Comfiler_Project\SITE\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 4\Comfiler_Project\SITE\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 4\Comfiler_Project\SITE\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 4\Comfiler_Project\SITE\bin\roslyn\System.AppContext.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 4\Comfiler_Project\SITE\bin\roslyn\System.Collections.Immutable.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 4\Comfiler_Project\SITE\bin\roslyn\System.Console.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 4\Comfiler_Project\SITE\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 4\Comfiler_Project\SITE\bin\roslyn\System.Diagnostics.Process.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 4\Comfiler_Project\SITE\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 4\Comfiler_Project\SITE\bin\roslyn\System.IO.Compression.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 4\Comfiler_Project\SITE\bin\roslyn\System.IO.FileSystem.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 4\Comfiler_Project\SITE\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 4\Comfiler_Project\SITE\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 4\Comfiler_Project\SITE\bin\roslyn\System.IO.Pipes.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 4\Comfiler_Project\SITE\bin\roslyn\System.Reflection.Metadata.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 4\Comfiler_Project\SITE\bin\roslyn\System.Security.AccessControl.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 4\Comfiler_Project\SITE\bin\roslyn\System.Security.Claims.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 4\Comfiler_Project\SITE\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 4\Comfiler_Project\SITE\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 4\Comfiler_Project\SITE\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 4\Comfiler_Project\SITE\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 4\Comfiler_Project\SITE\bin\roslyn\System.Security.Principal.Windows.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 4\Comfiler_Project\SITE\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 4\Comfiler_Project\SITE\bin\roslyn\System.Threading.Thread.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 4\Comfiler_Project\SITE\bin\roslyn\System.ValueTuple.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 4\Comfiler_Project\SITE\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 4\Comfiler_Project\SITE\bin\roslyn\System.Xml.XmlDocument.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 4\Comfiler_Project\SITE\bin\roslyn\System.Xml.XPath.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 4\Comfiler_Project\SITE\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 4\Comfiler_Project\SITE\bin\roslyn\vbc.exe
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 4\Comfiler_Project\SITE\bin\roslyn\vbc.exe.config
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 4\Comfiler_Project\SITE\bin\roslyn\vbc.rsp
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 4\Comfiler_Project\SITE\bin\roslyn\VBCSCompiler.exe
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 4\Comfiler_Project\SITE\bin\roslyn\VBCSCompiler.exe.config
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 4\Comfiler_Project\SITE\bin\SITE.dll.config
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 4\Comfiler_Project\SITE\bin\SITE.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 4\Comfiler_Project\SITE\bin\SITE.pdb
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 4\Comfiler_Project\SITE\bin\Antlr3.Runtime.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 4\Comfiler_Project\SITE\bin\DAL.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 4\Comfiler_Project\SITE\bin\EntityFramework.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 4\Comfiler_Project\SITE\bin\EntityFramework.SqlServer.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 4\Comfiler_Project\SITE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 4\Comfiler_Project\SITE\bin\Microsoft.Web.Infrastructure.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 4\Comfiler_Project\SITE\bin\Newtonsoft.Json.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 4\Comfiler_Project\SITE\bin\System.Web.Helpers.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 4\Comfiler_Project\SITE\bin\System.Web.Mvc.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 4\Comfiler_Project\SITE\bin\System.Web.Optimization.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 4\Comfiler_Project\SITE\bin\System.Web.Razor.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 4\Comfiler_Project\SITE\bin\System.Web.Webpages.Deployment.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 4\Comfiler_Project\SITE\bin\System.Web.Webpages.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 4\Comfiler_Project\SITE\bin\System.Web.Webpages.Razor.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 4\Comfiler_Project\SITE\bin\WebGrease.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 4\Comfiler_Project\SITE\bin\DAL.pdb
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 4\Comfiler_Project\SITE\bin\Antlr3.Runtime.pdb
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 4\Comfiler_Project\SITE\bin\EntityFramework.xml
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 4\Comfiler_Project\SITE\bin\EntityFramework.SqlServer.xml
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 4\Comfiler_Project\SITE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 4\Comfiler_Project\SITE\bin\Newtonsoft.Json.xml
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 4\Comfiler_Project\SITE\bin\System.Web.Optimization.xml
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 4\Comfiler_Project\SITE\bin\System.Web.Razor.xml
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 4\Comfiler_Project\SITE\bin\System.Web.Webpages.xml
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 4\Comfiler_Project\SITE\bin\System.Web.Webpages.Deployment.xml
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 4\Comfiler_Project\SITE\bin\System.Web.Webpages.Razor.xml
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 4\Comfiler_Project\SITE\bin\System.Web.Helpers.xml
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 4\Comfiler_Project\SITE\bin\System.Web.Mvc.xml
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 4\Comfiler_Project\SITE\obj\Debug\SITE.csprojResolveAssemblyReference.cache
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 4\Comfiler_Project\SITE\obj\Debug\SITE.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 4\Comfiler_Project\SITE\obj\Debug\SITE.pdb
+D:\מסמכים\נעמי\a שנה ב' תכנות\copy 4\Comfiler_Project\SITE\bin\roslyn\csc.exe
+D:\מסמכים\נעמי\a שנה ב' תכנות\copy 4\Comfiler_Project\SITE\bin\roslyn\csc.exe.config
+D:\מסמכים\נעמי\a שנה ב' תכנות\copy 4\Comfiler_Project\SITE\bin\roslyn\csc.rsp
+D:\מסמכים\נעמי\a שנה ב' תכנות\copy 4\Comfiler_Project\SITE\bin\roslyn\csi.exe
+D:\מסמכים\נעמי\a שנה ב' תכנות\copy 4\Comfiler_Project\SITE\bin\roslyn\csi.exe.config
+D:\מסמכים\נעמי\a שנה ב' תכנות\copy 4\Comfiler_Project\SITE\bin\roslyn\csi.rsp
+D:\מסמכים\נעמי\a שנה ב' תכנות\copy 4\Comfiler_Project\SITE\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\copy 4\Comfiler_Project\SITE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\copy 4\Comfiler_Project\SITE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\copy 4\Comfiler_Project\SITE\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\copy 4\Comfiler_Project\SITE\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\copy 4\Comfiler_Project\SITE\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\copy 4\Comfiler_Project\SITE\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\מסמכים\נעמי\a שנה ב' תכנות\copy 4\Comfiler_Project\SITE\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\copy 4\Comfiler_Project\SITE\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\copy 4\Comfiler_Project\SITE\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\מסמכים\נעמי\a שנה ב' תכנות\copy 4\Comfiler_Project\SITE\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\copy 4\Comfiler_Project\SITE\bin\roslyn\System.AppContext.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\copy 4\Comfiler_Project\SITE\bin\roslyn\System.Collections.Immutable.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\copy 4\Comfiler_Project\SITE\bin\roslyn\System.Console.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\copy 4\Comfiler_Project\SITE\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\copy 4\Comfiler_Project\SITE\bin\roslyn\System.Diagnostics.Process.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\copy 4\Comfiler_Project\SITE\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\copy 4\Comfiler_Project\SITE\bin\roslyn\System.IO.Compression.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\copy 4\Comfiler_Project\SITE\bin\roslyn\System.IO.FileSystem.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\copy 4\Comfiler_Project\SITE\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\copy 4\Comfiler_Project\SITE\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\copy 4\Comfiler_Project\SITE\bin\roslyn\System.IO.Pipes.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\copy 4\Comfiler_Project\SITE\bin\roslyn\System.Reflection.Metadata.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\copy 4\Comfiler_Project\SITE\bin\roslyn\System.Security.AccessControl.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\copy 4\Comfiler_Project\SITE\bin\roslyn\System.Security.Claims.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\copy 4\Comfiler_Project\SITE\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\copy 4\Comfiler_Project\SITE\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\copy 4\Comfiler_Project\SITE\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\copy 4\Comfiler_Project\SITE\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\copy 4\Comfiler_Project\SITE\bin\roslyn\System.Security.Principal.Windows.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\copy 4\Comfiler_Project\SITE\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\copy 4\Comfiler_Project\SITE\bin\roslyn\System.Threading.Thread.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\copy 4\Comfiler_Project\SITE\bin\roslyn\System.ValueTuple.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\copy 4\Comfiler_Project\SITE\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\copy 4\Comfiler_Project\SITE\bin\roslyn\System.Xml.XmlDocument.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\copy 4\Comfiler_Project\SITE\bin\roslyn\System.Xml.XPath.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\copy 4\Comfiler_Project\SITE\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\copy 4\Comfiler_Project\SITE\bin\roslyn\vbc.exe
+D:\מסמכים\נעמי\a שנה ב' תכנות\copy 4\Comfiler_Project\SITE\bin\roslyn\vbc.exe.config
+D:\מסמכים\נעמי\a שנה ב' תכנות\copy 4\Comfiler_Project\SITE\bin\roslyn\vbc.rsp
+D:\מסמכים\נעמי\a שנה ב' תכנות\copy 4\Comfiler_Project\SITE\bin\roslyn\VBCSCompiler.exe
+D:\מסמכים\נעמי\a שנה ב' תכנות\copy 4\Comfiler_Project\SITE\bin\roslyn\VBCSCompiler.exe.config
+D:\מסמכים\נעמי\a שנה ב' תכנות\copy 4\Comfiler_Project\SITE\bin\SITE.dll.config
+D:\מסמכים\נעמי\a שנה ב' תכנות\copy 4\Comfiler_Project\SITE\bin\SITE.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\copy 4\Comfiler_Project\SITE\bin\SITE.pdb
+D:\מסמכים\נעמי\a שנה ב' תכנות\copy 4\Comfiler_Project\SITE\bin\Antlr3.Runtime.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\copy 4\Comfiler_Project\SITE\bin\DAL.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\copy 4\Comfiler_Project\SITE\bin\EntityFramework.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\copy 4\Comfiler_Project\SITE\bin\EntityFramework.SqlServer.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\copy 4\Comfiler_Project\SITE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\copy 4\Comfiler_Project\SITE\bin\Microsoft.Web.Infrastructure.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\copy 4\Comfiler_Project\SITE\bin\Newtonsoft.Json.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\copy 4\Comfiler_Project\SITE\bin\System.Web.Helpers.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\copy 4\Comfiler_Project\SITE\bin\System.Web.Mvc.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\copy 4\Comfiler_Project\SITE\bin\System.Web.Optimization.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\copy 4\Comfiler_Project\SITE\bin\System.Web.Razor.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\copy 4\Comfiler_Project\SITE\bin\System.Web.Webpages.Deployment.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\copy 4\Comfiler_Project\SITE\bin\System.Web.Webpages.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\copy 4\Comfiler_Project\SITE\bin\System.Web.Webpages.Razor.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\copy 4\Comfiler_Project\SITE\bin\WebGrease.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\copy 4\Comfiler_Project\SITE\bin\DAL.pdb
+D:\מסמכים\נעמי\a שנה ב' תכנות\copy 4\Comfiler_Project\SITE\bin\Antlr3.Runtime.pdb
+D:\מסמכים\נעמי\a שנה ב' תכנות\copy 4\Comfiler_Project\SITE\bin\EntityFramework.xml
+D:\מסמכים\נעמי\a שנה ב' תכנות\copy 4\Comfiler_Project\SITE\bin\EntityFramework.SqlServer.xml
+D:\מסמכים\נעמי\a שנה ב' תכנות\copy 4\Comfiler_Project\SITE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\מסמכים\נעמי\a שנה ב' תכנות\copy 4\Comfiler_Project\SITE\bin\Newtonsoft.Json.xml
+D:\מסמכים\נעמי\a שנה ב' תכנות\copy 4\Comfiler_Project\SITE\bin\System.Web.Optimization.xml
+D:\מסמכים\נעמי\a שנה ב' תכנות\copy 4\Comfiler_Project\SITE\bin\System.Web.Razor.xml
+D:\מסמכים\נעמי\a שנה ב' תכנות\copy 4\Comfiler_Project\SITE\bin\System.Web.Webpages.xml
+D:\מסמכים\נעמי\a שנה ב' תכנות\copy 4\Comfiler_Project\SITE\bin\System.Web.Webpages.Deployment.xml
+D:\מסמכים\נעמי\a שנה ב' תכנות\copy 4\Comfiler_Project\SITE\bin\System.Web.Webpages.Razor.xml
+D:\מסמכים\נעמי\a שנה ב' תכנות\copy 4\Comfiler_Project\SITE\bin\System.Web.Helpers.xml
+D:\מסמכים\נעמי\a שנה ב' תכנות\copy 4\Comfiler_Project\SITE\bin\System.Web.Mvc.xml
+D:\מסמכים\נעמי\a שנה ב' תכנות\copy 4\Comfiler_Project\SITE\obj\Debug\SITE.csprojResolveAssemblyReference.cache
+D:\מסמכים\נעמי\a שנה ב' תכנות\copy 4\Comfiler_Project\SITE\obj\Debug\SITE.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\copy 4\Comfiler_Project\SITE\obj\Debug\SITE.pdb
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\roslyn\csc.exe
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\roslyn\csc.exe.config
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\roslyn\csc.rsp
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\roslyn\csi.exe
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\roslyn\csi.exe.config
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\roslyn\csi.rsp
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\roslyn\System.AppContext.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\roslyn\System.Collections.Immutable.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\roslyn\System.Console.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\roslyn\System.Diagnostics.Process.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\roslyn\System.IO.Compression.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\roslyn\System.IO.FileSystem.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\roslyn\System.IO.Pipes.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\roslyn\System.Reflection.Metadata.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\roslyn\System.Security.AccessControl.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\roslyn\System.Security.Claims.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\roslyn\System.Security.Principal.Windows.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\roslyn\System.Threading.Thread.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\roslyn\System.ValueTuple.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\roslyn\System.Xml.XmlDocument.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\roslyn\System.Xml.XPath.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\roslyn\vbc.exe
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\roslyn\vbc.exe.config
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\roslyn\vbc.rsp
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\roslyn\VBCSCompiler.exe
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\roslyn\VBCSCompiler.exe.config
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\SITE.dll.config
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\SITE.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\SITE.pdb
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\Antlr3.Runtime.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\DAL.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\EntityFramework.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\EntityFramework.SqlServer.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\Microsoft.Web.Infrastructure.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\Newtonsoft.Json.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\System.Web.Helpers.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\System.Web.Mvc.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\System.Web.Optimization.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\System.Web.Razor.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\System.Web.Webpages.Deployment.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\System.Web.Webpages.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\System.Web.Webpages.Razor.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\WebGrease.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\DAL.pdb
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\Antlr3.Runtime.pdb
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\EntityFramework.xml
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\EntityFramework.SqlServer.xml
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\Newtonsoft.Json.xml
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\System.Web.Optimization.xml
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\System.Web.Razor.xml
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\System.Web.Webpages.xml
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\System.Web.Webpages.Deployment.xml
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\System.Web.Webpages.Razor.xml
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\System.Web.Helpers.xml
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\System.Web.Mvc.xml
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\obj\Debug\SITE.csprojResolveAssemblyReference.cache
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\obj\Debug\SITE.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\obj\Debug\SITE.pdb
+G:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\roslyn\csc.exe
+G:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\roslyn\csc.exe.config
+G:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\roslyn\csc.rsp
+G:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\roslyn\csi.exe
+G:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\roslyn\csi.exe.config
+G:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\roslyn\csi.rsp
+G:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\roslyn\Microsoft.Win32.Primitives.dll
+G:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\roslyn\System.AppContext.dll
+G:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\roslyn\System.Collections.Immutable.dll
+G:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\roslyn\System.Console.dll
+G:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\roslyn\System.Diagnostics.Process.dll
+G:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\roslyn\System.IO.Compression.dll
+G:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\roslyn\System.IO.FileSystem.dll
+G:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+G:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\roslyn\System.IO.Pipes.dll
+G:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\roslyn\System.Reflection.Metadata.dll
+G:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\roslyn\System.Security.AccessControl.dll
+G:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\roslyn\System.Security.Claims.dll
+G:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\roslyn\System.Security.Principal.Windows.dll
+G:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\roslyn\System.Threading.Thread.dll
+G:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\roslyn\System.ValueTuple.dll
+G:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\roslyn\System.Xml.XmlDocument.dll
+G:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\roslyn\System.Xml.XPath.dll
+G:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\roslyn\vbc.exe
+G:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\roslyn\vbc.exe.config
+G:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\roslyn\vbc.rsp
+G:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\roslyn\VBCSCompiler.exe
+G:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\roslyn\VBCSCompiler.exe.config
+G:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\SITE.dll.config
+G:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\SITE.dll
+G:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\SITE.pdb
+G:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\Antlr3.Runtime.dll
+G:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\DAL.dll
+G:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\EntityFramework.dll
+G:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\EntityFramework.SqlServer.dll
+G:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\Microsoft.Web.Infrastructure.dll
+G:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\Newtonsoft.Json.dll
+G:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\System.Web.Helpers.dll
+G:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\System.Web.Mvc.dll
+G:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\System.Web.Optimization.dll
+G:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\System.Web.Razor.dll
+G:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\System.Web.Webpages.Deployment.dll
+G:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\System.Web.Webpages.dll
+G:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\System.Web.Webpages.Razor.dll
+G:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\WebGrease.dll
+G:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\DAL.pdb
+G:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\DAL.dll.config
+G:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\Antlr3.Runtime.pdb
+G:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\EntityFramework.xml
+G:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\EntityFramework.SqlServer.xml
+G:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\Newtonsoft.Json.xml
+G:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\System.Web.Optimization.xml
+G:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\System.Web.Razor.xml
+G:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\System.Web.Webpages.xml
+G:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\System.Web.Webpages.Deployment.xml
+G:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\System.Web.Webpages.Razor.xml
+G:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\System.Web.Helpers.xml
+G:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\System.Web.Mvc.xml
+G:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\obj\Debug\SITE.csprojResolveAssemblyReference.cache
+G:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\obj\Debug\SITE.dll
+G:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\obj\Debug\SITE.pdb
+F:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\roslyn\csc.exe
+F:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\roslyn\csc.exe.config
+F:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\roslyn\csc.rsp
+F:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\roslyn\csi.exe
+F:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\roslyn\csi.exe.config
+F:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\roslyn\csi.rsp
+F:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\roslyn\System.AppContext.dll
+F:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\roslyn\System.Collections.Immutable.dll
+F:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\roslyn\System.Console.dll
+F:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\roslyn\System.Diagnostics.Process.dll
+F:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\roslyn\System.IO.Compression.dll
+F:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\roslyn\System.IO.FileSystem.dll
+F:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+F:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\roslyn\System.IO.Pipes.dll
+F:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\roslyn\System.Reflection.Metadata.dll
+F:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\roslyn\System.Security.AccessControl.dll
+F:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\roslyn\System.Security.Claims.dll
+F:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\roslyn\System.Security.Principal.Windows.dll
+F:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\roslyn\System.Threading.Thread.dll
+F:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\roslyn\System.ValueTuple.dll
+F:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\roslyn\System.Xml.XmlDocument.dll
+F:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\roslyn\System.Xml.XPath.dll
+F:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\roslyn\vbc.exe
+F:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\roslyn\vbc.exe.config
+F:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\roslyn\vbc.rsp
+F:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\roslyn\VBCSCompiler.exe
+F:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\roslyn\VBCSCompiler.exe.config
+F:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\SITE.dll.config
+F:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\SITE.dll
+F:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\SITE.pdb
+F:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\Antlr3.Runtime.dll
+F:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\DAL.dll
+F:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\EntityFramework.dll
+F:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\EntityFramework.SqlServer.dll
+F:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\Microsoft.Web.Infrastructure.dll
+F:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\Newtonsoft.Json.dll
+F:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\System.Web.Helpers.dll
+F:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\System.Web.Mvc.dll
+F:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\System.Web.Optimization.dll
+F:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\System.Web.Razor.dll
+F:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\System.Web.Webpages.Deployment.dll
+F:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\System.Web.Webpages.dll
+F:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\System.Web.Webpages.Razor.dll
+F:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\WebGrease.dll
+F:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\DAL.pdb
+F:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\Antlr3.Runtime.pdb
+F:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\EntityFramework.xml
+F:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\EntityFramework.SqlServer.xml
+F:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\Newtonsoft.Json.xml
+F:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\System.Web.Optimization.xml
+F:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\System.Web.Razor.xml
+F:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\System.Web.Webpages.xml
+F:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\System.Web.Webpages.Deployment.xml
+F:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\System.Web.Webpages.Razor.xml
+F:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\System.Web.Helpers.xml
+F:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\bin\System.Web.Mvc.xml
+F:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\obj\Debug\SITE.csprojResolveAssemblyReference.cache
+F:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\obj\Debug\SITE.dll
+F:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\SITE\obj\Debug\SITE.pdb
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 9\SITE\bin\roslyn\csc.exe
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 9\SITE\bin\roslyn\csc.exe.config
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 9\SITE\bin\roslyn\csc.rsp
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 9\SITE\bin\roslyn\csi.exe
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 9\SITE\bin\roslyn\csi.exe.config
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 9\SITE\bin\roslyn\csi.rsp
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 9\SITE\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 9\SITE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 9\SITE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 9\SITE\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 9\SITE\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 9\SITE\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 9\SITE\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 9\SITE\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 9\SITE\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 9\SITE\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 9\SITE\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 9\SITE\bin\roslyn\System.AppContext.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 9\SITE\bin\roslyn\System.Collections.Immutable.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 9\SITE\bin\roslyn\System.Console.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 9\SITE\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 9\SITE\bin\roslyn\System.Diagnostics.Process.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 9\SITE\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 9\SITE\bin\roslyn\System.IO.Compression.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 9\SITE\bin\roslyn\System.IO.FileSystem.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 9\SITE\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 9\SITE\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 9\SITE\bin\roslyn\System.IO.Pipes.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 9\SITE\bin\roslyn\System.Reflection.Metadata.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 9\SITE\bin\roslyn\System.Security.AccessControl.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 9\SITE\bin\roslyn\System.Security.Claims.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 9\SITE\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 9\SITE\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 9\SITE\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 9\SITE\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 9\SITE\bin\roslyn\System.Security.Principal.Windows.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 9\SITE\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 9\SITE\bin\roslyn\System.Threading.Thread.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 9\SITE\bin\roslyn\System.ValueTuple.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 9\SITE\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 9\SITE\bin\roslyn\System.Xml.XmlDocument.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 9\SITE\bin\roslyn\System.Xml.XPath.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 9\SITE\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 9\SITE\bin\roslyn\vbc.exe
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 9\SITE\bin\roslyn\vbc.exe.config
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 9\SITE\bin\roslyn\vbc.rsp
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 9\SITE\bin\roslyn\VBCSCompiler.exe
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 9\SITE\bin\roslyn\VBCSCompiler.exe.config
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 9\SITE\bin\SITE.dll.config
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 9\SITE\bin\SITE.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 9\SITE\bin\SITE.pdb
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 9\SITE\bin\Antlr3.Runtime.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 9\SITE\bin\DAL.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 9\SITE\bin\EntityFramework.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 9\SITE\bin\EntityFramework.SqlServer.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 9\SITE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 9\SITE\bin\Microsoft.Web.Infrastructure.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 9\SITE\bin\Newtonsoft.Json.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 9\SITE\bin\System.Web.Helpers.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 9\SITE\bin\System.Web.Mvc.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 9\SITE\bin\System.Web.Optimization.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 9\SITE\bin\System.Web.Razor.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 9\SITE\bin\System.Web.Webpages.Deployment.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 9\SITE\bin\System.Web.Webpages.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 9\SITE\bin\System.Web.Webpages.Razor.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 9\SITE\bin\WebGrease.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 9\SITE\bin\DAL.pdb
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 9\SITE\bin\Antlr3.Runtime.pdb
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 9\SITE\bin\EntityFramework.xml
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 9\SITE\bin\EntityFramework.SqlServer.xml
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 9\SITE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 9\SITE\bin\Newtonsoft.Json.xml
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 9\SITE\bin\System.Web.Optimization.xml
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 9\SITE\bin\System.Web.Razor.xml
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 9\SITE\bin\System.Web.Webpages.xml
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 9\SITE\bin\System.Web.Webpages.Deployment.xml
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 9\SITE\bin\System.Web.Webpages.Razor.xml
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 9\SITE\bin\System.Web.Helpers.xml
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 9\SITE\bin\System.Web.Mvc.xml
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 9\SITE\obj\Debug\SITE.csprojResolveAssemblyReference.cache
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 9\SITE\obj\Debug\SITE.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 9\SITE\obj\Debug\SITE.pdb
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 9\SITE\bin\DBProjects.mdf
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 9\SITE\bin\DBProjects_log.ldf
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 11\SITE\obj\Debug\SITE.csprojResolveAssemblyReference.cache
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 11\SITE\obj\Debug\SITE.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 11\SITE\obj\Debug\SITE.pdb
+D:\000FINAL_PRIJECT\copy 11\SITE\obj\Debug\SITE.csprojAssemblyReference.cache
+D:\000FINAL_PRIJECT\copy 11\SITE\obj\Debug\SITE.csproj.CoreCompileInputs.cache
+D:\000FINAL_PRIJECT\copy 11\SITE\obj\Debug\SITE.dll
+D:\000FINAL_PRIJECT\copy 11\SITE\obj\Debug\SITE.pdb
+F:\000FINAL_PRIJECT\copy 11\SITE\obj\Debug\SITE.csprojResolveAssemblyReference.cache
+F:\000FINAL_PRIJECT\copy 11\SITE\obj\Debug\SITE.dll
+F:\000FINAL_PRIJECT\copy 11\SITE\obj\Debug\SITE.pdb

@@ -1,0 +1,132 @@
+C:\Users\talmid2\Desktop\Comfiler_Project\DAL\bin\Debug\DAL.dll
+C:\Users\talmid2\Desktop\Comfiler_Project\DAL\bin\Debug\DAL.pdb
+C:\Users\talmid2\Desktop\Comfiler_Project\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\talmid2\Desktop\Comfiler_Project\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\talmid2\Desktop\Comfiler_Project\DAL\obj\Debug\DAL.dll
+C:\Users\talmid2\Desktop\Comfiler_Project\DAL\obj\Debug\DAL.pdb
+C:\Users\talmid2\Desktop\Comfiler_Project\DAL\bin\Debug\DAL.dll.config
+C:\Users\talmid2\Desktop\Comfiler_Project\DAL\bin\Debug\EntityFramework.dll
+C:\Users\talmid2\Desktop\Comfiler_Project\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\talmid2\Desktop\Comfiler_Project\DAL\bin\Debug\EntityFramework.xml
+C:\Users\talmid2\Desktop\Comfiler_Project\DAL\bin\Debug\EntityFramework.SqlServer.xml
+Y:\00הנדסאיות תשעח\שנה ב סמינר\תמי יוסקוביץ\0000פרויקט גמר\Comfiler_Project\DAL\bin\Debug\DAL.dll.config
+Y:\00הנדסאיות תשעח\שנה ב סמינר\תמי יוסקוביץ\0000פרויקט גמר\Comfiler_Project\DAL\bin\Debug\DAL.dll
+Y:\00הנדסאיות תשעח\שנה ב סמינר\תמי יוסקוביץ\0000פרויקט גמר\Comfiler_Project\DAL\bin\Debug\DAL.pdb
+Y:\00הנדסאיות תשעח\שנה ב סמינר\תמי יוסקוביץ\0000פרויקט גמר\Comfiler_Project\DAL\bin\Debug\EntityFramework.dll
+Y:\00הנדסאיות תשעח\שנה ב סמינר\תמי יוסקוביץ\0000פרויקט גמר\Comfiler_Project\DAL\bin\Debug\EntityFramework.SqlServer.dll
+Y:\00הנדסאיות תשעח\שנה ב סמינר\תמי יוסקוביץ\0000פרויקט גמר\Comfiler_Project\DAL\bin\Debug\EntityFramework.xml
+Y:\00הנדסאיות תשעח\שנה ב סמינר\תמי יוסקוביץ\0000פרויקט גמר\Comfiler_Project\DAL\bin\Debug\EntityFramework.SqlServer.xml
+Y:\00הנדסאיות תשעח\שנה ב סמינר\תמי יוסקוביץ\0000פרויקט גמר\Comfiler_Project\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+Y:\00הנדסאיות תשעח\שנה ב סמינר\תמי יוסקוביץ\0000פרויקט גמר\Comfiler_Project\DAL\obj\Debug\DAL.dll
+Y:\00הנדסאיות תשעח\שנה ב סמינר\תמי יוסקוביץ\0000פרויקט גמר\Comfiler_Project\DAL\obj\Debug\DAL.pdb
+Y:\00הנדסאיות תשעח\שנה ב סמינר\תמי יוסקוביץ\0000פרויקט גמר\Comfiler_Project\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+Y:\00הנדסאיות תשעח\שנה ב בוקר\נעמי פישביין\000פרויקט גמר\Comfiler_Project\DAL\bin\Debug\DAL.dll.config
+Y:\00הנדסאיות תשעח\שנה ב בוקר\נעמי פישביין\000פרויקט גמר\Comfiler_Project\DAL\bin\Debug\DAL.dll
+Y:\00הנדסאיות תשעח\שנה ב בוקר\נעמי פישביין\000פרויקט גמר\Comfiler_Project\DAL\bin\Debug\DAL.pdb
+Y:\00הנדסאיות תשעח\שנה ב בוקר\נעמי פישביין\000פרויקט גמר\Comfiler_Project\DAL\bin\Debug\EntityFramework.dll
+Y:\00הנדסאיות תשעח\שנה ב בוקר\נעמי פישביין\000פרויקט גמר\Comfiler_Project\DAL\bin\Debug\EntityFramework.SqlServer.dll
+Y:\00הנדסאיות תשעח\שנה ב בוקר\נעמי פישביין\000פרויקט גמר\Comfiler_Project\DAL\bin\Debug\EntityFramework.xml
+Y:\00הנדסאיות תשעח\שנה ב בוקר\נעמי פישביין\000פרויקט גמר\Comfiler_Project\DAL\bin\Debug\EntityFramework.SqlServer.xml
+Y:\00הנדסאיות תשעח\שנה ב בוקר\נעמי פישביין\000פרויקט גמר\Comfiler_Project\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+Y:\00הנדסאיות תשעח\שנה ב בוקר\נעמי פישביין\000פרויקט גמר\Comfiler_Project\DAL\obj\Debug\DAL.dll
+Y:\00הנדסאיות תשעח\שנה ב בוקר\נעמי פישביין\000פרויקט גמר\Comfiler_Project\DAL\obj\Debug\DAL.pdb
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 1\Comfiler_Project\DAL\bin\Debug\DAL.dll.config
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 1\Comfiler_Project\DAL\bin\Debug\DAL.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 1\Comfiler_Project\DAL\bin\Debug\DAL.pdb
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 1\Comfiler_Project\DAL\bin\Debug\EntityFramework.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 1\Comfiler_Project\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 1\Comfiler_Project\DAL\bin\Debug\EntityFramework.xml
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 1\Comfiler_Project\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 1\Comfiler_Project\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 1\Comfiler_Project\DAL\obj\Debug\DAL.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 1\Comfiler_Project\DAL\obj\Debug\DAL.pdb
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 2\Comfiler_Project\DAL\bin\Debug\DAL.dll.config
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 2\Comfiler_Project\DAL\bin\Debug\DAL.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 2\Comfiler_Project\DAL\bin\Debug\DAL.pdb
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 2\Comfiler_Project\DAL\bin\Debug\EntityFramework.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 2\Comfiler_Project\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 2\Comfiler_Project\DAL\bin\Debug\EntityFramework.xml
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 2\Comfiler_Project\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 2\Comfiler_Project\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 2\Comfiler_Project\DAL\obj\Debug\DAL.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 2\Comfiler_Project\DAL\obj\Debug\DAL.pdb
+H:\000פרויקט גמר\copy 2\Comfiler_Project\DAL\bin\Debug\DAL.dll.config
+H:\000פרויקט גמר\copy 2\Comfiler_Project\DAL\bin\Debug\DAL.dll
+H:\000פרויקט גמר\copy 2\Comfiler_Project\DAL\bin\Debug\DAL.pdb
+H:\000פרויקט גמר\copy 2\Comfiler_Project\DAL\bin\Debug\EntityFramework.dll
+H:\000פרויקט גמר\copy 2\Comfiler_Project\DAL\bin\Debug\EntityFramework.SqlServer.dll
+H:\000פרויקט גמר\copy 2\Comfiler_Project\DAL\bin\Debug\EntityFramework.xml
+H:\000פרויקט גמר\copy 2\Comfiler_Project\DAL\bin\Debug\EntityFramework.SqlServer.xml
+H:\000פרויקט גמר\copy 2\Comfiler_Project\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+H:\000פרויקט גמר\copy 2\Comfiler_Project\DAL\obj\Debug\DAL.dll
+H:\000פרויקט גמר\copy 2\Comfiler_Project\DAL\obj\Debug\DAL.pdb
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\DAL\bin\Debug\DAL.dll.config
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\DAL\bin\Debug\DAL.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\DAL\bin\Debug\DAL.pdb
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\DAL\bin\Debug\EntityFramework.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\DAL\bin\Debug\EntityFramework.xml
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\DAL\obj\Debug\DAL.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\DAL\obj\Debug\DAL.pdb
+G:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\DAL\bin\Debug\DAL.dll.config
+G:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\DAL\bin\Debug\DAL.dll
+G:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\DAL\bin\Debug\DAL.pdb
+G:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\DAL\bin\Debug\EntityFramework.dll
+G:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\DAL\bin\Debug\EntityFramework.SqlServer.dll
+G:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\DAL\bin\Debug\EntityFramework.xml
+G:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\DAL\bin\Debug\EntityFramework.SqlServer.xml
+G:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+G:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\DAL\obj\Debug\DAL.dll
+G:\000FINAL_PRIJECT\copy 6\copy 4\Comfiler_Project\DAL\obj\Debug\DAL.pdb
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 9\DAL\bin\Debug\DAL.dll.config
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 9\DAL\bin\Debug\DAL.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 9\DAL\bin\Debug\DAL.pdb
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 9\DAL\bin\Debug\EntityFramework.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 9\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 9\DAL\bin\Debug\EntityFramework.xml
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 9\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 9\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 9\DAL\obj\Debug\DAL.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 9\DAL\obj\Debug\DAL.pdb
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 9\DAL\bin\Debug\DBProjects.mdf
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 9\DAL\bin\Debug\DBProjects_log.ldf
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 11\DAL\bin\Debug\DBProjects.mdf
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 11\DAL\bin\Debug\DBProjects_log.ldf
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 11\DAL\bin\Debug\DAL.dll.config
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 11\DAL\bin\Debug\DAL.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 11\DAL\bin\Debug\DAL.pdb
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 11\DAL\bin\Debug\EntityFramework.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 11\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 11\DAL\bin\Debug\EntityFramework.xml
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 11\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 11\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 11\DAL\obj\Debug\DAL.dll
+D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 11\DAL\obj\Debug\DAL.pdb
+D:\000FINAL_PRIJECT\copy 11\DAL\bin\Debug\DBProjects.mdf
+D:\000FINAL_PRIJECT\copy 11\DAL\bin\Debug\DBProjects_log.ldf
+D:\000FINAL_PRIJECT\copy 11\DAL\bin\Debug\DAL.dll.config
+D:\000FINAL_PRIJECT\copy 11\DAL\bin\Debug\DAL.dll
+D:\000FINAL_PRIJECT\copy 11\DAL\bin\Debug\DAL.pdb
+D:\000FINAL_PRIJECT\copy 11\DAL\bin\Debug\EntityFramework.dll
+D:\000FINAL_PRIJECT\copy 11\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\000FINAL_PRIJECT\copy 11\DAL\bin\Debug\EntityFramework.xml
+D:\000FINAL_PRIJECT\copy 11\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\000FINAL_PRIJECT\copy 11\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\000FINAL_PRIJECT\copy 11\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\000FINAL_PRIJECT\copy 11\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\000FINAL_PRIJECT\copy 11\DAL\obj\Debug\DAL.dll
+D:\000FINAL_PRIJECT\copy 11\DAL\obj\Debug\DAL.pdb
+F:\000FINAL_PRIJECT\copy 11\DAL\bin\Debug\DBProjects.mdf
+F:\000FINAL_PRIJECT\copy 11\DAL\bin\Debug\DBProjects_log.ldf
+F:\000FINAL_PRIJECT\copy 11\DAL\bin\Debug\DAL.dll.config
+F:\000FINAL_PRIJECT\copy 11\DAL\bin\Debug\DAL.dll
+F:\000FINAL_PRIJECT\copy 11\DAL\bin\Debug\DAL.pdb
+F:\000FINAL_PRIJECT\copy 11\DAL\bin\Debug\EntityFramework.dll
+F:\000FINAL_PRIJECT\copy 11\DAL\bin\Debug\EntityFramework.SqlServer.dll
+F:\000FINAL_PRIJECT\copy 11\DAL\bin\Debug\EntityFramework.xml
+F:\000FINAL_PRIJECT\copy 11\DAL\bin\Debug\EntityFramework.SqlServer.xml
+F:\000FINAL_PRIJECT\copy 11\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+F:\000FINAL_PRIJECT\copy 11\DAL\obj\Debug\DAL.dll
+F:\000FINAL_PRIJECT\copy 11\DAL\obj\Debug\DAL.pdb

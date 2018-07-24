@@ -1,0 +1,112 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<div class="row">
+
+    <div class="col-sm-12 well" style="margin-top:150px;height:80px">
+
+
+
+
+        <div class="dropdown" style="margin-top:7px;display:inline-block">
+            <a class="btn btn-default dropdown-toggle" role="button"  id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                <span>
+                    בחר קטגוריה
+                </span>
+                <span class="caret"></span>
+            </a>
+            <ul class="dropdown-menu">
+                <li><a href="#">אפיוני פרויקטים</a></li>
+                <li><a href="#">הודעות על טיולים</a></li>
+                <li><a href="#">מכתבי פיטורין</a></li>
+                <li><a href="#">שונות</a></li>
+            </ul>
+        </div>
+
+
+        <div class="col-sm-2" style="height:50px;display:inline-block  ">
+            <div class="form-group">
+                <div class='input-group date' id='datetimepicker10'>
+                    <input type='text' class="form-control" />
+                    <span class="input-group-addon">
+                        <span class="glyphicon glyphicon-calendar">
+                        </span>
+                    </span>
+                </div>
+            </div>
+        </div>
+        @*    <div class="input-group date" data-provide="datepicker">
+                <input type="text" class="form-control">
+                <div class="input-group-addon">
+                    <span class="glyphicon glyphicon-th"></span>
+                </div>
+            </div>
+        *@
+
+        <nav class="navbar navbar-light bg-light" style="display:inline-block">
+            <form class="form-inline">
+                <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+                <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+            </form>
+        </nav>
+    </div>
+
+</div>
+
+@Html.Partial("_PartialViewTable")
+
+<style>
+    ul {
+        direction: rtl;
+    }
+
+    td {
+        width: 1px;
+        white-space: nowrap;
+    }
+
+    th {
+        text-align: right;
+        width: 1%;
+        white-space: nowrap;
+    }
+
+    .dropdown {
+        margin-top: 20px;
+    }
+
+    .dropdown-menu {
+        position: absolute;
+        top: 100%; /* Bottom of button */
+        right: 0;
+        margin-left: 100px; /* More to the left */
+        margin-right: 0px; /* More to the left */
+        width: 200px;
+    }
+</style>
+<script>
+
+
+    $(".dropdown-menu li a").click(function () {
+        $(this).parents(".dropdown").find('.btn').html($(this).text() + ' <span class="caret"></span>');
+        $(this).parents(".dropdown").find('.btn').val($(this).data('value'));
+    });
+</script>
+<script type="text/javascript">
+    //    $('#span').click(function () {
+
+    // });
+    $(function () {
+
+        $('#datetimepicker').datetimepicker({
+            viewMode: 'years',
+            format: 'MM/YYYY'
+        });
+
+    });
+
+</script>
+
+

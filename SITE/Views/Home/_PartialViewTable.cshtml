@@ -1,0 +1,221 @@
+﻿<link href="~/Styles/w3css.css" rel="stylesheet" />
+<div class="row">
+    <div class="col-sm-12">
+        <table class="table table-bordered  table-responsive-md table-fixed" style="margin-top:50px">
+            <thead>
+                <tr>
+                    <th>#</th>
+                    <th>קובץ</th>
+                    <th>שם</th>
+                    <th>תאריך יצירה</th>
+                    <th>נוצר ע''י </th>
+                    <th>הערה</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>
+                        <div class="dropdown-container">
+                            <a class="dropdown-toggle" data-toggle="dropdown">
+                                <i class="fa fa-ellipsis-h" aria-hidden="true" style="color:#110909"></i>
+                            </a>
+                            <ul class="dropdown-menu" id="OptionsOfShares">
+                                <li>
+                                    <a onclick="document.getElementById('modalForShare').style.display = 'block'">
+                                        שתף קובץ
+                                    </a>
+                                </li>
+                                <li>
+                                    <a onclick="document.getElementById('modalForSendingEmail').style.display = 'block'">
+                                        שלח קובץ בדוא''ל
+                                    </a>
+                                </li>
+                                <li><a>מחק קובץ</a></li>
+
+                            </ul>
+                        </div>
+                    </td>
+                    <td></td>
+                    <td>12345678912345678912345678912345</td>
+                    <td>01/01/2018</td>
+                    <td>נעמי פישביין</td>
+                    <td>מכתב פיטורין</td>
+                </tr>
+                <tr>
+                    <td>
+                        <div class="dropdown-container">
+                            <a class="dropdown-toggle" data-toggle="dropdown">
+                                <i class="fa fa-ellipsis-h" aria-hidden="true" style="color:#110909"></i>
+                            </a>
+                            <ul class="dropdown-menu" id="OptionsOfShares">
+                                <li>
+                                    <a onclick="document.getElementById('modalForShare').style.display = 'block'">
+                                        שתף קובץ
+                                    </a>
+                                </li>
+                                <li>
+                                    <a onclick="document.getElementById('modalForSendingEmail').style.display = 'block'">
+                                        שלח קובץ בדוא''ל
+                                    </a>
+                                </li>
+                                <li><a>מחק קובץ</a></li>
+
+                            </ul>
+                        </div>
+                    </td>
+                    <td></td>
+                    <td>12345678912345678912345678912345</td>
+                    <td>01/01/2018</td>
+                    <td>נעמי פישביין</td>
+                    <td>מכתב פיטורין</td>
+                </tr>
+                <tr>
+                    <td>
+                        <div class="dropdown-container">
+                            <a class="dropdown-toggle" data-toggle="dropdown">
+                                <i class="fa fa-ellipsis-h" aria-hidden="true" style="color:#110909"></i>
+                            </a>
+                            <ul class="dropdown-menu" id="OptionsOfShares">
+                                <li>
+                                    <a onclick="document.getElementById('modalForShare').style.display = 'block'">
+                                        שתף קובץ
+                                    </a>
+                                </li>
+                                <li>
+                                    <a onclick="document.getElementById('modalForSendingEmail').style.display = 'block'">
+                                        שלח קובץ בדוא''ל
+                                    </a>
+                                </li>
+                                <li><a>מחק קובץ</a></li>
+
+                            </ul>
+                        </div>
+                    </td>
+                    <td></td>
+                    <td>12345678912345678912345678912345</td>
+                    <td>01/01/2018</td>
+                    <td>נעמי פישביין</td>
+                    <td>מכתב פיטורין</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</div>
+
+<!--start buttons above the grid-->
+
+@Html.ActionLink("הוספת תבנית","Template")
+
+<!--end buttons above the grid-->
+<!----start modal form sending email -->
+<div class="w3-container">
+    <div id="modalForSendingEmail" class="w3-modal">
+        <div class="w3-modal-content w3-card-4 w3-animate-zoom" style="max-width:500px">
+            <div class="modal-header">
+                <span onclick="document.getElementById('modalForSendingEmail').style.display = 'none'" class="close">
+                    &times;
+                </span>
+            </div>
+            <form class="w3-container" action="Home/SendEmail" method="post">
+                <div class="form-group">
+                    <label for="">שם משתמש</label>
+                    <input type="text" name="userName" class="form-control" id="exampleInputPassword1" placeholder="הכנס שם משתמש">
+                    @*
+                                            האם צריך שורות אלו???????????????
+
+                        @if (ViewBag.validateUserName != null)
+                        {
+                            <div class="alert alert-danger">@ViewBag.validateUserName</div>
+                        }*@
+                </div>
+                <div class="form-group">
+                    <label for="">כתובת אימייל</label>
+                    <input type="email" name="password" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="הכנס כתובת אימייל" oninvalid="func()">
+                </div>
+                <button type="submit" class="btn btn-primary" style="margin:15px">שלח</button>
+            </form>
+        </div>
+    </div>
+</div>
+@*------------end form for sending email----------*@
+
+
+<!------start  form for share file -------->
+<div class="w3-container">
+    <div id="modalForShare" class="w3-modal">
+        <div class="w3-modal-content w3-card-4 w3-animate-zoom" style="max-width:500px">
+            <div class="modal-header">
+                <span onclick="document.getElementById('modalForShare').style.display = 'none'" class="close">
+                    &times;
+                </span>
+            </div>
+            <form class="w3-container" action="Home/ShareFile" method="post">
+                <div class="form-group">
+                    <label for="">שם משתמש</label>
+                    <input type="text" name="userName" class="form-control" id="exampleInputPassword1" placeholder="הכנס שם משתמש">
+                    @*
+                                            האם צריך שורות אלו???????????????
+
+                        @if (ViewBag.validateUserName != null)
+                        {
+                            <div class="alert alert-danger">@ViewBag.validateUserName</div>
+                        }*@
+                </div>
+
+                <button type="submit" class="btn btn-primary" style="margin:15px">שתף     <i class="fa fa-share"></i></button>
+            </form>
+        </div>
+    </div>
+</div>
+@*------------end  form for share file----------*@
+
+<script>  
+    //פתיחת רשימת אפשרויות השיתוף
+    $(".dropdown-menu li a").click(function () {
+        $(this).parents(".dropdown").find('.btn').html($(this).text() + ' <span class="caret"></span>');
+        $(this).parents(".dropdown").find('.btn').val($(this).data('value'));
+    });
+
+    @*--------start----------- *@
+
+    @*--------end----------- *@
+</script>
+<style>
+    .dropdown-container {
+        position: relative;
+    }
+
+    #OptionsOfShares {
+        position: absolute;
+        right: 0;
+        margin-right: 18px !important;
+        top: 2px;
+        width: 0px;
+    }
+
+    #shareOptionsModal {
+        display: none;
+        width: 500px;
+        height: 400px;
+        position: absolute;
+        width: 50%;
+        height: 50%;
+        overflow: auto;
+        margin: auto;
+        position: absolute;
+        top: 0;
+        left: 0;
+        bottom: 0;
+        right: 0;
+    }
+
+    .w3-modal {
+        margin-top: 50px;
+    }
+    /*-------start ---------*/
+
+    /*-------end------------*/
+    a {
+        cursor: pointer;
+    }
+</style>

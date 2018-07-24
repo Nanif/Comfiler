@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="DBcomfilerModelStoreContainer" CdmEntityContainer="DBcomfilerEntities">
+    <EntitySetMapping Name="Categories">
+      <EntityTypeMapping TypeName="DBcomfilerModel.Category">
+        <MappingFragment StoreEntitySet="Categories">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Description" ColumnName="Description" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Files">
+      <EntityTypeMapping TypeName="DBcomfilerModel.File">
+        <MappingFragment StoreEntitySet="Files">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="CreatorID" ColumnName="CreatorID" />
+          <ScalarProperty Name="Date_Creation" ColumnName="Date_Creation" />
+          <ScalarProperty Name="Nae_Update" ColumnName="Nae_Update" />
+          <ScalarProperty Name="Date_Update" ColumnName="Date_Update" />
+          <ScalarProperty Name="TypeID" ColumnName="TypeID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="FilesDetails">
+      <EntityTypeMapping TypeName="DBcomfilerModel.FilesDetail">
+        <MappingFragment StoreEntitySet="FilesDetails">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="CategoryID" ColumnName="CategoryID" />
+          <ScalarProperty Name="Description" ColumnName="Description" />
+          <ScalarProperty Name="Remarks" ColumnName="Remarks" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="FileTypes">
+      <EntityTypeMapping TypeName="DBcomfilerModel.FileType">
+        <MappingFragment StoreEntitySet="FileTypes">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Description" ColumnName="Description" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Histories">
+      <EntityTypeMapping TypeName="DBcomfilerModel.History">
+        <MappingFragment StoreEntitySet="History">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="CreatorID" ColumnName="CreatorID" />
+          <ScalarProperty Name="Date_Creation" ColumnName="Date_Creation" />
+          <ScalarProperty Name="Nae_Update" ColumnName="Nae_Update" />
+          <ScalarProperty Name="Date_Update" ColumnName="Date_Update" />
+          <ScalarProperty Name="Type" ColumnName="Type" />
+          <ScalarProperty Name="Category" ColumnName="Category" />
+          <ScalarProperty Name="Description" ColumnName="Description" />
+          <ScalarProperty Name="Remarks" ColumnName="Remarks" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Permissions">
+      <EntityTypeMapping TypeName="DBcomfilerModel.Permission">
+        <MappingFragment StoreEntitySet="Permissions">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Descripton" ColumnName="Descripton" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="RelationshipUsersFiles">
+      <EntityTypeMapping TypeName="DBcomfilerModel.RelationshipUsersFile">
+        <MappingFragment StoreEntitySet="RelationshipUsersFiles">
+          <ScalarProperty Name="TZ" ColumnName="TZ" />
+          <ScalarProperty Name="FileID" ColumnName="FileID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="RelationshipUsersRoles">
+      <EntityTypeMapping TypeName="DBcomfilerModel.RelationshipUsersRole">
+        <MappingFragment StoreEntitySet="RelationshipUsersRoles">
+          <ScalarProperty Name="TZ" ColumnName="TZ" />
+          <ScalarProperty Name="RoleID" ColumnName="RoleID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Roles">
+      <EntityTypeMapping TypeName="DBcomfilerModel.Role">
+        <MappingFragment StoreEntitySet="Roles">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Description" ColumnName="Description" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Sharings">
+      <EntityTypeMapping TypeName="DBcomfilerModel.Sharing">
+        <MappingFragment StoreEntitySet="Sharings">
+          <ScalarProperty Name="FileID" ColumnName="FileID" />
+          <ScalarProperty Name="TZ" ColumnName="TZ" />
+          <ScalarProperty Name="PermissionID" ColumnName="PermissionID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Users">
+      <EntityTypeMapping TypeName="DBcomfilerModel.User">
+        <MappingFragment StoreEntitySet="Users">
+          <ScalarProperty Name="TZ" ColumnName="TZ" />
+          <ScalarProperty Name="Password" ColumnName="Password" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <AssociationSetMapping Name="Claims" TypeName="DBcomfilerModel.Claims" StoreEntitySet="Claims">
+      <EndProperty Name="Permissions">
+        <ScalarProperty Name="ID" ColumnName="Permission" />
+      </EndProperty>
+      <EndProperty Name="Roles">
+        <ScalarProperty Name="ID" ColumnName="RoleID" />
+      </EndProperty>
+    </AssociationSetMapping>
+  </EntityContainerMapping>
+</Mapping>
