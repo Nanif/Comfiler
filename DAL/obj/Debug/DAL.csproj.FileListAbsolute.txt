@@ -130,3 +130,17 @@ F:\000FINAL_PRIJECT\copy 11\DAL\bin\Debug\EntityFramework.SqlServer.xml
 F:\000FINAL_PRIJECT\copy 11\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
 F:\000FINAL_PRIJECT\copy 11\DAL\obj\Debug\DAL.dll
 F:\000FINAL_PRIJECT\copy 11\DAL\obj\Debug\DAL.pdb
+C:\Users\user1\Documents\GitHub\Comfiler\DAL\bin\Debug\DBProjects.mdf
+C:\Users\user1\Documents\GitHub\Comfiler\DAL\bin\Debug\DBProjects_log.ldf
+C:\Users\user1\Documents\GitHub\Comfiler\DAL\bin\Debug\DAL.dll.config
+C:\Users\user1\Documents\GitHub\Comfiler\DAL\bin\Debug\DAL.dll
+C:\Users\user1\Documents\GitHub\Comfiler\DAL\bin\Debug\DAL.pdb
+C:\Users\user1\Documents\GitHub\Comfiler\DAL\bin\Debug\EntityFramework.dll
+C:\Users\user1\Documents\GitHub\Comfiler\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user1\Documents\GitHub\Comfiler\DAL\bin\Debug\EntityFramework.xml
+C:\Users\user1\Documents\GitHub\Comfiler\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user1\Documents\GitHub\Comfiler\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\user1\Documents\GitHub\Comfiler\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\user1\Documents\GitHub\Comfiler\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\user1\Documents\GitHub\Comfiler\DAL\obj\Debug\DAL.dll
+C:\Users\user1\Documents\GitHub\Comfiler\DAL\obj\Debug\DAL.pdb

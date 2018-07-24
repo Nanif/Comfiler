@@ -1054,3 +1054,7 @@ D:\000FINAL_PRIJECT\copy 11\SITE\obj\Debug\SITE.pdb
 F:\000FINAL_PRIJECT\copy 11\SITE\obj\Debug\SITE.csprojResolveAssemblyReference.cache
 F:\000FINAL_PRIJECT\copy 11\SITE\obj\Debug\SITE.dll
 F:\000FINAL_PRIJECT\copy 11\SITE\obj\Debug\SITE.pdb
+C:\Users\user1\Documents\GitHub\Comfiler\SITE\obj\Debug\SITE.csprojAssemblyReference.cache
+C:\Users\user1\Documents\GitHub\Comfiler\SITE\obj\Debug\SITE.csproj.CoreCompileInputs.cache
+C:\Users\user1\Documents\GitHub\Comfiler\SITE\obj\Debug\SITE.dll
+C:\Users\user1\Documents\GitHub\Comfiler\SITE\obj\Debug\SITE.pdb
