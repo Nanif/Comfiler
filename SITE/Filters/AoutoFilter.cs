@@ -5,14 +5,14 @@ using System.Web;
 using System.Web.Mvc;
 namespace SITE.Filters
 {
-    public class AoutoFilter: AuthorizeAttribute
+    public class AoutoFilter : AuthorizeAttribute
     {
         public override void OnAuthorization(AuthorizationContext filterContext)
         {
-            // if (filterContext.HttpContext.Session["UserName"]==null)
-            if (false)
+           
+            if (filterContext.HttpContext.Session["userEmail"] == null)
             {
-                //filterContext.Result = new RedirectResult("/Account/Login");
+                filterContext.Result = new RedirectResult("/Account/Login");
             }
         }
     }

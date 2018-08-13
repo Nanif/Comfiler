@@ -5,3 +5,18 @@ D:\000FINAL_PRIJECT\copy 11\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
 F:\000FINAL_PRIJECT\copy 11\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
 C:\Users\user1\Documents\GitHub\Comfiler\BL\obj\Debug\BL.csprojAssemblyReference.cache
 C:\Users\user1\Documents\GitHub\Comfiler\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\user1\Documents\GitHub\Comfiler\BL\bin\Debug\DBProjects.mdf
+C:\Users\user1\Documents\GitHub\Comfiler\BL\bin\Debug\DBProjects_log.ldf
+C:\Users\user1\Documents\GitHub\Comfiler\BL\bin\Debug\BL.dll.config
+C:\Users\user1\Documents\GitHub\Comfiler\BL\bin\Debug\BL.dll
+C:\Users\user1\Documents\GitHub\Comfiler\BL\bin\Debug\BL.pdb
+C:\Users\user1\Documents\GitHub\Comfiler\BL\bin\Debug\EntityFramework.dll
+C:\Users\user1\Documents\GitHub\Comfiler\BL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user1\Documents\GitHub\Comfiler\BL\bin\Debug\EntityFramework.xml
+C:\Users\user1\Documents\GitHub\Comfiler\BL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user1\Documents\GitHub\Comfiler\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\user1\Documents\GitHub\Comfiler\BL\obj\Debug\BL.dll
+C:\Users\user1\Documents\GitHub\Comfiler\BL\obj\Debug\BL.pdb
+C:\Users\user1\Documents\GitHub\Comfiler\BL\bin\Debug\DAL.dll
+C:\Users\user1\Documents\GitHub\Comfiler\BL\bin\Debug\DAL.pdb
+C:\Users\user1\Documents\GitHub\Comfiler\BL\bin\Debug\DAL.dll.config

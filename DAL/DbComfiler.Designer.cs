@@ -1,4 +1,4 @@
-﻿// T4 code generation is enabled for model 'D:\מסמכים\נעמי\a שנה ב' תכנות\000FINAL_PRIJECT\copy 9\DAL\DbComfiler.edmx'. 
+﻿// T4 code generation is enabled for model 'C:\Users\user1\Documents\GitHub\Comfiler\DAL\DbComfiler.edmx'. 
 // To enable legacy code generation, change the value of the 'Code Generation Strategy' designer
 // property to 'Legacy ObjectContext'. This property is available in the Properties Window when the model
 // is open in the designer.

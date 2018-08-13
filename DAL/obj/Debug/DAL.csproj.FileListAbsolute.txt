@@ -139,8 +139,8 @@ C:\Users\user1\Documents\GitHub\Comfiler\DAL\bin\Debug\EntityFramework.dll
 C:\Users\user1\Documents\GitHub\Comfiler\DAL\bin\Debug\EntityFramework.SqlServer.dll
 C:\Users\user1\Documents\GitHub\Comfiler\DAL\bin\Debug\EntityFramework.xml
 C:\Users\user1\Documents\GitHub\Comfiler\DAL\bin\Debug\EntityFramework.SqlServer.xml
-C:\Users\user1\Documents\GitHub\Comfiler\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
 C:\Users\user1\Documents\GitHub\Comfiler\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
 C:\Users\user1\Documents\GitHub\Comfiler\DAL\obj\Debug\DAL.csproj.CopyComplete
 C:\Users\user1\Documents\GitHub\Comfiler\DAL\obj\Debug\DAL.dll
 C:\Users\user1\Documents\GitHub\Comfiler\DAL\obj\Debug\DAL.pdb
+C:\Users\user1\Documents\GitHub\Comfiler\DAL\obj\Debug\DAL.csprojAssemblyReference.cache

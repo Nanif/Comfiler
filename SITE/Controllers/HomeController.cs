@@ -4,10 +4,9 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 using SITE.Filters;
-using BL;
 namespace SITE.Controllers
 {
-   // [AoutoFilter]
+    [AoutoFilter]
     public class HomeController : Controller
     {
         // GET: Home
@@ -30,10 +29,8 @@ namespace SITE.Controllers
             return PartialView("_sendEmailForm");
         }
         public ActionResult Template() {
-            Logic.AddTamplate();
-            
+         //   Logic.AddTamplate();
             return RedirectToAction("Index");
-
         }
     }
 }

@@ -4,6 +4,8 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 using BL;
+using DAL;
+
 namespace SITE.Controllers
 {
     public class AccountController : Controller
@@ -14,9 +16,15 @@ namespace SITE.Controllers
             return View();
         }
         [HttpPost]
-        public ActionResult Login(int id)
+        public ActionResult Login(string TZ,string password)
         {
-          //  var user = UserData.GetUserByID(id);
+            User user = Logic.GetUserByTZ(TZ);
+            if (user!=null)
+            {
+                Session["userEmail"]= user.Email;
+                var x = Session["userEmail"];
+                return RedirectToAction("Index","Home");
+            }
             return View();
         }
 
