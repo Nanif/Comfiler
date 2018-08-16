@@ -130,8 +130,6 @@ F:\000FINAL_PRIJECT\copy 11\DAL\bin\Debug\EntityFramework.SqlServer.xml
 F:\000FINAL_PRIJECT\copy 11\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
 F:\000FINAL_PRIJECT\copy 11\DAL\obj\Debug\DAL.dll
 F:\000FINAL_PRIJECT\copy 11\DAL\obj\Debug\DAL.pdb
-C:\Users\user1\Documents\GitHub\Comfiler\DAL\bin\Debug\DBProjects.mdf
-C:\Users\user1\Documents\GitHub\Comfiler\DAL\bin\Debug\DBProjects_log.ldf
 C:\Users\user1\Documents\GitHub\Comfiler\DAL\bin\Debug\DAL.dll.config
 C:\Users\user1\Documents\GitHub\Comfiler\DAL\bin\Debug\DAL.dll
 C:\Users\user1\Documents\GitHub\Comfiler\DAL\bin\Debug\DAL.pdb

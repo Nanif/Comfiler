@@ -69,69 +69,68 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Category.cs">
-      <DependentUpon>DbComfiler.tt</DependentUpon>
+      <DependentUpon>DBcomfiler.tt</DependentUpon>
     </Compile>
-    <Compile Include="Class1.cs" />
-    <Compile Include="DbComfiler.Context.cs">
+    <Compile Include="DBcomfiler.Context.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
-      <DependentUpon>DbComfiler.Context.tt</DependentUpon>
+      <DependentUpon>DBcomfiler.Context.tt</DependentUpon>
     </Compile>
-    <Compile Include="DbComfiler.cs">
+    <Compile Include="DBcomfiler.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
-      <DependentUpon>DbComfiler.tt</DependentUpon>
+      <DependentUpon>DBcomfiler.tt</DependentUpon>
     </Compile>
-    <Compile Include="DbComfiler.Designer.cs">
+    <Compile Include="DBcomfiler.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
-      <DependentUpon>DbComfiler.edmx</DependentUpon>
+      <DependentUpon>DBcomfiler.edmx</DependentUpon>
     </Compile>
     <Compile Include="Extension.cs">
-      <DependentUpon>DbComfiler.tt</DependentUpon>
+      <DependentUpon>DBcomfiler.tt</DependentUpon>
     </Compile>
     <Compile Include="File.cs">
-      <DependentUpon>DbComfiler.tt</DependentUpon>
+      <DependentUpon>DBcomfiler.tt</DependentUpon>
     </Compile>
     <Compile Include="FilesDetail.cs">
-      <DependentUpon>DbComfiler.tt</DependentUpon>
+      <DependentUpon>DBcomfiler.tt</DependentUpon>
     </Compile>
     <Compile Include="History.cs">
-      <DependentUpon>DbComfiler.tt</DependentUpon>
+      <DependentUpon>DBcomfiler.tt</DependentUpon>
     </Compile>
     <Compile Include="Permission.cs">
-      <DependentUpon>DbComfiler.tt</DependentUpon>
+      <DependentUpon>DBcomfiler.tt</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Role.cs">
-      <DependentUpon>DbComfiler.tt</DependentUpon>
+      <DependentUpon>DBcomfiler.tt</DependentUpon>
     </Compile>
     <Compile Include="ShareLevel.cs">
-      <DependentUpon>DbComfiler.tt</DependentUpon>
+      <DependentUpon>DBcomfiler.tt</DependentUpon>
     </Compile>
     <Compile Include="Sharing.cs">
-      <DependentUpon>DbComfiler.tt</DependentUpon>
+      <DependentUpon>DBcomfiler.tt</DependentUpon>
     </Compile>
     <Compile Include="sysdiagram.cs">
-      <DependentUpon>DbComfiler.tt</DependentUpon>
+      <DependentUpon>DBcomfiler.tt</DependentUpon>
     </Compile>
     <Compile Include="Template.cs">
-      <DependentUpon>DbComfiler.tt</DependentUpon>
+      <DependentUpon>DBcomfiler.tt</DependentUpon>
     </Compile>
     <Compile Include="User.cs">
-      <DependentUpon>DbComfiler.tt</DependentUpon>
+      <DependentUpon>DBcomfiler.tt</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>
     <None Include="App.Config">
       <SubType>Designer</SubType>
     </None>
-    <EntityDeploy Include="DbComfiler.edmx">
+    <EntityDeploy Include="DBcomfiler.edmx">
       <Generator>EntityModelCodeGenerator</Generator>
-      <LastGenOutput>DbComfiler.Designer.cs</LastGenOutput>
+      <LastGenOutput>DBcomfiler.Designer.cs</LastGenOutput>
     </EntityDeploy>
-    <None Include="DbComfiler.edmx.diagram">
-      <DependentUpon>DbComfiler.edmx</DependentUpon>
+    <None Include="DBcomfiler.edmx.diagram">
+      <DependentUpon>DBcomfiler.edmx</DependentUpon>
     </None>
     <None Include="packages.config" />
   </ItemGroup>
@@ -139,30 +138,23 @@
     <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="DbComfiler.Context.tt">
-      <Generator>TextTemplatingFileGenerator</Generator>
-      <DependentUpon>DbComfiler.edmx</DependentUpon>
-      <LastGenOutput>DbComfiler.Context.cs</LastGenOutput>
-    </Content>
-    <Content Include="DbComfiler.tt">
-      <Generator>TextTemplatingFileGenerator</Generator>
-      <DependentUpon>DbComfiler.edmx</DependentUpon>
-      <LastGenOutput>DbComfiler.cs</LastGenOutput>
-    </Content>
-    <Content Include="DBProjects.mdf">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
-    <Content Include="DBProjects_log.ldf">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-      <DependentUpon>DBProjects.mdf</DependentUpon>
-    </Content>
-  </ItemGroup>
-  <ItemGroup>
     <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
       <Visible>False</Visible>
       <ProductName>.NET Framework 3.5 SP1</ProductName>
       <Install>false</Install>
     </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="DBcomfiler.Context.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>DBcomfiler.edmx</DependentUpon>
+      <LastGenOutput>DBcomfiler.Context.cs</LastGenOutput>
+    </Content>
+    <Content Include="DBcomfiler.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>DBcomfiler.edmx</DependentUpon>
+      <LastGenOutput>DBcomfiler.cs</LastGenOutput>
+    </Content>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

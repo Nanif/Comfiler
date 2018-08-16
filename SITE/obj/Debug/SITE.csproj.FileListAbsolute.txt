@@ -1106,8 +1106,6 @@ C:\Users\user1\Documents\GitHub\Comfiler\SITE\bin\roslyn\vbc.exe.config
 C:\Users\user1\Documents\GitHub\Comfiler\SITE\bin\roslyn\vbc.rsp
 C:\Users\user1\Documents\GitHub\Comfiler\SITE\bin\roslyn\VBCSCompiler.exe
 C:\Users\user1\Documents\GitHub\Comfiler\SITE\bin\roslyn\VBCSCompiler.exe.config
-C:\Users\user1\Documents\GitHub\Comfiler\SITE\bin\DBProjects.mdf
-C:\Users\user1\Documents\GitHub\Comfiler\SITE\bin\DBProjects_log.ldf
 C:\Users\user1\Documents\GitHub\Comfiler\SITE\bin\SITE.dll.config
 C:\Users\user1\Documents\GitHub\Comfiler\SITE\bin\SITE.dll
 C:\Users\user1\Documents\GitHub\Comfiler\SITE\bin\SITE.pdb

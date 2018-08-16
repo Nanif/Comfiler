@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
-  <EntityContainerMapping StorageEntityContainer="DBcomfilerModelStoreContainer" CdmEntityContainer="DBcomfilerEntities1">
+  <EntityContainerMapping StorageEntityContainer="DBcomfilerModelStoreContainer" CdmEntityContainer="DBcomfilerEntities2">
     <EntitySetMapping Name="Categories">
       <EntityTypeMapping TypeName="DBcomfilerModel.Category">
         <MappingFragment StoreEntitySet="Categories">

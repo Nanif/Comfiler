@@ -11,7 +11,7 @@ namespace BL
     {
         public static User GetUserByTZ(string tz)
         {
-            using(DBcomfilerEntities1 context=new DBcomfilerEntities1())
+            using(DBcomfilerEntities2 context=new DBcomfilerEntities2())
             {
                 //todo לחבר את הדטבייס 
               var user = context.Users.FirstOrDefault(x => x.TZ == tz);

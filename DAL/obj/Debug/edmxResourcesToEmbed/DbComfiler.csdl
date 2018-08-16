@@ -81,7 +81,7 @@
     </Key>
     <Property Name="ID" Type="Int32" Nullable="false" />
     <Property Name="Description" Type="String" MaxLength="25" FixedLength="false" Unicode="true" Nullable="false" />
-    <NavigationProperty Name="Sharings" Relationship="Self.FK_Sharings_Sharelevel" FromRole="ShareLevel" ToRole="Sharings" />
+    <NavigationProperty Name="Sharings" Relationship="Self.FK_Sharings_ShareLevel" FromRole="ShareLevel" ToRole="Sharings" />
   </EntityType>
   <EntityType Name="Sharing">
     <Key>
@@ -92,7 +92,7 @@
     <Property Name="FileID" Type="String" MaxLength="32" FixedLength="true" Unicode="true" Nullable="false" />
     <Property Name="TZ" Type="String" MaxLength="9" FixedLength="true" Unicode="true" Nullable="false" />
     <Property Name="ShareLevelID" Type="Int32" Nullable="false" />
-    <NavigationProperty Name="ShareLevel" Relationship="Self.FK_Sharings_Sharelevel" FromRole="Sharings" ToRole="ShareLevel" />
+    <NavigationProperty Name="ShareLevel" Relationship="Self.FK_Sharings_ShareLevel" FromRole="Sharings" ToRole="ShareLevel" />
     <NavigationProperty Name="User" Relationship="Self.FK_Sharings_tbl_Users_tbl" FromRole="Sharings" ToRole="Users" />
   </EntityType>
   <EntityType Name="sysdiagram">
@@ -209,7 +209,7 @@
       </Dependent>
     </ReferentialConstraint>
   </Association>
-  <Association Name="FK_Sharings_Sharelevel">
+  <Association Name="FK_Sharings_ShareLevel">
     <End Role="ShareLevel" Type="Self.ShareLevel" Multiplicity="1" />
     <End Role="Sharings" Type="Self.Sharing" Multiplicity="*" />
     <ReferentialConstraint>
@@ -241,7 +241,7 @@
     <End Role="Roles" Type="Self.Role" Multiplicity="*" />
     <End Role="Users" Type="Self.User" Multiplicity="*" />
   </Association>
-  <EntityContainer Name="DBcomfilerEntities1" annotation:LazyLoadingEnabled="true">
+  <EntityContainer Name="DBcomfilerEntities2" annotation:LazyLoadingEnabled="true">
     <EntitySet Name="Categories" EntityType="Self.Category" />
     <EntitySet Name="Extensions" EntityType="Self.Extension" />
     <EntitySet Name="Files" EntityType="Self.File" />
@@ -282,7 +282,7 @@
       <End Role="Users" EntitySet="Users" />
       <End Role="History" EntitySet="Histories" />
     </AssociationSet>
-    <AssociationSet Name="FK_Sharings_Sharelevel" Association="Self.FK_Sharings_Sharelevel">
+    <AssociationSet Name="FK_Sharings_ShareLevel" Association="Self.FK_Sharings_ShareLevel">
       <End Role="ShareLevel" EntitySet="ShareLevels" />
       <End Role="Sharings" EntitySet="Sharings" />
     </AssociationSet>
