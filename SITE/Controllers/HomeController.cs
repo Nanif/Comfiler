@@ -4,6 +4,8 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 using SITE.Filters;
+using SITE.Models;
+
 namespace SITE.Controllers
 {
     [AoutoFilter]
@@ -12,9 +14,10 @@ namespace SITE.Controllers
         // GET: Home
         public ActionResult Index()
         {
-            return View();
+            var ViewModelUsersFiles = new ViewModelUsersFiles();
+            return View(ViewModelUsersFiles);
         }
-       
+          
         [HttpPost]
         public ActionResult SendEmail(string userName, string password)
         {

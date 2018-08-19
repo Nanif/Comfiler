@@ -131,10 +131,6 @@
     <Content Include="Content\bootstrap-reboot.min.css" />
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
-    <Content Include="font-awesome-4.7.0\css\font-awesome.css" />
-    <Content Include="font-awesome-4.7.0\css\font-awesome.min.css" />
-    <Content Include="font-awesome-4.7.0\fonts\fontawesome-webfont.svg" />
-    <Content Include="font-awesome-4.7.0\HELP-US-OUT.txt" />
     <Content Include="fontawesome-free-5.2.0-web\fontawesome-free-5.2.0-web\css\all.css" />
     <Content Include="fontawesome-free-5.2.0-web\fontawesome-free-5.2.0-web\css\all.min.css" />
     <Content Include="fontawesome-free-5.2.0-web\fontawesome-free-5.2.0-web\css\brands.css" />
@@ -1467,39 +1463,6 @@
     <Content Include="fontawesome-free-5.2.0-web\fontawesome-free-5.2.0-web\webfonts\fa-regular-400.svg" />
     <Content Include="fontawesome-free-5.2.0-web\fontawesome-free-5.2.0-web\webfonts\fa-solid-900.svg" />
     <Content Include="Global.asax" />
-    <Content Include="font-awesome-4.7.0\fonts\fontawesome-webfont.eot" />
-    <Content Include="font-awesome-4.7.0\fonts\fontawesome-webfont.ttf" />
-    <Content Include="font-awesome-4.7.0\fonts\fontawesome-webfont.woff" />
-    <Content Include="font-awesome-4.7.0\fonts\fontawesome-webfont.woff2" />
-    <Content Include="font-awesome-4.7.0\fonts\FontAwesome.otf" />
-    <Content Include="font-awesome-4.7.0\less\animated.less" />
-    <Content Include="font-awesome-4.7.0\less\bordered-pulled.less" />
-    <Content Include="font-awesome-4.7.0\less\core.less" />
-    <Content Include="font-awesome-4.7.0\less\fixed-width.less" />
-    <Content Include="font-awesome-4.7.0\less\font-awesome.less" />
-    <Content Include="font-awesome-4.7.0\less\icons.less" />
-    <Content Include="font-awesome-4.7.0\less\larger.less" />
-    <Content Include="font-awesome-4.7.0\less\list.less" />
-    <Content Include="font-awesome-4.7.0\less\mixins.less" />
-    <Content Include="font-awesome-4.7.0\less\path.less" />
-    <Content Include="font-awesome-4.7.0\less\rotated-flipped.less" />
-    <Content Include="font-awesome-4.7.0\less\screen-reader.less" />
-    <Content Include="font-awesome-4.7.0\less\stacked.less" />
-    <Content Include="font-awesome-4.7.0\less\variables.less" />
-    <Content Include="font-awesome-4.7.0\scss\font-awesome.scss" />
-    <Content Include="font-awesome-4.7.0\scss\_animated.scss" />
-    <Content Include="font-awesome-4.7.0\scss\_bordered-pulled.scss" />
-    <Content Include="font-awesome-4.7.0\scss\_core.scss" />
-    <Content Include="font-awesome-4.7.0\scss\_fixed-width.scss" />
-    <Content Include="font-awesome-4.7.0\scss\_icons.scss" />
-    <Content Include="font-awesome-4.7.0\scss\_larger.scss" />
-    <Content Include="font-awesome-4.7.0\scss\_list.scss" />
-    <Content Include="font-awesome-4.7.0\scss\_mixins.scss" />
-    <Content Include="font-awesome-4.7.0\scss\_path.scss" />
-    <Content Include="font-awesome-4.7.0\scss\_rotated-flipped.scss" />
-    <Content Include="font-awesome-4.7.0\scss\_screen-reader.scss" />
-    <Content Include="font-awesome-4.7.0\scss\_stacked.scss" />
-    <Content Include="font-awesome-4.7.0\scss\_variables.scss" />
     <Content Include="Content\bootstrap.min.css.map" />
     <Content Include="Content\bootstrap.css.map" />
     <Content Include="Content\bootstrap-reboot.min.css.map" />
@@ -1565,6 +1528,7 @@
     <Content Include="fontawesome-free-5.2.0-web\fontawesome-free-5.2.0-web\webfonts\fa-solid-900.woff" />
     <Content Include="fontawesome-free-5.2.0-web\fontawesome-free-5.2.0-web\webfonts\fa-solid-900.woff2" />
     <None Include="Scripts\jquery-3.0.0-vsdoc.js" />
+    <Content Include="myScripts\filterFiles.js" />
     <Content Include="Scripts\bootstrap-datepicker.js" />
     <Content Include="Scripts\bootstrap-datepicker.min.js" />
     <Content Include="Scripts\jquery-3.0.0.js" />
@@ -1667,6 +1631,7 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
+    <Compile Include="Models\ViewModelUsersFiles.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -1691,7 +1656,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
-    <Folder Include="Models\" />
   </ItemGroup>
   <ItemGroup>
     <Service Include="{4A0DDDB5-7A95-4FBF-97CC-616D07737A77}" />

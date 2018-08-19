@@ -1,4 +1,7 @@
-﻿<link href="~/Styles/w3css.css" rel="stylesheet" />
+﻿@using DAL
+@model List<User>
+
+<link href="~/Styles/w3css.css" rel="stylesheet" />
 <div class="row">
     <div class="col-sm-12">
         <table class="table table-bordered  table-responsive-md table-fixed" style="margin-top:50px">
@@ -16,8 +19,8 @@
                 <tr>
                     <td>
                         <div class="dropdown-container">
-                            <a class="dropdown-toggle" data-toggle="dropdown">
-                                <i class="fa fa-ellipsis-h" aria-hidden="true" style="color:#110909"></i>
+                            <a data-toggle="dropdown">
+                                <i class="fa fa-ellipsis-h" style="color:#110909"></i>
                             </a>
                             <ul class="dropdown-menu" id="OptionsOfShares">
                                 <li>
@@ -35,7 +38,8 @@
                         </div>
                     </td>
                     <td>
-                        <a href="#"><i class="far fa-file-word"></i></a>
+                        this is the one
+                        <i class="far fa-file-word" onclick="downloadFile()"></i>
                     </td>
                     <td>12345678912345678912345678912345</td>
                     <td>01/01/2018</td>
@@ -45,7 +49,7 @@
                 <tr>
                     <td>
                         <div class="dropdown-container">
-                            <a class="dropdown-toggle" data-toggle="dropdown">
+                            <a data-toggle="dropdown">
                                 <i class="fa fa-ellipsis-h" aria-hidden="true" style="color:#110909"></i>
                             </a>
                             <ul class="dropdown-menu" id="OptionsOfShares">
@@ -75,7 +79,7 @@
                 <tr>
                     <td>
                         <div class="dropdown-container">
-                            <a class="dropdown-toggle" data-toggle="dropdown">
+                            <a accesskey="dropdown">
                                 <i class="fa fa-ellipsis-h" aria-hidden="true" style="color:#110909"></i>
                             </a>
                             <ul class="dropdown-menu" id="OptionsOfShares">
@@ -97,10 +101,10 @@
                     <td>
                         <i class="far fa-file-word"></i>
                     </td>
-                    <td>12345678912345678912345678912345</td>
+                    <td>12345673478912345678912345</td>
                     <td>01/01/2018</td>
-                    <td>נעמי פישביין</td>
-                    <td>מכתב פיטורין</td>
+                    <td>שרה רבקה רחל לאה לוי</td>
+                    <td>מכתב למערכת בעקבות הפירסום</td>
                 </tr>
             </tbody>
         </table>
@@ -123,11 +127,10 @@
             </div>
             <form class="w3-container" action="Home/SendEmail" method="post">
                 <div class="form-group">
-                    <label for="">שם משתמש</label>
-                    <input type="text" name="userName" class="form-control" id="exampleInputPassword1" placeholder="הכנס שם משתמש">
+                    <label for="">נושא</label>
+                    <input type="text" name="userName" class="form-control" id="exampleInputPassword1" placeholder="הכנס נושא">
                     @*
-                                            האם צריך שורות אלו???????????????
-
+                        האם צריך שורות אלו???????????????
                         @if (ViewBag.validateUserName != null)
                         {
                             <div class="alert alert-danger">@ViewBag.validateUserName</div>
@@ -135,7 +138,13 @@
                 </div>
                 <div class="form-group">
                     <label for="">כתובת אימייל</label>
-                    <input type="email" name="password" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="הכנס כתובת אימייל" oninvalid="func()">
+                    <input type="email" multiple="multiple" class="form-control" placeholder="הכנס כתובת אימייל" id="shareEmail" oninput="filterEmail()">
+                    <ul id="divListGroupEmail"  class="list-group">
+                        @foreach (var user in Model)
+                        {
+                            <li href="#" class="list-group-item aItemEmail">@user.Email</li>
+                        }
+                    </ul>
                 </div>
                 <button type="submit" class="btn btn-primary" style="margin:15px">שלח</button>
             </form>
@@ -143,7 +152,6 @@
     </div>
 </div>
 @*------------end form for sending email----------*@
-
 
 <!------start  form for share file -------->
 <div class="w3-container">
@@ -159,8 +167,7 @@
                     <label for="">שם משתמש</label>
                     <input type="text" name="userName" class="form-control" id="exampleInputPassword1" placeholder="הכנס שם משתמש">
                     @*
-                                            האם צריך שורות אלו???????????????
-
+                                            האם צריך שורות אלו??????????????
                         @if (ViewBag.validateUserName != null)
                         {
                             <div class="alert alert-danger">@ViewBag.validateUserName</div>
@@ -175,16 +182,40 @@
 @*------------end  form for share file----------*@
 
 <script>
+    $('.dropdown-toggle').dropdown()
+    function downloadFile() {
+        var file = new File(["aa"], "123456789.doxc")
+        var link = document.createElement("a");
+        link.download = file.name;
+        link.href = file;
+        link.click();
+    };
+    function filterEmail() {
+        var input, filter, ul, li, a, i;
+        input = document.getElementById("shareEmail");
+        filter = input.value.toUpperCase();
+        ul = document.getElementById("divListGroupEmail");
+        li = ul.getElementsByTagName("aItemEmail");
+        debugger
+        console.log(ul);
 
-    //פתיחת רשימת אפשרויות השיתוף
-    $(".dropdown-menu li a").click(function () {
-        $(this).parents(".dropdown").find('.btn').html($(this).text() + ' <span class="caret"></span>');
-        $(this).parents(".dropdown").find('.btn').val($(this).data('value'));
-    });
+    //    ul.children[0].innerText
 
-    @*--------start----------- *@
 
-    @*--------end----------- *@
+        for (i = 0; i < ul.length; i++) {
+            a = li[i].getElementsByTagName("a")[0];
+            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
+                li[i].style.display = "";
+            } else {
+                li[i].style.display = "none";
+            }
+        }
+    
+    }
+    $('#emailShareUser').change(function () {
+        alert();
+    })
+
 </script>
 <style>
     .dropdown-container {
