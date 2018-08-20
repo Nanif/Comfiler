@@ -59,7 +59,7 @@
                                     </a>
                                 </li>
                                 <li>
-                                    <a onclick="document.getElementById('modalForSendingEmail').style.display = 'block'">
+                                    <a onclick="hideAllEmailUsers();document.getElementById('modalForSendingEmail').style.display = 'block'">
                                         שלח קובץ בדוא''ל
                                     </a>
                                 </li>
@@ -139,12 +139,12 @@
                 <div class="form-group">
                     <label for="">כתובת אימייל</label>
                     <input type="email" multiple="multiple" class="form-control" placeholder="הכנס כתובת אימייל" id="shareEmail" oninput="filterEmail()">
-                    <ul id="divListGroupEmail"  class="list-group">
+                    <div id="divListGroupEmail" class="list-group">
                         @foreach (var user in Model)
                         {
-                            <li href="#" class="list-group-item aItemEmail">@user.Email</li>
+                            <div href="#" class="list-group-item aItemEmail">@user.Email</div>
                         }
-                    </ul>
+                    </div>
                 </div>
                 <button type="submit" class="btn btn-primary" style="margin:15px">שלח</button>
             </form>
@@ -190,28 +190,34 @@
         link.href = file;
         link.click();
     };
+
+    function hideAllEmailUsers() {
+        alert();
+        debugger
+        var ul = document.getElementById("divListGroupEmail");
+        var li = ul.getElementsByClassName("aItemEmail");
+        for (var i = 0; i < li.length; i++) {
+            li[i].style.display = "none";
+            debugger
+        }
+    };
+
     function filterEmail() {
         var input, filter, ul, li, a, i;
         input = document.getElementById("shareEmail");
-        filter = input.value.toUpperCase();
+        filter = input.value;
         ul = document.getElementById("divListGroupEmail");
-        li = ul.getElementsByTagName("aItemEmail");
-        debugger
-        console.log(ul);
+        li = ul.getElementsByClassName("aItemEmail");
 
-    //    ul.children[0].innerText
-
-
-        for (i = 0; i < ul.length; i++) {
-            a = li[i].getElementsByTagName("a")[0];
-            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
+        for (var i = 0; i < li.length; i++) {
+            if (li[i].textContent.indexOf(filter) > -1) {
                 li[i].style.display = "";
             } else {
                 li[i].style.display = "none";
             }
         }
-    
     }
+
     $('#emailShareUser').change(function () {
         alert();
     })
