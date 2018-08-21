@@ -29,7 +29,7 @@
                                     </a>
                                 </li>
                                 <li>
-                                    <a onclick="document.getElementById('modalForSendingEmail').style.display = 'block'">
+                                    <a onclick="hideAllEmailUsers();document.getElementById('modalForSendingEmail').style.display = 'block'">
                                         שלח קובץ בדוא''ל
                                     </a>
                                 </li>
@@ -89,7 +89,7 @@
                                     </a>
                                 </li>
                                 <li>
-                                    <a onclick="document.getElementById('modalForSendingEmail').style.display = 'block'">
+                                    <a onclick="hideAllEmailUsers();document.getElementById('modalForSendingEmail').style.display = 'block'">
                                         שלח קובץ בדוא''ל
                                     </a>
                                 </li>
@@ -112,10 +112,9 @@
 </div>
 
 <!--start buttons above the grid-->
-
 @Html.ActionLink("הוספת תבנית", "Template")
-
 <!--end buttons above the grid-->
+
 <!----start modal form sending email -->
 <div class="w3-container">
     <div id="modalForSendingEmail" class="w3-modal">
@@ -128,7 +127,7 @@
             <form class="w3-container" action="Home/SendEmail" method="post">
                 <div class="form-group">
                     <label for="">נושא</label>
-                    <input type="text" name="userName" class="form-control" id="exampleInputPassword1" placeholder="הכנס נושא">
+                    <input type="text" name="subject" class="form-control" id="exampleInputPassword1" placeholder="הכנס נושא">
                     @*
                         האם צריך שורות אלו???????????????
                         @if (ViewBag.validateUserName != null)
@@ -138,11 +137,11 @@
                 </div>
                 <div class="form-group">
                     <label for="">כתובת אימייל</label>
-                    <input type="email" multiple="multiple" class="form-control" placeholder="הכנס כתובת אימייל" id="shareEmail" oninput="filterEmail()">
+                    <input type="email" multiple="multiple" class="form-control" placeholder="הכנס כתובת אימייל" id="shareEmail" name="emailAddress" oninput="filterEmail()">
                     <div id="divListGroupEmail" class="list-group">
                         @foreach (var user in Model)
                         {
-                            <div href="#" class="list-group-item aItemEmail">@user.Email</div>
+                            <div href="#" class="list-group-item aItemEmail" onclick="selectEmail(@user.Email)">@user.Email</div>
                         }
                     </div>
                 </div>
@@ -193,12 +192,11 @@
 
     function hideAllEmailUsers() {
         alert();
-        debugger
+        
         var ul = document.getElementById("divListGroupEmail");
         var li = ul.getElementsByClassName("aItemEmail");
         for (var i = 0; i < li.length; i++) {
             li[i].style.display = "none";
-            debugger
         }
     };
 
@@ -216,7 +214,11 @@
                 li[i].style.display = "none";
             }
         }
-    }
+    };
+
+    function selectEmail(email) {
+        alert(email);
+    };
 
     $('#emailShareUser').change(function () {
         alert();

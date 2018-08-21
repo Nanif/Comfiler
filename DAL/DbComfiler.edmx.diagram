@@ -5,29 +5,26 @@
     <!-- Diagram content (shape and connector positions) -->
     <edmx:Diagrams>
       <Diagram DiagramId="cbd5c4761bcc4367960061cb8b65a45c" Name="Diagram1">
-        <EntityTypeShape EntityType="DBcomfilerModel.Category" Width="1.5" PointX="3" PointY="7.375" IsExpanded="true" />
-        <EntityTypeShape EntityType="DBcomfilerModel.Extension" Width="1.5" PointX="5.25" PointY="0.75" IsExpanded="true" />
-        <EntityTypeShape EntityType="DBcomfilerModel.File" Width="1.5" PointX="7.5" PointY="3.25" IsExpanded="true" />
-        <EntityTypeShape EntityType="DBcomfilerModel.FilesDetail" Width="1.5" PointX="5.25" PointY="7.125" IsExpanded="true" />
-        <EntityTypeShape EntityType="DBcomfilerModel.History" Width="1.5" PointX="9.75" PointY="0.875" IsExpanded="true" />
-        <EntityTypeShape EntityType="DBcomfilerModel.Permission" Width="1.5" PointX="0.75" PointY="4.25" IsExpanded="true" />
-        <EntityTypeShape EntityType="DBcomfilerModel.Role" Width="1.5" PointX="3" PointY="4.125" IsExpanded="true" />
-        <EntityTypeShape EntityType="DBcomfilerModel.ShareLevel" Width="1.5" PointX="8.25" PointY="8.25" IsExpanded="true" />
-        <EntityTypeShape EntityType="DBcomfilerModel.Sharing" Width="1.5" PointX="10.5" PointY="4" IsExpanded="true" />
-        <EntityTypeShape EntityType="DBcomfilerModel.sysdiagram" Width="1.5" PointX="0.75" PointY="10.5" IsExpanded="true" />
-        <EntityTypeShape EntityType="DBcomfilerModel.Template" Width="1.5" PointX="0.75" PointY="1.5" IsExpanded="true" />
-        <EntityTypeShape EntityType="DBcomfilerModel.User" Width="1.5" PointX="5.25" PointY="3.75" IsExpanded="true" />
-        <AssociationConnector Association="DBcomfilerModel.FK_FilesDetails_tbl_Categories_tbl" ManuallyRouted="false" />
-        <AssociationConnector Association="DBcomfilerModel.FK_Files_Extensions" ManuallyRouted="false" />
-        <AssociationConnector Association="DBcomfilerModel.FK_Files_FilesDetails" ManuallyRouted="false" />
-        <AssociationConnector Association="DBcomfilerModel.FK_Files_Users" ManuallyRouted="false" />
-        <AssociationConnector Association="DBcomfilerModel.FK_Files_Users1" ManuallyRouted="false" />
-        <AssociationConnector Association="DBcomfilerModel.FK_History_Files" ManuallyRouted="false" />
-        <AssociationConnector Association="DBcomfilerModel.FK_History_Users1" ManuallyRouted="false" />
-        <AssociationConnector Association="DBcomfilerModel.FK_Sharings_ShareLevel" ManuallyRouted="false" />
-        <AssociationConnector Association="DBcomfilerModel.FK_Sharings_tbl_Users_tbl" ManuallyRouted="false" />
-        <AssociationConnector Association="DBcomfilerModel.Claims" ManuallyRouted="false" />
-        <AssociationConnector Association="DBcomfilerModel.UsersRoles" ManuallyRouted="false" />
+        <EntityTypeShape EntityType="DBcomfilerModel.Category" Width="1.5" PointX="3" PointY="7.875" />
+        <EntityTypeShape EntityType="DBcomfilerModel.Extension" Width="1.5" PointX="0.75" PointY="2.875" />
+        <EntityTypeShape EntityType="DBcomfilerModel.File" Width="1.5" PointX="3" PointY="2" />
+        <EntityTypeShape EntityType="DBcomfilerModel.FilesDetail" Width="1.5" PointX="5.25" PointY="2.5" />
+        <EntityTypeShape EntityType="DBcomfilerModel.History" Width="1.5" PointX="5.25" PointY="5.5" />
+        <EntityTypeShape EntityType="DBcomfilerModel.Permission" Width="1.5" PointX="7.75" PointY="1" />
+        <EntityTypeShape EntityType="DBcomfilerModel.Role" Width="1.5" PointX="10" PointY="0.875" />
+        <EntityTypeShape EntityType="DBcomfilerModel.ShareLevel" Width="1.5" PointX="7.75" PointY="4" />
+        <EntityTypeShape EntityType="DBcomfilerModel.Sharing" Width="1.5" PointX="10" PointY="3.875" />
+        <EntityTypeShape EntityType="DBcomfilerModel.sysdiagram" Width="1.5" PointX="7.75" PointY="6.75" />
+        <EntityTypeShape EntityType="DBcomfilerModel.Template" Width="1.5" PointX="5.75" PointY="9.75" />
+        <EntityTypeShape EntityType="DBcomfilerModel.User" Width="1.5" PointX="9.75" PointY="6.75" />
+        <EntityTypeShape EntityType="DBcomfilerModel.UsersRole" Width="1.5" PointX="12.25" PointY="1" />
+        <AssociationConnector Association="DBcomfilerModel.FK_FilesDetails_tbl_Categories_tbl" />
+        <AssociationConnector Association="DBcomfilerModel.FK_Files_Extensions" />
+        <AssociationConnector Association="DBcomfilerModel.FK_FilesDetails_Files" />
+        <AssociationConnector Association="DBcomfilerModel.FK_History_Files" />
+        <AssociationConnector Association="DBcomfilerModel.FK_RelationshipUsersRoles_tbl_Roles_tbl" />
+        <AssociationConnector Association="DBcomfilerModel.FK_Sharings_ShareLevel" />
+        <AssociationConnector Association="DBcomfilerModel.Claims" />
       </Diagram>
     </edmx:Diagrams>
   </edmx:Designer>

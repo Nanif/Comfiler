@@ -120,6 +120,9 @@
     <Compile Include="User.cs">
       <DependentUpon>DBcomfiler.tt</DependentUpon>
     </Compile>
+    <Compile Include="UsersRole.cs">
+      <DependentUpon>DBcomfiler.tt</DependentUpon>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <None Include="App.Config">

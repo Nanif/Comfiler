@@ -12,14 +12,11 @@ namespace DAL
     using System;
     using System.Collections.Generic;
     
-    public partial class History
+    public partial class UsersRole
     {
-        public string ID { get; set; }
-        public int VirsionNum { get; set; }
-        public string UpdateID { get; set; }
-        public System.DateTime Date_Update { get; set; }
-        public string Remarks { get; set; }
+        public string TZ { get; set; }
+        public int RoleID { get; set; }
     
-        public virtual File File { get; set; }
+        public virtual Role Role { get; set; }
     }
 }

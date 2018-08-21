@@ -31,8 +31,6 @@ namespace DAL
     
         public virtual Extension Extension { get; set; }
         public virtual FilesDetail FilesDetail { get; set; }
-        public virtual User User { get; set; }
-        public virtual User User1 { get; set; }
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
         public virtual ICollection<History> Histories { get; set; }
     }

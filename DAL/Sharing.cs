@@ -19,6 +19,5 @@ namespace DAL
         public int ShareLevelID { get; set; }
     
         public virtual ShareLevel ShareLevel { get; set; }
-        public virtual User User { get; set; }
     }
 }

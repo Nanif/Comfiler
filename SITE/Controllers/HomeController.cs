@@ -17,22 +17,17 @@ namespace SITE.Controllers
             var ViewModelUsersFiles = new ViewModelUsersFiles();
             return View(ViewModelUsersFiles);
         }
-          
+
         [HttpPost]
-        public ActionResult SendEmail(string userName, string password)
+        public ActionResult SendEmail(string subject, string emailAddress)
         {
-            //יש לשנות את התנאי לתנאי אמיתי
-            if (true)
-            {
-               //אם תהנתונים תקינים יש לשלוח את המייל לנמען
-            }
-            return RedirectToAction("Index");
-        }
-        public ActionResult SendEmail() {
+           string sendEmail= Session["userEmail"].ToString();
+            BL.Logic.SendLinkInEmail(subject, emailAddress,sendEmail);
             return PartialView("_sendEmailForm");
         }
-        public ActionResult Template() {
-         //   Logic.AddTamplate();
+        public ActionResult Template()
+        {
+            //   Logic.AddTamplate();
             return RedirectToAction("Index");
         }
     }
