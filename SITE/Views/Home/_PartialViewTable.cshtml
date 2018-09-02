@@ -1,5 +1,6 @@
 ﻿@using DAL
-@model List<User>
+@using SITE.Models
+@model List<ViewModelUsersFiles>
 
 <link href="~/Styles/w3css.css" rel="stylesheet" />
 <div class="row">
@@ -38,7 +39,6 @@
                         </div>
                     </td>
                     <td>
-                        this is the one
                         <i class="far fa-file-word" onclick="downloadFile()"></i>
                     </td>
                     <td>12345678912345678912345678912345</td>
@@ -141,7 +141,10 @@
                     <div id="divListGroupEmail" class="list-group">
                         @foreach (var user in Model)
                         {
-                            <div href="#" class="list-group-item aItemEmail" onclick="selectEmail(@user.Email)">@user.Email</div>
+                            @foreach (var userEmail in user.Users)
+                            {
+                                <div href="#" class="list-group-item aItemEmail" onclick="selectEmail(@user)">@user.Email</div>
+                            }
                         }
                     </div>
                 </div>
@@ -190,9 +193,7 @@
         link.click();
     };
 
-    function hideAllEmailUsers() {
-        alert();
-        
+    function hideAllEmailUsers() {     
         var ul = document.getElementById("divListGroupEmail");
         var li = ul.getElementsByClassName("aItemEmail");
         for (var i = 0; i < li.length; i++) {
@@ -217,11 +218,9 @@
     };
 
     function selectEmail(email) {
-        alert(email);
     };
 
     $('#emailShareUser').change(function () {
-        alert();
     })
 
 </script>

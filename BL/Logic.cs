@@ -40,7 +40,7 @@ namespace BL
         {
             using (DBcomfilerEntities2 context = new DBcomfilerEntities2())
             {
-                var user = context.Users.FirstOrDefault(x => x.Email==sendEmail);
+                var user = context.Users.FirstOrDefault(x => x.Email == sendEmail);
                 if (user != null)
                     return user.UserName;
             }
@@ -55,9 +55,9 @@ namespace BL
         {
             using (DBcomfilerEntities2 context = new DBcomfilerEntities2())
             {
-                //      List<DAL.File> files = context.Files.ToList();
-                //      if (files != null)
-                //          return files;
+                List<DAL.File> files = context.Files.ToList();
+                if (files != null)
+                    return files;
             }
             return null;
         }
@@ -82,7 +82,7 @@ namespace BL
 
                 sc.Host = "smtp.gmail.com";
                 sc.Port = 587;
-                sc.Credentials = new NetworkCredential("comfiler.site@gmail.com","comfiler123");
+                sc.Credentials = new NetworkCredential("comfiler.site@gmail.com", "comfiler123");
 
                 sc.EnableSsl = true;
                 sc.Send(m);
