@@ -51,6 +51,16 @@ namespace BL
         #endregion
 
         #region Files
+        public static List<FilesDetail> GetAllFilesDetail()
+        {
+            using (DBcomfilerEntities2 context = new DBcomfilerEntities2())
+            {
+                List<DAL.FilesDetail> files = context.FilesDetails.ToList();
+                if (files != null)
+                    return files;
+            }
+            return null;
+        }
         public static List<DAL.File> GetAllFiles()
         {
             using (DBcomfilerEntities2 context = new DBcomfilerEntities2())

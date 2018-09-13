@@ -1,6 +1,8 @@
 ﻿@using DAL
 @using SITE.Models
-@model List<ViewModelUsersFiles>
+
+@model ViewModelUsersFiles
+
 
 <link href="~/Styles/w3css.css" rel="stylesheet" />
 <div class="row">
@@ -17,95 +19,50 @@
                 </tr>
             </thead>
             <tbody>
-                <tr>
-                    <td>
-                        <div class="dropdown-container">
-                            <a data-toggle="dropdown">
-                                <i class="fa fa-ellipsis-h" style="color:#110909"></i>
-                            </a>
-                            <ul class="dropdown-menu" id="OptionsOfShares">
-                                <li>
-                                    <a onclick="document.getElementById('modalForShare').style.display = 'block'">
-                                        שתף קובץ
-                                    </a>
-                                </li>
-                                <li>
-                                    <a onclick="hideAllEmailUsers();document.getElementById('modalForSendingEmail').style.display = 'block'">
-                                        שלח קובץ בדוא''ל
-                                    </a>
-                                </li>
-                                <li><a>מחק קובץ</a></li>
-                            </ul>
-                        </div>
-                    </td>
-                    <td>
-                        <i class="far fa-file-word" onclick="downloadFile()"></i>
-                    </td>
-                    <td>12345678912345678912345678912345</td>
-                    <td>01/01/2018</td>
-                    <td>נעמי פישביין</td>
-                    <td>מכתב פיטורין</td>
-                </tr>
-                <tr>
-                    <td>
-                        <div class="dropdown-container">
-                            <a data-toggle="dropdown">
-                                <i class="fa fa-ellipsis-h" aria-hidden="true" style="color:#110909"></i>
-                            </a>
-                            <ul class="dropdown-menu" id="OptionsOfShares">
-                                <li>
-                                    <a onclick="document.getElementById('modalForShare').style.display = 'block'">
-                                        שתף קובץ
-                                    </a>
-                                </li>
-                                <li>
-                                    <a onclick="hideAllEmailUsers();document.getElementById('modalForSendingEmail').style.display = 'block'">
-                                        שלח קובץ בדוא''ל
-                                    </a>
-                                </li>
-                                <li><a>מחק קובץ</a></li>
+                @foreach (var file in Model.Files)
+                {
+                    <tr>
+                        <td>
+                            <div class="dropdown-container">
+                                <a data-toggle="dropdown">
+                                    <i class="fa fa-ellipsis-h" style="color:#110909"></i>
+                                </a>
+                                <ul class="dropdown-menu" id="OptionsOfShares">
+                                    <li>
+                                        <a onclick="document.getElementById('modalForShare').style.display = 'block'">
+                                            שתף קובץ
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a onclick="hideAllEmailUsers();document.getElementById('modalForSendingEmail').style.display = 'block'">
+                                            שלח קובץ בדוא''ל
+                                        </a>
+                                    </li>
+                                    <li><a>מחק קובץ</a></li>
+                                </ul>
+                            </div>
+                        </td>
+                        <td>
+                            <i class="far fa-file-word" onclick="downloadFile()"></i>
+                        </td>
+                        <td>@file.Desctiption</td>
+                        <td>@file.Date_Creation</td>
+                        <td>
+                            @Model.Users.FirstOrDefault(x => x.TZ == file.CreatorID).UserName
+                        </td>
 
-                            </ul>
-                        </div>
-                    </td>
-                    <td>
-                        <i class="far fa-file-word"></i>
-                    </td>
-                    <td>12345678912345678912345678912345</td>
-                    <td>01/01/2018</td>
-                    <td>נעמי פישביין</td>
-                    <td>מכתב פיטורין</td>
-                </tr>
-                <tr>
-                    <td>
-                        <div class="dropdown-container">
-                            <a accesskey="dropdown">
-                                <i class="fa fa-ellipsis-h" aria-hidden="true" style="color:#110909"></i>
-                            </a>
-                            <ul class="dropdown-menu" id="OptionsOfShares">
-                                <li>
-                                    <a onclick="document.getElementById('modalForShare').style.display = 'block'">
-                                        שתף קובץ
-                                    </a>
-                                </li>
-                                <li>
-                                    <a onclick="hideAllEmailUsers();document.getElementById('modalForSendingEmail').style.display = 'block'">
-                                        שלח קובץ בדוא''ל
-                                    </a>
-                                </li>
-                                <li><a>מחק קובץ</a></li>
-
-                            </ul>
-                        </div>
-                    </td>
-                    <td>
-                        <i class="far fa-file-word"></i>
-                    </td>
-                    <td>12345673478912345678912345</td>
-                    <td>01/01/2018</td>
-                    <td>שרה רבקה רחל לאה לוי</td>
-                    <td>מכתב למערכת בעקבות הפירסום</td>
-                </tr>
+                        <td>
+                            @if (Model.FilesDetail.FirstOrDefault(x => x.ID == file.ID) != null)
+                            {
+                                @Model.FilesDetail.FirstOrDefault(x => x.ID == file.ID).Remarks
+                            }
+                            else
+                            {
+                                <p>---</p>
+                            }
+                        </td>
+                    </tr>
+                }
             </tbody>
         </table>
     </div>
@@ -114,7 +71,6 @@
 <!--start buttons above the grid-->
 @Html.ActionLink("הוספת תבנית", "Template")
 <!--end buttons above the grid-->
-
 <!----start modal form sending email -->
 <div class="w3-container">
     <div id="modalForSendingEmail" class="w3-modal">
@@ -139,12 +95,9 @@
                     <label for="">כתובת אימייל</label>
                     <input type="email" multiple="multiple" class="form-control" placeholder="הכנס כתובת אימייל" id="shareEmail" name="emailAddress" oninput="filterEmail()">
                     <div id="divListGroupEmail" class="list-group">
-                        @foreach (var user in Model)
+                        @foreach (var user in Model.Users)
                         {
-                            @foreach (var userEmail in user.Users)
-                            {
-                                <div href="#" class="list-group-item aItemEmail" onclick="selectEmail(@user)">@user.Email</div>
-                            }
+                            <div href="#" class="list-group-item aItemEmail" onclick="selectEmail(@user.Email)">@user.Email</div>
                         }
                     </div>
                 </div>
@@ -175,14 +128,12 @@
                             <div class="alert alert-danger">@ViewBag.validateUserName</div>
                         }*@
                 </div>
-
                 <button type="submit" class="btn btn-primary" style="margin:15px">שתף     <i class="fa fa-share"></i></button>
             </form>
         </div>
     </div>
 </div>
 @*------------end  form for share file----------*@
-
 <script>
     $('.dropdown-toggle').dropdown()
     function downloadFile() {
@@ -193,7 +144,8 @@
         link.click();
     };
 
-    function hideAllEmailUsers() {     
+
+    function hideAllEmailUsers() {
         var ul = document.getElementById("divListGroupEmail");
         var li = ul.getElementsByClassName("aItemEmail");
         for (var i = 0; i < li.length; i++) {
@@ -225,6 +177,7 @@
 
 </script>
 <style>
+
     .dropdown-container {
         position: relative;
     }
