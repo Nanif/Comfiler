@@ -85,19 +85,19 @@
                     <label for="">נושא</label>
                     <input type="text" name="subject" class="form-control" id="exampleInputPassword1" placeholder="הכנס נושא">
                     @*
-                        האם צריך שורות אלו???????????????
-                        @if (ViewBag.validateUserName != null)
-                        {
-                            <div class="alert alert-danger">@ViewBag.validateUserName</div>
-                        }*@
+            האם צריך שורות אלו???????????????
+            @if (ViewBag.validateUserName != null)
+            {
+                <div class="alert alert-danger">@ViewBag.validateUserName</div>
+            }*@
                 </div>
                 <div class="form-group">
                     <label for="">כתובת אימייל</label>
-                    <input type="email" multiple="multiple" class="form-control" placeholder="הכנס כתובת אימייל" id="shareEmail" name="emailAddress" oninput="filterEmail()">
-                    <div id="divListGroupEmail" class="list-group">
+                    <input type="email" autocomplete="off" multiple="multiple" class="form-control" placeholder="הכנס כתובת אימייל" id="shareEmail" name="emailAddress" oninput="filterEmail()">
+                    <div id="divAllEmails" class="list-group">
                         @foreach (var user in Model.Users)
                         {
-                            <div href="#" class="list-group-item aItemEmail" onclick="selectEmail(@user.Email)">@user.Email</div>
+                            <div href="#" class="aItemEmail list-group-item" onclick="selectEmail(@user.Email)">@user.Email</div>
                         }
                     </div>
                 </div>
@@ -146,7 +146,7 @@
 
 
     function hideAllEmailUsers() {
-        var ul = document.getElementById("divListGroupEmail");
+        var ul = document.getElementById("divAllEmails");
         var li = ul.getElementsByClassName("aItemEmail");
         for (var i = 0; i < li.length; i++) {
             li[i].style.display = "none";
@@ -157,9 +157,8 @@
         var input, filter, ul, li, a, i;
         input = document.getElementById("shareEmail");
         filter = input.value;
-        ul = document.getElementById("divListGroupEmail");
-        li = ul.getElementsByClassName("aItemEmail");
-
+        ul = document.getElementById("divAllEmails");
+        li = ul.children;
         for (var i = 0; i < li.length; i++) {
             if (li[i].textContent.indexOf(filter) > -1) {
                 li[i].style.display = "";

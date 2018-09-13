@@ -27,37 +27,32 @@
 
                 <div class="col-sm-2">
                     <div class="form-group" style="display:inline-block;width:100%">
-                        <input class="form-control dropdown-toggle" role="button" id="fileCreator" name="emailAddress" style="margin-right:8px;width:100%"
-                               data-toggle="dropdown" aria-haspopup="true" type="text" aria-expanded="false" placeholder="יוצר הקובץ" />
-
-                        <!--   <input style="z-index:100;width: inherit" multiple="multiple" class="form-control" placeholder="יוצר קובץ" id="fileCreator" name="emailAddress" oninput="filterEmail()">
-                        -->
+                        <input class="form-control dropdown-toggle" id="fileCreator" style="margin-right:8px;width:100%"
+                               data-toggle="dropdown" aria-expanded="false" placeholder="יוצר הקובץ" oninput="filter()"/>
                         <ul id="divListGroupEmail" class="dropdown-menu">
-                            @foreach (var user in Model.Users)
+                            @foreach(var user in Model.Users)
                             {
-                                <li class="list-group-item">
-                                    <a href="#">@user.UserName</a>
+                                <li class="list-group-item" style="cursor:pointer;display:none" onclick="selectUser()">
+                                    @user.UserName
                                 </li>
-
                             }
                         </ul>
                     </div>
                 </div>
 
                 <div class="col-sm-2">
-                    <input type="date" class="form-control" placeholder=""
-                           style="width:100%;min-width: 178px" />
+                    <input type="date" class="form-control" placeholder="" style="width:100%;min-width: 178px" />
                 </div>
                 <p style="position: absolute;color: gray;margin-top:34px;left: 41%">טווח תאריכים של יצירת הקובץ</p>
 
                 <div class="col-sm-2">
-                    <input class="form-control"type="date" placeholder="" style="width:100%;min-width:178px" />
+                    <input class="form-control" type="date" placeholder="" style="width:100%;min-width:178px" />
                 </div>
 
                 <div class="col-sm-3">
-                        <input class="form-control" style="max-width:180px" type="search" placeholder="טקסט חופשי" aria-label="Search">
-                        <button class="btn btn-outline-success my-2 my-sm-0" type="submit" onclick="filter()">חיפוש</button>
-                    </div>
+                    <input class="form-control" style="max-width:180px" type="search" placeholder="טקסט חופשי" aria-label="Search">
+                    <button class="btn btn-outline-success my-2 my-sm-0" type="submit" onclick="filter()">חיפוש</button>
+                </div>
             </div>
         </form>
     </div>
@@ -81,10 +76,6 @@
         white-space: nowrap;
     }
 
-    .dropdown {
-       // margin-top: 20px;
-    }
-
     .dropdown-menu {
         position: absolute;
         top: 100%; /* Bottom of button */
@@ -95,28 +86,22 @@
     }
 </style>
 <script>
-
     $(".dropdown-menu li a").click(function () {
-        $(this).parents(".dropdown").find('.btn').html($(this).text());
-        $(this).parents(".dropdown").find('.btn').val($(this).data('value'));
+        $(this).parents(".dropdown").find('.form-control').html($(this).text());
+        $(this).parents(".dropdown").find('.form-control').val($(this).data('value'));
     });
 
     function selectUser($event) {
         let currentUser = event.target.textContent;
-        document.getElementById('fileCreator').value = currentUser;
-
-        console.log(document.getElementById('#fileCreator'));
-
-
+        currentUser = currentUser.trim();
+        document.getElementById('fileCreator').placeholder = currentUser;
     }
-
     function filter($event) {
-        console.log(event)
-        debugger
+      //  for (var i = 0; i < Model; i++) {
+
+       // }
     }
+
 </script>
 <script type="text/javascript">
-
 </script>
-
-
