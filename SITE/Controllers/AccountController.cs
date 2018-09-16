@@ -16,9 +16,9 @@ namespace SITE.Controllers
             return View();
         }
         [HttpPost]
-        public ActionResult Login(string TZ,string password)
+        public ActionResult Login(string userName, string password)
         {
-            User user = Logic.GetUserByTZ(TZ);
+            User user = Logic.GetUserByUserName(userName);
             if (user!=null)
             {
                 Session["userEmail"]= user.Email;

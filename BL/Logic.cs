@@ -25,11 +25,11 @@ namespace BL
             return null;
         }
 
-        public static User GetUserByTZ(string tz)
+        public static User GetUserByUserName(string userName)
         {
             using (DBcomfilerEntities2 context = new DBcomfilerEntities2())
             {
-                var user = context.Users.FirstOrDefault(x => x.TZ == tz);
+                var user = context.Users.FirstOrDefault(x => x.UserName == userName);
                 if (user != null)
                     return user;
             }
