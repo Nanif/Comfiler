@@ -27,12 +27,13 @@
 
                 <div class="col-sm-2">
                     <div class="form-group" style="display:inline-block;width:100%">
-                        <input class="form-control dropdown-toggle" id="fileCreator" style="margin-right:8px;width:100%"
-                               data-toggle="dropdown" aria-expanded="false" placeholder="יוצר הקובץ" oninput="filter()"/>
-                        <ul id="divListGroupEmail" class="dropdown-menu">
-                            @foreach(var user in Model.Users)
+                        <input class="form-control dropdown-toggle" id="fileFileCreator" style="margin-right:8px;width:100%"
+                               data-toggle="dropdown" aria-expanded="false" placeholder="יוצר הקובץ" oninput="filterUsersNames()" />
+                        <ul id="allUsersNames" class="dropdown-menu">
+                            @foreach (var user in Model.Users)
                             {
-                                <li class="list-group-item" style="cursor:pointer;display:none" onclick="selectUser()">
+                                <li class="userName list-group-item" style="cursor:pointer"
+                                    onclick="selectUser()">
                                     @user.UserName
                                 </li>
                             }
@@ -97,11 +98,36 @@
         document.getElementById('fileCreator').placeholder = currentUser;
     }
     function filter($event) {
-      //  for (var i = 0; i < Model; i++) {
+        //  for (var i = 0; i < Model; i++) {
 
-       // }
+        // }
     }
+    $(window).load(
+        function hideAllUsersNames() {
+            debugger
+            var ul = document.getElementById("allUsersNames");
+            ul.style.display='none'
+           //var li = ul.getElementsByClassName("userName");
+           //for (var i = 0; i < li.length; i++) {
+           //    li[i].style.display = "none";
+           //}
+        })
 
+    function filterUsersNames() {
+        debugger
+        var input, filter, ul, li, a, i;
+        input = document.getElementById("fileFileCreator");
+        filter = input.value;
+        ul = document.getElementById("allUsersNames");
+        li = ul.children;
+        for (var i = 0; i < li.length; i++) {
+            if (li[i].textContent.indexOf(filter) > -1) {
+                li[i].style.display = "";
+            } else {
+                li[i].style.display = "none";
+            }
+        }
+    };
 </script>
 <script type="text/javascript">
 </script>
