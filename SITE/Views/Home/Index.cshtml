@@ -4,7 +4,7 @@
 @{
     ViewBag.Title = "Index";
 }
-
+@Html.ActionLink("יצירת קובץ","CreateFile")
 <div class="row">
     <div class="col-sm-12 well" style="margin-top:60px;height:80px">
         <form class="form-inline">
@@ -21,7 +21,7 @@
                             <li><a href="#">הודעות על מסיבות</a></li>
                             <li><a href="#">מכתבי פיטורין</a></li>
                             <li><a href="#">קבצים שונים</a></li>
-                           <li>@Html.ActionLink("קבצים שונות","try",new { name="diff"})</li>
+                           <li>@Html.ActionLink("קבצים שונות", "Try", new { name="diff"})</li>
                         </ul>
                     </div>
                 </div>
