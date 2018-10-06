@@ -43,6 +43,7 @@
                             </div>
                         </td>
                         <td>
+                            @Html.ActionLink("aa", "OpenFile", "HomeController", new { fileName = Model }, new { @class = "far fa-file-word" })
                             <i class="far fa-file-word" onclick="downloadFile()"></i>
                         </td>
                         <td>@file.Desctiption</td>

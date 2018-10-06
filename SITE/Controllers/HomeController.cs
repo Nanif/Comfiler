@@ -42,15 +42,16 @@ namespace SITE.Controllers
    /// <returns></returns>
         public FileResult CreateFile()
         {
-            FileStream file = BL.FileManager.CreatFile();
-            string fileName = "file.docx";
+            string fileName = "";
+            FileStream file = BL.FileManager.CreatFile(out fileName);
+            //Shoud not return a file but add it to the table in the UI
             return File(file, System.Net.Mime.MediaTypeNames.Application.Octet, fileName);
         }
 
         public FileResult OpenFile()
         {
-            FileStream file = BL.FileManager.CreatFile();
-            string fileName = "file.docx";
+            string fileName="";
+            FileStream file = BL.FileManager.OpenFile(out fileName);
             return File(file, System.Net.Mime.MediaTypeNames.Application.Octet, fileName);
         }
     }

@@ -11,7 +11,7 @@ namespace BL
         /// <summary>
         ///   create a new file
         /// </summary>
-        public static FileStream CreatFile()
+        public static FileStream CreatFile(out string fileName)
         {
             string date = DateTime.Today.ToString("yyyy-MM-dd");
             string[] dateArray = date.Split('-');
@@ -22,10 +22,15 @@ namespace BL
             }
             DirectoryInfo di = Directory.CreateDirectory(path);
             Guid guid = Guid.NewGuid();
-            string name = guid + ".docx";
-            using ( File.Create(path + name)) { }
-            FileStream file = File.Create(path + name);
+            fileName = guid + ".docx";
+            using ( File.Create(path + fileName)) { }
+            FileStream file = File.Create(path + fileName);
             return file;
+        }
+
+        public static FileStream OpenFile(out string fileName)
+        {
+            throw new NotImplementedException();
         }
     }
 }
