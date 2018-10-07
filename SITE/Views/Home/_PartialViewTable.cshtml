@@ -43,8 +43,7 @@
                             </div>
                         </td>
                         <td>
-                            @Html.ActionLink("aa", "OpenFile", "HomeController", new { fileName = Model }, new { @class = "far fa-file-word" })
-                            <i class="far fa-file-word" onclick="downloadFile()"></i>
+                            @Html.ActionLink(" ", "OpenFile",  new { fileName = file.ID }, new { @class = "far fa-file-word" })
                         </td>
                         <td>@file.Desctiption</td>
                         <td>@file.Date_Creation</td>
@@ -85,12 +84,6 @@
                 <div class="form-group">
                     <label for="">נושא</label>
                     <input type="text" name="subject" class="form-control" id="exampleInputPassword1" placeholder="הכנס נושא">
-                    @*
-                        האם צריך שורות אלו???????????????
-                        @if (ViewBag.validateUserName != null)
-                        {
-                            <div class="alert alert-danger">@ViewBag.validateUserName</div>
-                        }*@
                 </div>
                 <div class="form-group">
                     <label for="">כתובת אימייל</label>
@@ -98,7 +91,7 @@
                     <div id="divAllEmails" class="list-group">
                         @foreach (var user in Model.Users)
                         {
-                            <div href="#" class="aItemEmail list-group-item" onclick="selectEmail(@user.Email)">@user.Email</div>
+                            <button class="aItemEmail list-group-item" onclick="selectEmail(this.textContent)">@user.Email</button>
                         }
                     </div>
                 </div>
@@ -169,10 +162,16 @@
         }
     };
 
-    function selectEmail(email) {
+    function selectEmail(e) {
+        console.log(e)
+        debugger
+      
+        input = document.getElementById('shareEmail');
+        input.value = e;
     };
 
     $('#emailShareUser').change(function () {
+
     })
 
 </script>

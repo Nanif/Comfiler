@@ -22,6 +22,7 @@ namespace SITE.Controllers
             if (user!=null)
             {
                 Session["userEmail"]= user.Email;
+                Session["TZ"]= user.TZ;
                 var x = Session["userEmail"];
                 return RedirectToAction("Index","Home");
             }

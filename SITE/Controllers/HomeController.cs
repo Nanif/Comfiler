@@ -43,15 +43,14 @@ namespace SITE.Controllers
         public FileResult CreateFile()
         {
             string fileName = "";
-            FileStream file = BL.FileManager.CreatFile(out fileName);
+            FileStream file = BL.FileManager.CreatFile(out fileName,Session["userEmail"].ToString(),Session["TZ"].ToString());
             //Shoud not return a file but add it to the table in the UI
             return File(file, System.Net.Mime.MediaTypeNames.Application.Octet, fileName);
         }
 
-        public FileResult OpenFile()
+        public FileResult OpenFile(string fileName)
         {
-            string fileName="";
-            FileStream file = BL.FileManager.OpenFile(out fileName);
+            FileStream file = BL.FileManager.OpenFile(fileName);
             return File(file, System.Net.Mime.MediaTypeNames.Application.Octet, fileName);
         }
     }

@@ -25,6 +25,17 @@ namespace BL
             return null;
         }
 
+        public static List<Category> GetAllCategories()
+        {
+            using (DBcomfilerEntities2 context = new DBcomfilerEntities2())
+            {
+                var categories = context.Categories.ToList();
+                if (categories != null)
+                    return categories;
+            }
+            return null;
+        }
+
         public static User GetUserByUserName(string userName)
         {
             using (DBcomfilerEntities2 context = new DBcomfilerEntities2())
