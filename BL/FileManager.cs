@@ -49,16 +49,25 @@ namespace BL
         {
             using (DBcomfilerEntities context = new DBcomfilerEntities())
             {
-                // todo convert from the system.io object to my file.
+                //todo convert from the system.io object to my file.
                 DAL.File myFile = new DAL.File();
-                myFile.ID = file.Name;
-                myFile.CreatorID = TZ;
-                myFile.Date_Creation = DateTime.Now;
-                myFile.Desctiption = "";
-                myFile.ExtensionID = 123;
-                myFile.Version = 1;
+                string[] fileName = file.Name.Split('\\');
+                string fileId = fileName[fileName.Length - 1];
+                myFile.ID = fileId;
+              //  myFile.CreatorID = TZ;
+
+                //    DAL.FilesDetail myFileDetails = new DAL.FilesDetail();
+                //    myFileDetails.ID = "7187deb1-b02d-40b2-b1a2-419ec08c1019";
+                //    myFileDetails.CategoryID = 1;
+                //    myFileDetails.Description = "hello";
+                //    context.FilesDetails.Add(myFileDetails);
+                //    context.SaveChanges();
+              //  myFile.Date_Creation = DateTime.Now;
+              //  myFile.Desctiption = "";
+               // myFile.ExtensionID = 123;
+               // myFile.Version = 1;
                 SaveFileInDB(myFile);
-                //    myFile.CreatorID = file. ;
+                //   myFile.CreatorID = file. ;
                 // than to check it adds to the table.
                 //than check the open file if it works.
 

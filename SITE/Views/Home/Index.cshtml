@@ -4,7 +4,7 @@
 @{
     ViewBag.Title = "Index";
 }
-<button onclick="document.getElementById('modalFileDetails').style.display = 'block'">
+<button onclick="document.getElementById('modalFileDetails').style.display = 'block';hideCategories()">
     קובץ חדש
 </button>
 <div class="row">
@@ -71,13 +71,13 @@
                     &times;
                 </span>
             </div>
-            <form class="w3-container" action="Home/SendEmail" method="post">
+            <form class="w3-container" action="Home/CreateFile" method="post">
 
                 <div class="form-group">
                     <label for="" style="direction:rtl">קטגוריה</label>
                     <input type="text" name="subject" class="form-control" id="exampleInputPassword1" placeholder="הכנס נושא">
                 </div>
-                <ul class="list-group">
+                <ul class="list-group" id="listCategories">
                     @foreach (var category in Model.categories)
                     {
                         <li class="list-group-item">@category.Description</li>
@@ -138,6 +138,11 @@
         $(this).parents(".dropdown").find('.form-control').val($(this).data('value'));
     });
 
+    function hideCategories() {
+        var ul = document.getElementById("listCategories");
+        ul.style.display = "none";
+    }
+    
     function selectUser($event) {
         let currentUser = event.target.textContent;
         currentUser = currentUser.trim();

@@ -20,9 +20,9 @@
     <Key>
       <PropertyRef Name="ID" />
     </Key>
-    <Property Name="ID" Type="String" MaxLength="32" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="ID" Type="String" MaxLength="40" FixedLength="true" Unicode="true" Nullable="false" />
     <Property Name="Desctiption" Type="String" MaxLength="80" FixedLength="false" Unicode="true" />
-    <Property Name="CreatorID" Type="String" MaxLength="9" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="CreatorID" Type="String" MaxLength="9" FixedLength="true" Unicode="true" />
     <Property Name="Date_Creation" Type="DateTime" Precision="3" />
     <Property Name="UpdateID" Type="String" MaxLength="9" FixedLength="true" Unicode="true" />
     <Property Name="Date_Update" Type="DateTime" Precision="0" />
@@ -38,7 +38,7 @@
     <Key>
       <PropertyRef Name="ID" />
     </Key>
-    <Property Name="ID" Type="String" MaxLength="32" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="ID" Type="String" MaxLength="40" FixedLength="true" Unicode="true" Nullable="false" />
     <Property Name="CategoryID" Type="Int32" Nullable="false" />
     <Property Name="Description" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
     <Property Name="Remarks" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
@@ -50,7 +50,7 @@
       <PropertyRef Name="ID" />
       <PropertyRef Name="VirsionNum" />
     </Key>
-    <Property Name="ID" Type="String" MaxLength="32" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="ID" Type="String" MaxLength="40" FixedLength="true" Unicode="true" Nullable="false" />
     <Property Name="VirsionNum" Type="Int32" Nullable="false" />
     <Property Name="UpdateID" Type="String" MaxLength="9" FixedLength="true" Unicode="true" Nullable="false" />
     <Property Name="Date_Update" Type="DateTime" Nullable="false" Precision="0" />
@@ -155,7 +155,7 @@
     </ReferentialConstraint>
   </Association>
   <Association Name="FK_Files_Users">
-    <End Role="Users" Type="Self.User" Multiplicity="1" />
+    <End Role="Users" Type="Self.User" Multiplicity="0..1" />
     <End Role="Files" Type="Self.File" Multiplicity="*" />
     <ReferentialConstraint>
       <Principal Role="Users">

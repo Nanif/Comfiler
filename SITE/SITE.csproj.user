@@ -18,6 +18,7 @@
     <ProjectView>ShowAllFiles</ProjectView>
     <ToolsVersionPromptShown>2.2</ToolsVersionPromptShown>
     <LastActiveSolutionConfig>Debug|Any CPU</LastActiveSolutionConfig>
+    <ActiveDebugTarget />
   </PropertyGroup>
   <ProjectExtensions>
     <VisualStudio>
