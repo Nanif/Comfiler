@@ -29,10 +29,10 @@
     <Property Name="ID" Type="nchar" MaxLength="32" Nullable="false" />
     <Property Name="Desctiption" Type="nvarchar" MaxLength="80" />
     <Property Name="CreatorID" Type="nchar" MaxLength="9" Nullable="false" />
-    <Property Name="Date_Creation" Type="date" Nullable="false" />
+    <Property Name="Date_Creation" Type="datetime" />
     <Property Name="UpdateID" Type="nchar" MaxLength="9" />
     <Property Name="Date_Update" Type="date" />
-    <Property Name="ExtensionID" Type="int" Nullable="false" />
+    <Property Name="ExtensionID" Type="int" />
     <Property Name="Version" Type="int" />
   </EntityType>
   <EntityType Name="FilesDetails">
@@ -145,7 +145,7 @@
     </ReferentialConstraint>
   </Association>
   <Association Name="FK_Files_Extensions">
-    <End Role="Extensions" Type="Self.Extensions" Multiplicity="1" />
+    <End Role="Extensions" Type="Self.Extensions" Multiplicity="0..1" />
     <End Role="Files" Type="Self.Files" Multiplicity="*" />
     <ReferentialConstraint>
       <Principal Role="Extensions">
@@ -153,6 +153,30 @@
       </Principal>
       <Dependent Role="Files">
         <PropertyRef Name="ExtensionID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Files_Users">
+    <End Role="Users" Type="Self.Users" Multiplicity="1" />
+    <End Role="Files" Type="Self.Files" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Users">
+        <PropertyRef Name="TZ" />
+      </Principal>
+      <Dependent Role="Files">
+        <PropertyRef Name="CreatorID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Files_Users1">
+    <End Role="Users" Type="Self.Users" Multiplicity="0..1" />
+    <End Role="Files" Type="Self.Files" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Users">
+        <PropertyRef Name="TZ" />
+      </Principal>
+      <Dependent Role="Files">
+        <PropertyRef Name="UpdateID" />
       </Dependent>
     </ReferentialConstraint>
   </Association>
@@ -241,6 +265,14 @@
     </AssociationSet>
     <AssociationSet Name="FK_Files_Extensions" Association="Self.FK_Files_Extensions">
       <End Role="Extensions" EntitySet="Extensions" />
+      <End Role="Files" EntitySet="Files" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Files_Users" Association="Self.FK_Files_Users">
+      <End Role="Users" EntitySet="Users" />
+      <End Role="Files" EntitySet="Files" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Files_Users1" Association="Self.FK_Files_Users1">
+      <End Role="Users" EntitySet="Users" />
       <End Role="Files" EntitySet="Files" />
     </AssociationSet>
     <AssociationSet Name="FK_FilesDetails_Files" Association="Self.FK_FilesDetails_Files">

@@ -23,13 +23,15 @@ namespace DAL
         public string ID { get; set; }
         public string Desctiption { get; set; }
         public string CreatorID { get; set; }
-        public System.DateTime Date_Creation { get; set; }
+        public Nullable<System.DateTime> Date_Creation { get; set; }
         public string UpdateID { get; set; }
         public Nullable<System.DateTime> Date_Update { get; set; }
-        public int ExtensionID { get; set; }
+        public Nullable<int> ExtensionID { get; set; }
         public Nullable<int> Version { get; set; }
     
         public virtual Extension Extension { get; set; }
+        public virtual User User { get; set; }
+        public virtual User User1 { get; set; }
         public virtual FilesDetail FilesDetail { get; set; }
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
         public virtual ICollection<History> Histories { get; set; }

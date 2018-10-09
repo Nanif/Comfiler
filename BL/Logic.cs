@@ -16,7 +16,7 @@ namespace BL
         #region Users
         public static List<User> GetAllUsers()
         {
-            using (DBcomfilerEntities2 context = new DBcomfilerEntities2())
+            using (DBcomfilerEntities context = new DBcomfilerEntities())
             {
                 var users = context.Users.ToList();
                 if (users != null)
@@ -27,7 +27,7 @@ namespace BL
 
         public static List<Category> GetAllCategories()
         {
-            using (DBcomfilerEntities2 context = new DBcomfilerEntities2())
+            using (DBcomfilerEntities context = new DBcomfilerEntities())
             {
                 var categories = context.Categories.ToList();
                 if (categories != null)
@@ -38,7 +38,7 @@ namespace BL
 
         public static User GetUserByUserName(string userName)
         {
-            using (DBcomfilerEntities2 context = new DBcomfilerEntities2())
+            using (DBcomfilerEntities context = new DBcomfilerEntities())
             {
                 var user = context.Users.FirstOrDefault(x => x.UserName == userName);
                 if (user != null)
@@ -49,7 +49,7 @@ namespace BL
 
         private static string GetUserNameByEmail(string sendEmail)
         {
-            using (DBcomfilerEntities2 context = new DBcomfilerEntities2())
+            using (DBcomfilerEntities context = new DBcomfilerEntities())
             {
                 var user = context.Users.FirstOrDefault(x => x.Email == sendEmail);
                 if (user != null)
@@ -64,7 +64,7 @@ namespace BL
         #region Files
         public static List<FilesDetail> GetAllFilesDetail()
         {
-            using (DBcomfilerEntities2 context = new DBcomfilerEntities2())
+            using (DBcomfilerEntities context = new DBcomfilerEntities())
             {
                 List<DAL.FilesDetail> files = context.FilesDetails.ToList();
                 if (files != null)
@@ -74,7 +74,7 @@ namespace BL
         }
         public static List<DAL.File> GetAllFiles()
         {
-            using (DBcomfilerEntities2 context = new DBcomfilerEntities2())
+            using (DBcomfilerEntities context = new DBcomfilerEntities())
             {
                 List<DAL.File> files = context.Files.ToList();
                 if (files != null)

@@ -13,10 +13,10 @@ namespace DAL
     using System.Data.Entity;
     using System.Data.Entity.Infrastructure;
     
-    public partial class DBcomfilerEntities2 : DbContext
+    public partial class DBcomfilerEntities : DbContext
     {
-        public DBcomfilerEntities2()
-            : base("name=DBcomfilerEntities2")
+        public DBcomfilerEntities()
+            : base("name=DBcomfilerEntities")
         {
         }
     

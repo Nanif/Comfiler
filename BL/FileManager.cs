@@ -13,7 +13,7 @@ namespace BL
         /// <summary>
         ///   create a new file
         /// </summary>
-        public static FileStream CreatFile(out string fileName,string userEmail,string TZ)
+        public static FileStream CreatFile(out string fileName, string userEmail, string TZ)
         {
             string date = DateTime.Today.ToString("yyyy-MM-dd");
             string[] dateArray = date.Split('-');
@@ -27,7 +27,7 @@ namespace BL
             fileName = guid + ".docx";
             using (System.IO.File.Create(path + fileName)) { }
             FileStream file = System.IO.File.Create(path + fileName);
-            SaveNewFile(file,userEmail,TZ);
+            SaveNewFile(file, userEmail, TZ);
             return file;
         }
 
@@ -38,7 +38,7 @@ namespace BL
             {
                 if (file != null)
                 {
-                return file;
+                    return file;
                 }
             }
             return null;
@@ -47,7 +47,7 @@ namespace BL
 
         private static void SaveNewFile(FileStream file, string userEmail, string TZ)
         {
-            using (DBcomfilerEntities2 context = new DBcomfilerEntities2())
+            using (DBcomfilerEntities context = new DBcomfilerEntities())
             {
                 // todo convert from the system.io object to my file.
                 DAL.File myFile = new DAL.File();
@@ -55,18 +55,9 @@ namespace BL
                 myFile.CreatorID = TZ;
                 myFile.Date_Creation = DateTime.Now;
                 myFile.Desctiption = "";
-                myFile.Extension = new Extension();
                 myFile.ExtensionID = 123;
-                myFile.FilesDetail = new FilesDetail()
-                {
-                    Category = new Category(),
-                    Description = "",
-                    ID = "",
-                    Remarks = "",
-                    File = new DAL.File()
-                };
                 myFile.Version = 1;
-
+                SaveFileInDB(myFile);
                 //    myFile.CreatorID = file. ;
                 // than to check it adds to the table.
                 //than check the open file if it works.
@@ -80,14 +71,29 @@ namespace BL
                 //     return null;
             }
         }
-        
+
+        private static void SaveFileInDB(DAL.File myFile)
+        {
+            using (DBcomfilerEntities context = new DBcomfilerEntities())
+            {
+                try
+                {
+                    context.Files.Add(myFile);
+                    context.SaveChanges();
+                }
+                catch (Exception e)
+                {
+                    throw e;
+                }
+            }
+        }
 
         public static DAL.File GetFileByName(string fileName)
         {
-            using (DBcomfilerEntities2 context = new DBcomfilerEntities2())
+            using (DBcomfilerEntities context = new DBcomfilerEntities())
             {
-               var file = context.Files.FirstOrDefault(x => x.ID == fileName);
-                if (file!=null)
+                var file = context.Files.FirstOrDefault(x => x.ID == fileName);
+                if (file != null)
                 {
                     return file;
                 }
