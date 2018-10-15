@@ -88,7 +88,9 @@ namespace BL
                 try
                 {
                     MyFile file = new MyFile();
-                    file.ID = myFile.ID.ToString();
+                    string[] fileName = myFile.ID.Split('.');
+                    string fileId = fileName[0];
+                    file.ID = fileId.ToString();
                     context.MyFiles.Add(file);
                  //   context.Files.Add(myFile);
                     context.SaveChanges();
