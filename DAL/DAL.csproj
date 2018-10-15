@@ -98,6 +98,9 @@
     <Compile Include="History.cs">
       <DependentUpon>DBcomfiler.tt</DependentUpon>
     </Compile>
+    <Compile Include="MyFile.cs">
+      <DependentUpon>DBcomfiler.tt</DependentUpon>
+    </Compile>
     <Compile Include="Permission.cs">
       <DependentUpon>DBcomfiler.tt</DependentUpon>
     </Compile>

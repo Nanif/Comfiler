@@ -21,5 +21,6 @@ namespace DAL
         public string Remarks { get; set; }
     
         public virtual File File { get; set; }
+        public virtual MyFile MyFile { get; set; }
     }
 }

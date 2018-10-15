@@ -87,7 +87,10 @@ namespace BL
             {
                 try
                 {
-                    context.Files.Add(myFile);
+                    MyFile file = new MyFile();
+                    file.ID = myFile.ID.ToString();
+                    context.MyFiles.Add(file);
+                 //   context.Files.Add(myFile);
                     context.SaveChanges();
                 }
                 catch (Exception e)

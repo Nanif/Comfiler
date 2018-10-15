@@ -12,21 +12,27 @@ namespace DAL
     using System;
     using System.Collections.Generic;
     
-    public partial class Extension
+    public partial class MyFile
     {
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2214:DoNotCallOverridableMethodsInConstructors")]
-        public Extension()
+        public MyFile()
         {
-            this.Files = new HashSet<File>();
-            this.MyFiles = new HashSet<MyFile>();
+            this.Histories = new HashSet<History>();
         }
     
-        public int ID { get; set; }
-        public string Extension1 { get; set; }
+        public string ID { get; set; }
+        public string Desctiption { get; set; }
+        public string CreatorID { get; set; }
+        public Nullable<System.DateTime> Date_Creation { get; set; }
+        public string UpdateID { get; set; }
+        public Nullable<System.DateTime> Date_Update { get; set; }
+        public Nullable<int> ExtensionID { get; set; }
+        public Nullable<int> Version { get; set; }
     
+        public virtual Extension Extension { get; set; }
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
-        public virtual ICollection<File> Files { get; set; }
-        [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
-        public virtual ICollection<MyFile> MyFiles { get; set; }
+        public virtual ICollection<History> Histories { get; set; }
+        public virtual User User { get; set; }
+        public virtual User User1 { get; set; }
     }
 }

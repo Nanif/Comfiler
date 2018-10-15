@@ -38,5 +38,6 @@ namespace DAL
         public virtual DbSet<Template> Templates { get; set; }
         public virtual DbSet<User> Users { get; set; }
         public virtual DbSet<UsersRole> UsersRoles { get; set; }
+        public virtual DbSet<MyFile> MyFiles { get; set; }
     }
 }

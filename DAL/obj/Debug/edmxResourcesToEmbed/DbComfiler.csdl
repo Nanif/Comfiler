@@ -15,12 +15,13 @@
     <Property Name="ID" Type="Int32" Nullable="false" />
     <Property Name="Extension1" Type="String" MaxLength="4" FixedLength="true" Unicode="true" Nullable="false" />
     <NavigationProperty Name="Files" Relationship="Self.FK_Files_Extensions" FromRole="Extensions" ToRole="Files" />
+    <NavigationProperty Name="MyFiles" Relationship="DBcomfilerModel.FK_MyFile_Extensions" FromRole="Extension" ToRole="MyFile" />
   </EntityType>
   <EntityType Name="File">
     <Key>
       <PropertyRef Name="ID" />
     </Key>
-    <Property Name="ID" Type="String" MaxLength="40" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="ID" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
     <Property Name="Desctiption" Type="String" MaxLength="80" FixedLength="false" Unicode="true" />
     <Property Name="CreatorID" Type="String" MaxLength="9" FixedLength="true" Unicode="true" />
     <Property Name="Date_Creation" Type="DateTime" Precision="3" />
@@ -50,12 +51,13 @@
       <PropertyRef Name="ID" />
       <PropertyRef Name="VirsionNum" />
     </Key>
-    <Property Name="ID" Type="String" MaxLength="40" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="ID" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
     <Property Name="VirsionNum" Type="Int32" Nullable="false" />
     <Property Name="UpdateID" Type="String" MaxLength="9" FixedLength="true" Unicode="true" Nullable="false" />
     <Property Name="Date_Update" Type="DateTime" Nullable="false" Precision="0" />
     <Property Name="Remarks" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
     <NavigationProperty Name="File" Relationship="Self.FK_History_Files" FromRole="History" ToRole="Files" />
+    <NavigationProperty Name="MyFile" Relationship="DBcomfilerModel.FK_History_MyFile" FromRole="History" ToRole="MyFile" />
   </EntityType>
   <EntityType Name="Permission">
     <Key>
@@ -120,6 +122,8 @@
     <Property Name="UserName" Type="String" MaxLength="25" FixedLength="false" Unicode="true" />
     <NavigationProperty Name="Files" Relationship="Self.FK_Files_Users" FromRole="Users" ToRole="Files" />
     <NavigationProperty Name="Files1" Relationship="Self.FK_Files_Users1" FromRole="Users" ToRole="Files" />
+    <NavigationProperty Name="MyFiles" Relationship="DBcomfilerModel.FK_MyFile_Users" FromRole="User" ToRole="MyFile" />
+    <NavigationProperty Name="MyFiles1" Relationship="DBcomfilerModel.FK_MyFile_Users1" FromRole="User" ToRole="MyFile" />
   </EntityType>
   <EntityType Name="UsersRole">
     <Key>
@@ -280,5 +284,87 @@
       <End Role="Permissions" EntitySet="Permissions" />
       <End Role="Roles" EntitySet="Roles" />
     </AssociationSet>
+    <EntitySet Name="MyFiles" EntityType="DBcomfilerModel.MyFile" />
+    <AssociationSet Name="FK_MyFile_Extensions" Association="DBcomfilerModel.FK_MyFile_Extensions">
+      <End Role="Extension" EntitySet="Extensions" />
+      <End Role="MyFile" EntitySet="MyFiles" />
+    </AssociationSet>
+    <AssociationSet Name="FK_History_MyFile" Association="DBcomfilerModel.FK_History_MyFile">
+      <End Role="MyFile" EntitySet="MyFiles" />
+      <End Role="History" EntitySet="Histories" />
+    </AssociationSet>
+    <AssociationSet Name="FK_MyFile_Users" Association="DBcomfilerModel.FK_MyFile_Users">
+      <End Role="User" EntitySet="Users" />
+      <End Role="MyFile" EntitySet="MyFiles" />
+    </AssociationSet>
+    <AssociationSet Name="FK_MyFile_Users1" Association="DBcomfilerModel.FK_MyFile_Users1">
+      <End Role="User" EntitySet="Users" />
+      <End Role="MyFile" EntitySet="MyFiles" />
+    </AssociationSet>
   </EntityContainer>
+  <EntityType Name="MyFile">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Desctiption" Type="String" MaxLength="80" FixedLength="false" Unicode="true" />
+    <Property Name="CreatorID" Type="String" MaxLength="9" FixedLength="true" Unicode="true" />
+    <Property Name="Date_Creation" Type="DateTime" Precision="3" />
+    <Property Name="UpdateID" Type="String" MaxLength="9" FixedLength="true" Unicode="true" />
+    <Property Name="Date_Update" Type="DateTime" Precision="0" />
+    <Property Name="ExtensionID" Type="Int32" />
+    <Property Name="Version" Type="Int32" />
+    <NavigationProperty Name="Extension" Relationship="DBcomfilerModel.FK_MyFile_Extensions" FromRole="MyFile" ToRole="Extension" />
+    <NavigationProperty Name="Histories" Relationship="DBcomfilerModel.FK_History_MyFile" FromRole="MyFile" ToRole="History" />
+    <NavigationProperty Name="User" Relationship="DBcomfilerModel.FK_MyFile_Users" FromRole="MyFile" ToRole="User" />
+    <NavigationProperty Name="User1" Relationship="DBcomfilerModel.FK_MyFile_Users1" FromRole="MyFile" ToRole="User" />
+  </EntityType>
+  <Association Name="FK_MyFile_Extensions">
+    <End Type="DBcomfilerModel.Extension" Role="Extension" Multiplicity="0..1" />
+    <End Type="DBcomfilerModel.MyFile" Role="MyFile" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Extension">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="MyFile">
+        <PropertyRef Name="ExtensionID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_History_MyFile">
+    <End Type="DBcomfilerModel.MyFile" Role="MyFile" Multiplicity="1" />
+    <End Type="DBcomfilerModel.History" Role="History" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="MyFile">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="History">
+        <PropertyRef Name="ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_MyFile_Users">
+    <End Type="DBcomfilerModel.User" Role="User" Multiplicity="0..1" />
+    <End Type="DBcomfilerModel.MyFile" Role="MyFile" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="User">
+        <PropertyRef Name="TZ" />
+      </Principal>
+      <Dependent Role="MyFile">
+        <PropertyRef Name="CreatorID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_MyFile_Users1">
+    <End Type="DBcomfilerModel.User" Role="User" Multiplicity="0..1" />
+    <End Type="DBcomfilerModel.MyFile" Role="MyFile" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="User">
+        <PropertyRef Name="TZ" />
+      </Principal>
+      <Dependent Role="MyFile">
+        <PropertyRef Name="UpdateID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
 </Schema>
