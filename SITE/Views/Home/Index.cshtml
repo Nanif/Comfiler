@@ -9,28 +9,33 @@
 </button>
 <div class="row">
     <div class="col-sm-12 well" style="margin-top:60px;height:80px">
-        <form class="form-inline">
+        <form class="form-inline" method="get">
             <div class="row">
                 <div class="col-sm-2">
                     <div class="dropdown" style="display:inline-block">
-                        <a class="form-control dropdown-toggle" role="button" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        <a name="category" class="form-control dropdown-toggle" role="button" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                             <span>
                                 בחר קטגוריה
                             </span>
                         </a>
                         <ul class="dropdown-menu">
-                            <li><a href="#">אפיוני פרויקטים</a></li>
-                            <li><a href="#">הודעות על מסיבות</a></li>
-                            <li><a href="#">מכתבי פיטורין</a></li>
-                            <li><a href="#">קבצים שונים</a></li>
-                            <li>@Html.ActionLink("קבצים שונות", "Try", new { name = "diff" })</li>
+                            @*  <li><a href="#">אפיוני פרויקטים</a></li>
+                                <li><a href="#">הודעות על מסיבות</a></li>
+                                <li><a href="#">מכתבי פיטורין</a></li>
+                                <li><a href="#" onclick="changeCategpty(this.value)"קבצים שונים</a></li>
+                                <li>@Html.ActionLink("קבצים שונות", "SearchByCategory", new { category = "allKinds" })</li>
+                            *@
+                            @foreach (var category in Model.Categories)
+                            {
+                                <li><a href="#" name="@category.Description">@category.Description</a></li>
+                            }
                         </ul>
                     </div>
                 </div>
 
                 <div class="col-sm-2">
                     <div class="form-group" style="display:inline-block;width:100%">
-                        <input class="form-control" id="fileFileCreator" style="margin-right:8px;width:100%"
+                        <input name="fileCreator" class="form-control" id="fileFileCreator" style="margin-right:8px;width:100%"
                                placeholder="יוצר הקובץ" oninput="filterUsersNames()" />
                         <ul id="allUsersNames" class="row" style="padding-right:22px;padding-left:6px">
                             @foreach (var user in Model.Users)
@@ -45,17 +50,18 @@
                 </div>
 
                 <div class="col-sm-2">
-                    <input type="date" class="form-control" placeholder="" style="width:100%;min-width: 178px" />
+                    <input name="startDate" type="date" class="form-control" placeholder="" style="width:100%;min-width: 178px" />
                 </div>
                 <p style="position: absolute;color: gray;margin-top:34px;left: 41%">טווח תאריכים של יצירת הקובץ</p>
 
                 <div class="col-sm-2">
-                    <input class="form-control" type="date" placeholder="" style="width:100%;min-width:178px" />
+                    <input name="endDate" class="form-control" type="date" placeholder="" style="width:100%;min-width:178px" />
                 </div>
 
                 <div class="col-sm-3">
-                    <input class="form-control" style="max-width:180px" type="search" placeholder="טקסט חופשי" aria-label="Search">
-                    <button class="btn btn-outline-success my-2 my-sm-0" type="submit" onclick="filter()">חיפוש</button>
+                    @*<input name="freeText" class="form-control" style="max-width:180px" type="search" placeholder="טקסט חופשי" aria-label="Search">*@
+                       <button class="btn btn-outline-success my-2 my-sm-0" type="submit">חיפוש</button>
+                    @Html.ActionLink("חיפוש","Search","Home",new { content="" },new { @class="btn btn-outline-success my-2 my-sm-0", @type="submit" })
                 </div>
             </div>
         </form>
@@ -75,27 +81,34 @@
 
                 <div class="form-group">
                     <label for="" style="direction:rtl">קטגוריה</label>
-                    <input type="text" name="subject" class="form-control" id="exampleInputPassword1" placeholder="הכנס נושא">
+                    <input type="text" name="fileCategory" autocomplete="off" onfocus="showCategories()" class="form-control" id="inputCategory" placeholder="בחר קטגוריה">
+                    <ul class="list-group" id="listCategories"style="padding:0;cursor:pointer">
+                        @foreach (var category in Model.Categories)
+                        {
+                            <li class="list-group-item" onclick="changeCategory(this.textContent)">@category.Description</li>
+                        }
+                    </ul>
                 </div>
-                <ul class="list-group" id="listCategories">
-                    @foreach (var category in Model.categories)
-                    {
-                        <li class="list-group-item">@category.Description</li>
-                    }
-                </ul>
+                
                 <div class="form-group">
                     <label for="">תיאור הקובץ</label>
-                    <input type="text" name="subject" class="form-control" id="exampleInputPassword1" placeholder="הכנס נושא">
+                    <input type="text" name="filedesc" class="form-control" id="exampleInputPassword1" placeholder="הכנס תיאור קובץ" autocomplete="off">
                 </div>
                 <div class="form-group">
                     <label for="">סוג קובץ</label>
-                    <input type="text" name="subject" class="form-control" id="exampleInputPassword1" placeholder="הכנס נושא">
+                    <input type="text" name="fileKind" class="form-control" id="inputFileExtention" placeholder="בחר פורמט קובץ">
+                    <ul class="list-group" id="listExtnentions" style="padding:0;cursor:pointer">
+                        @foreach (var extnetion in Model.Extentions)
+                        {
+                            <li class="list-group-item" onclick="changeFormat(this.textContent)">@extnetion.Extension1</li>
+                        }
+                    </ul>
                 </div>
                 <div class="form-group">
                     <label for="">הערות</label>
-                    <input type="text" name="subject" class="form-control" id="exampleInputPassword1" placeholder="הכנס נושא">
+                    <input type="text" name="remark" class="form-control" id="exampleInputPassword1" placeholder="הכנס נושא">
                 </div>
-                <button type="submit" class="btn btn-primary" style="margin:15px">שלח</button>
+                <button type="submit" class="btn btn-primary" style="margin:15px">צור קובץ  </button>
             </form>
         </div>
     </div>
@@ -133,6 +146,17 @@
     }
 </style>
 <script>
+
+    function changeCategory($event) {
+        document.getElementById('inputCategory').value = $event;
+        var ul = document.getElementById("listCategories");
+        ul.style.display = "none";
+    }
+
+    function changeFormat($) {
+
+    }
+
     $(".dropdown-menu li a").click(function () {
         $(this).parents(".dropdown").find('.form-control').html($(this).text());
         $(this).parents(".dropdown").find('.form-control').val($(this).data('value'));
@@ -142,14 +166,19 @@
         var ul = document.getElementById("listCategories");
         ul.style.display = "none";
     }
-    
+
+    function showCategories() {
+        var ul = document.getElementById("listCategories");
+        ul.style.display = "block";
+    }
+
     function selectUser($event) {
         let currentUser = event.target.textContent;
         currentUser = currentUser.trim();
         document.getElementById('fileFileCreator').value = currentUser;
     }
     function filter(e) {
-        alert()
+        alert('search')
         debugger
         console.log(e)
     }
@@ -184,7 +213,7 @@
     $("#fileFileCreator").keydown(function (e) {
         if (e.keyCode == 40) {
             ul = document.getElementById("allUsersNames");
-            
+
         }
     });
 

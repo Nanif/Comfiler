@@ -17,20 +17,6 @@
         </MappingFragment>
       </EntityTypeMapping>
     </EntitySetMapping>
-    <EntitySetMapping Name="Files">
-      <EntityTypeMapping TypeName="DBcomfilerModel.File">
-        <MappingFragment StoreEntitySet="Files">
-          <ScalarProperty Name="ID" ColumnName="ID" />
-          <ScalarProperty Name="Desctiption" ColumnName="Desctiption" />
-          <ScalarProperty Name="CreatorID" ColumnName="CreatorID" />
-          <ScalarProperty Name="Date_Creation" ColumnName="Date_Creation" />
-          <ScalarProperty Name="UpdateID" ColumnName="UpdateID" />
-          <ScalarProperty Name="Date_Update" ColumnName="Date_Update" />
-          <ScalarProperty Name="ExtensionID" ColumnName="ExtensionID" />
-          <ScalarProperty Name="Version" ColumnName="Version" />
-        </MappingFragment>
-      </EntityTypeMapping>
-    </EntitySetMapping>
     <EntitySetMapping Name="FilesDetails">
       <EntityTypeMapping TypeName="DBcomfilerModel.FilesDetail">
         <MappingFragment StoreEntitySet="FilesDetails">
@@ -130,9 +116,9 @@
         <ScalarProperty Name="ID" ColumnName="RoleID" />
       </EndProperty>
     </AssociationSetMapping>
-    <EntitySetMapping Name="MyFiles">
-      <EntityTypeMapping TypeName="DBcomfilerModel.MyFile">
-        <MappingFragment StoreEntitySet="MyFile">
+    <EntitySetMapping Name="Files">
+      <EntityTypeMapping TypeName="DBcomfilerModel.File">
+        <MappingFragment StoreEntitySet="Files">
           <ScalarProperty Name="Version" ColumnName="Version" />
           <ScalarProperty Name="ExtensionID" ColumnName="ExtensionID" />
           <ScalarProperty Name="Date_Update" ColumnName="Date_Update" />

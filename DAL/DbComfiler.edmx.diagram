@@ -7,7 +7,6 @@
       <Diagram DiagramId="bfb3884108304347beb9f1caf3871b3f" Name="Diagram1">
         <EntityTypeShape EntityType="DBcomfilerModel.Category" Width="1.5" PointX="3" PointY="8.75" IsExpanded="true" />
         <EntityTypeShape EntityType="DBcomfilerModel.Extension" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
-        <EntityTypeShape EntityType="DBcomfilerModel.File" Width="1.5" PointX="3.75" PointY="2.75" IsExpanded="true" />
         <EntityTypeShape EntityType="DBcomfilerModel.FilesDetail" Width="1.5" PointX="5.25" PointY="3.5" IsExpanded="true" />
         <EntityTypeShape EntityType="DBcomfilerModel.History" Width="1.5" PointX="5.25" PointY="6.375" IsExpanded="true" />
         <EntityTypeShape EntityType="DBcomfilerModel.Permission" Width="1.5" PointX="7.75" PointY="1.875" IsExpanded="true" />
@@ -19,20 +18,15 @@
         <EntityTypeShape EntityType="DBcomfilerModel.User" Width="1.5" PointX="0.75" PointY="3.5" IsExpanded="true" />
         <EntityTypeShape EntityType="DBcomfilerModel.UsersRole" Width="1.5" PointX="12.25" PointY="1.875" IsExpanded="true" />
         <AssociationConnector Association="DBcomfilerModel.FK_FilesDetails_tbl_Categories_tbl" ManuallyRouted="false" />
-        <AssociationConnector Association="DBcomfilerModel.FK_Files_Extensions" ManuallyRouted="false" />
-        <AssociationConnector Association="DBcomfilerModel.FK_Files_Users" ManuallyRouted="false" />
-        <AssociationConnector Association="DBcomfilerModel.FK_Files_Users1" ManuallyRouted="false" />
-        <AssociationConnector Association="DBcomfilerModel.FK_FilesDetails_Files" ManuallyRouted="false" />
-        <AssociationConnector Association="DBcomfilerModel.FK_History_Files" ManuallyRouted="false" />
         <AssociationConnector Association="DBcomfilerModel.FK_RelationshipUsersRoles_tbl_Roles_tbl" ManuallyRouted="false" />
         <AssociationConnector Association="DBcomfilerModel.FK_Sharings_ShareLevel" ManuallyRouted="false" />
         <AssociationConnector Association="DBcomfilerModel.Claims" ManuallyRouted="false" />
-        <EntityTypeShape EntityType="DBcomfilerModel.MyFile" Width="1.5" PointX="5.875" PointY="1" />
-        <AssociationConnector Association="DBcomfilerModel.FK_MyFile_Extensions" />
-        <AssociationConnector Association="DBcomfilerModel.FK_History_MyFile" />
-        <AssociationConnector Association="DBcomfilerModel.FK_MyFile_Users" />
-        <AssociationConnector Association="DBcomfilerModel.FK_MyFile_Users1" />
-      </Diagram>
+        <EntityTypeShape EntityType="DBcomfilerModel.File" Width="1.5" PointX="3" PointY="1.5" />
+        <AssociationConnector Association="DBcomfilerModel.FK_Files_Extensions" />
+        <AssociationConnector Association="DBcomfilerModel.FK_Files_Users" />
+        <AssociationConnector Association="DBcomfilerModel.FK_Files_Users1" />
+        <AssociationConnector Association="DBcomfilerModel.FK_History_Files" />
+        </Diagram>
     </edmx:Diagrams>
   </edmx:Designer>
 </edmx:Edmx>

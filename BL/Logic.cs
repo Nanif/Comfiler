@@ -36,7 +36,7 @@ namespace BL
             return null;
         }
 
-        public static User GetUserByUserName(string userName)
+           public static User GetUserByUserName(string userName)
         {
             using (DBcomfilerEntities context = new DBcomfilerEntities())
             {
@@ -81,6 +81,19 @@ namespace BL
                     return files;
             }
             return null;
+        }
+
+        public static List<DAL.Extension> GetAllExtentions()
+        {
+            using (DBcomfilerEntities context = new DBcomfilerEntities())
+            {
+                List<Extension> extentions= context.Extensions.ToList();
+                if (extentions != null)
+                {
+                    return extentions;
+                }
+                return null;
+            }
         }
         #endregion
 

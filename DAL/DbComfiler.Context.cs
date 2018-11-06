@@ -27,7 +27,6 @@ namespace DAL
     
         public virtual DbSet<Category> Categories { get; set; }
         public virtual DbSet<Extension> Extensions { get; set; }
-        public virtual DbSet<File> Files { get; set; }
         public virtual DbSet<FilesDetail> FilesDetails { get; set; }
         public virtual DbSet<History> Histories { get; set; }
         public virtual DbSet<Permission> Permissions { get; set; }
@@ -38,6 +37,6 @@ namespace DAL
         public virtual DbSet<Template> Templates { get; set; }
         public virtual DbSet<User> Users { get; set; }
         public virtual DbSet<UsersRole> UsersRoles { get; set; }
-        public virtual DbSet<MyFile> MyFiles { get; set; }
+        public virtual DbSet<File> Files { get; set; }
     }
 }

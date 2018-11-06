@@ -18,7 +18,6 @@ namespace DAL
         public Extension()
         {
             this.Files = new HashSet<File>();
-            this.MyFiles = new HashSet<MyFile>();
         }
     
         public int ID { get; set; }
@@ -26,7 +25,5 @@ namespace DAL
     
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
         public virtual ICollection<File> Files { get; set; }
-        [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
-        public virtual ICollection<MyFile> MyFiles { get; set; }
     }
 }

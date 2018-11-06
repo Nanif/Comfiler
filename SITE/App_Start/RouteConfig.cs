@@ -18,6 +18,12 @@ namespace SITE
                 url: "{controller}/{action}/{id}",
                 defaults: new { controller = "Home", action = "Index", id = UrlParameter.Optional }
             );
+            routes.MapRoute(
+               name: "Search",
+               url: "{controller}/{action}/{category}/{startDate}/{endDate}/{creator}",
+               defaults: new { controller = "Home", action = "SearchFile",category = UrlParameter.Optional,
+                   startDate = UrlParameter.Optional,endDate = UrlParameter.Optional,
+                   creator = UrlParameter.Optional });
         }
     }
 }

@@ -43,7 +43,7 @@
                             </div>
                         </td>
                         <td>
-                            @Html.ActionLink(" ", "OpenFile",  new { fileName = file.ID }, new { @class = "far fa-file-word" })
+                            @Html.ActionLink(" ", "OpenFile",  new { fileName = file.ID , extention = file.ExtensionID}, new { @class = "far fa-file-word" })
                         </td>
                         <td>@file.Desctiption</td>
                         <td>@file.Date_Creation</td>

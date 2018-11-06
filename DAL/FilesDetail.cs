@@ -20,6 +20,5 @@ namespace DAL
         public string Remarks { get; set; }
     
         public virtual Category Category { get; set; }
-        public virtual File File { get; set; }
     }
 }
