@@ -77,9 +77,9 @@ namespace SITE.Controllers
         {
             try
             {
-                NameValueCollection section = (NameValueCollection)ConfigurationManager.GetSection("FilesPath");
-
-               // List<File> file = BL.FileManager.Search(section["path"], @"^[0-9]*$");
+                string strForSearch = "שלום";
+                string path = @"c:\Users\user1\Documents\GitHub\Comfiler\files\";
+               List<DAL.File> file = BL.FileManager.Search(path, strForSearch);
             }
             catch (Exception ex)
             {

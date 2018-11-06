@@ -119,26 +119,39 @@ namespace BL
             }
             return null;
         }
-        public static IEnumerable<string> Search( string directory,string searchString,bool searchSubdirectories, bool caseSensitive, bool useRegex)
+        public static List<DAL.File> Search(string directory, string searchString)
         {
-            var isMatch = useRegex ? new Predicate<string>(x => Regex.IsMatch(x, @"\b[A-Z0-9._%+-]+@[A-Z0-9.-]+\.[A-Z]{2,}\b"))
+            bool searchSubdirectories = true;
+            bool caseSensitive = true;
+            bool useRegex = true;
+            string docxText = null;
+            List<DAL.File> searchfiles = new List<DAL.File>();
+            var isMatch = useRegex ? new Predicate<string>(x => Regex.IsMatch(x, searchString))
                 : new Predicate<string>(x => x.IndexOf(searchString, caseSensitive ? StringComparison.Ordinal : StringComparison.OrdinalIgnoreCase) >= 0);
             // TODO rekorsive to all the directories in this directory
             foreach (var filePath in Directory.GetFiles(directory, "*.docx", searchSubdirectories ? SearchOption.AllDirectories : SearchOption.TopDirectoryOnly))
             {
-                string docxText;
-
-                using (var stream = System.IO.File.Open(filePath, FileMode.Open, FileAccess.Read, FileShare.ReadWrite))
+                FileStream stream = null;
+                using (stream = System.IO.File.Open(filePath, FileMode.Open, FileAccess.Read, FileShare.ReadWrite))
                 {
-                    if (stream.Length==0)
+                    if (stream.Length == 0)
                     {
                         continue;
                     }
-                    docxText = new DocxToStringConverter(stream).Convert();
+                    docxText = new DocxToStringConverter(stream).Convert();            
                 }
                 if (isMatch(docxText))
-                    yield return filePath;
+                {
+                    using (DBcomfilerEntities context = new DBcomfilerEntities())
+                    {
+                        string idFile = stream.Name.Substring(stream.Name.Length - 41).ToString();
+                        string id = idFile.Remove(idFile.Length - 5);
+                        DAL.File file = context.Files.FirstOrDefault(x => x.ID == id);
+                        searchfiles.Add(file);
+                    }
+                }
             }
+            return searchfiles;
         }
     }
 }
